@@ -1,0 +1,1001 @@
+industry,real_time_requirement,data_volume,latency,security_concern,wireless_wired,energy_constraint,protocol
+Agriculture,Low,Medium,High,Medium,Wired,Medium,MQTT
+Manufacturing,Medium,Medium,Medium,High,Wireless,Low,MQTT
+Energy,Medium,Medium,High,High,Wireless,Low,MQTT
+Energy,Low,High,High,Medium,Wired,Low,PROFINET
+Healthcare,Low,Medium,Low,Medium,Wireless,High,LoRaWAN
+Retail,Low,High,High,Low,Wireless,Medium,OPC UA
+Healthcare,Low,Medium,High,Medium,Wireless,Medium,OPC UA
+Energy,Low,Medium,Low,High,Wireless,Low,PROFINET
+Transportation,High,Medium,High,High,Wired,Medium,OPC UA
+Healthcare,Low,High,Low,Medium,Wireless,High,LoRaWAN
+Manufacturing,Medium,Low,Medium,High,Wireless,Medium,HTTPS
+Retail,High,High,Medium,Medium,Wired,Low,PROFINET
+Manufacturing,High,Medium,Medium,High,Wired,High,MQTT
+Retail,Medium,High,Low,Low,Wired,Medium,PROFINET
+Transportation,Medium,High,Low,High,Wired,Low,PROFINET
+Energy,High,High,Low,Medium,Wired,High,EtherCAT
+Transportation,High,Medium,High,Low,Wired,Low,EtherCAT
+Manufacturing,Medium,Low,High,Low,Wireless,Medium,LoRaWAN
+Energy,Medium,Low,Low,Low,Wired,Medium,PROFINET
+Healthcare,Medium,Medium,Medium,High,Wired,High,HTTPS
+Agriculture,Low,Medium,Low,Medium,Wireless,High,LoRaWAN
+Manufacturing,High,Low,High,High,Wired,Low,HTTPS
+Agriculture,Medium,Medium,Medium,Medium,Wired,Medium,OPC UA
+Transportation,Medium,Medium,High,Medium,Wired,Low,MQTT
+Healthcare,Medium,Medium,Medium,Low,Wired,Medium,HTTPS
+Manufacturing,Medium,Low,High,Medium,Wireless,Low,MQTT
+Energy,Medium,Low,High,Low,Wired,Low,MQTT
+Healthcare,High,Low,Medium,Low,Wireless,Medium,MQTT
+Energy,High,High,Low,Medium,Wired,High,EtherCAT
+Agriculture,Medium,Medium,Low,High,Wired,High,HTTPS
+Agriculture,Low,Low,High,High,Wireless,Low,LoRaWAN
+Manufacturing,High,Medium,Medium,Medium,Wired,High,MQTT
+Retail,High,Medium,Low,High,Wireless,High,OPC UA
+Energy,Low,Low,Low,Medium,Wireless,High,LoRaWAN
+Agriculture,Medium,High,Low,Medium,Wired,Low,PROFINET
+Agriculture,High,Medium,Low,Low,Wired,Medium,EtherCAT
+Manufacturing,High,Low,Low,Low,Wired,Low,EtherCAT
+Energy,Low,High,Low,High,Wired,Low,PROFINET
+Retail,Low,Low,High,Medium,Wired,Low,OPC UA
+Transportation,High,Medium,Low,Medium,Wired,Medium,EtherCAT
+Healthcare,Medium,Medium,Medium,Low,Wired,Medium,EtherCAT
+Healthcare,Low,High,Medium,High,Wireless,High,LoRaWAN
+Healthcare,Medium,Low,Low,Low,Wireless,Medium,OPC UA
+Transportation,High,High,Low,High,Wireless,High,OPC UA
+Retail,High,High,Low,Medium,Wireless,Medium,EtherCAT
+Healthcare,Medium,Low,High,High,Wireless,Medium,HTTPS
+Energy,Medium,High,High,High,Wired,Low,PROFINET
+Transportation,Medium,High,High,Low,Wired,High,PROFINET
+Agriculture,Medium,High,Low,High,Wired,Medium,PROFINET
+Energy,Low,Medium,Low,Medium,Wired,Low,HTTPS
+Retail,High,Low,Low,Medium,Wired,Low,EtherCAT
+Healthcare,Low,Low,Medium,High,Wireless,Medium,HTTPS
+Energy,Low,Low,Low,Medium,Wired,Medium,EtherCAT
+Energy,Low,Low,Medium,High,Wired,High,PROFINET
+Healthcare,Low,Low,Low,Low,Wired,High,OPC UA
+Manufacturing,Low,High,High,Low,Wireless,High,LoRaWAN
+Agriculture,High,Low,Medium,Low,Wireless,Low,LoRaWAN
+Manufacturing,High,Medium,Low,High,Wired,Low,OPC UA
+Agriculture,Low,Low,Low,Low,Wired,Low,OPC UA
+Energy,High,Low,Medium,High,Wireless,High,EtherCAT
+Energy,Low,Medium,Medium,High,Wireless,Medium,PROFINET
+Energy,Low,Medium,Medium,Low,Wired,High,PROFINET
+Healthcare,High,Low,Medium,Medium,Wired,Medium,HTTPS
+Healthcare,High,Medium,Medium,Low,Wired,Medium,HTTPS
+Transportation,High,High,Low,Medium,Wireless,Low,EtherCAT
+Agriculture,Low,Medium,High,Medium,Wired,Medium,PROFINET
+Energy,High,High,High,High,Wired,High,PROFINET
+Retail,Low,Low,Medium,Medium,Wired,Low,OPC UA
+Healthcare,Low,Medium,Medium,High,Wired,High,PROFINET
+Agriculture,Low,Medium,Low,High,Wireless,High,LoRaWAN
+Healthcare,Low,Medium,Medium,High,Wired,Medium,OPC UA
+Transportation,Medium,Medium,Low,Medium,Wireless,High,OPC UA
+Manufacturing,Low,Medium,Low,High,Wired,Low,LoRaWAN
+Retail,High,High,Low,Low,Wired,Low,EtherCAT
+Transportation,High,Low,Medium,High,Wired,Medium,HTTPS
+Agriculture,High,Low,Medium,High,Wired,Low,EtherCAT
+Manufacturing,Low,High,Low,Low,Wired,High,PROFINET
+Healthcare,Low,High,Low,Medium,Wired,Low,PROFINET
+Transportation,High,Medium,High,Low,Wired,High,HTTPS
+Manufacturing,Low,Low,Low,Medium,Wired,Low,LoRaWAN
+Healthcare,Low,Medium,High,High,Wireless,Medium,LoRaWAN
+Healthcare,High,Low,Low,Low,Wireless,Low,EtherCAT
+Retail,Medium,Medium,High,Medium,Wireless,Low,MQTT
+Agriculture,Low,Medium,Medium,Low,Wired,High,HTTPS
+Energy,Medium,High,Low,High,Wireless,Low,MQTT
+Agriculture,Medium,Medium,Low,Low,Wireless,High,PROFINET
+Agriculture,Medium,High,High,Low,Wired,Medium,PROFINET
+Retail,Low,Medium,Medium,High,Wired,Medium,OPC UA
+Healthcare,Low,High,Low,Medium,Wired,Medium,PROFINET
+Agriculture,Low,High,Low,Medium,Wired,High,PROFINET
+Manufacturing,Low,Low,Medium,Low,Wired,High,EtherCAT
+Healthcare,High,Medium,Medium,Low,Wireless,Low,PROFINET
+Energy,High,Low,Medium,Low,Wired,Medium,PROFINET
+Retail,High,Medium,Low,High,Wireless,High,OPC UA
+Transportation,High,Low,Low,Medium,Wireless,Low,EtherCAT
+Manufacturing,Medium,Medium,Low,Medium,Wired,Medium,EtherCAT
+Energy,Low,Low,Low,High,Wireless,Medium,OPC UA
+Energy,High,High,Medium,High,Wired,High,PROFINET
+Manufacturing,High,Medium,Medium,Medium,Wireless,Medium,HTTPS
+Healthcare,Medium,High,Low,Medium,Wireless,Low,MQTT
+Energy,Medium,High,High,Low,Wired,High,PROFINET
+Retail,Low,Medium,Low,Low,Wireless,Medium,OPC UA
+Energy,Low,High,Low,Medium,Wired,High,PROFINET
+Transportation,High,Medium,Low,Medium,Wireless,Medium,EtherCAT
+Energy,High,High,High,High,Wireless,Low,PROFINET
+Agriculture,Medium,Low,High,Medium,Wired,High,OPC UA
+Transportation,Medium,Low,High,High,Wireless,Low,MQTT
+Agriculture,Low,Medium,High,High,Wireless,Medium,HTTPS
+Healthcare,Medium,Medium,Medium,High,Wired,Low,MQTT
+Retail,Low,High,Low,High,Wired,High,PROFINET
+Healthcare,High,Low,Low,Low,Wired,Low,EtherCAT
+Manufacturing,Low,Medium,Low,Medium,Wireless,Medium,OPC UA
+Transportation,Medium,High,Low,High,Wireless,Low,MQTT
+Transportation,Low,Medium,High,Medium,Wireless,Medium,LoRaWAN
+Transportation,Medium,Low,Low,Medium,Wireless,High,PROFINET
+Energy,High,High,High,Medium,Wireless,High,LoRaWAN
+Retail,High,High,High,Medium,Wired,Low,PROFINET
+Healthcare,Low,High,Medium,Low,Wireless,Medium,LoRaWAN
+Manufacturing,Medium,Medium,High,Medium,Wired,Low,MQTT
+Energy,High,Low,Medium,Medium,Wireless,Medium,OPC UA
+Manufacturing,Medium,Low,Low,Low,Wired,Medium,LoRaWAN
+Energy,High,Low,High,Low,Wired,Medium,MQTT
+Energy,Medium,Medium,High,Low,Wireless,High,EtherCAT
+Retail,Medium,Medium,Low,Medium,Wired,Low,MQTT
+Energy,High,Low,High,Low,Wireless,High,OPC UA
+Retail,High,High,High,High,Wireless,Medium,PROFINET
+Retail,Low,High,Medium,Medium,Wireless,High,LoRaWAN
+Manufacturing,High,Medium,Low,High,Wireless,Medium,OPC UA
+Energy,Medium,Medium,Medium,High,Wired,Low,MQTT
+Manufacturing,Low,Low,Medium,Medium,Wireless,Low,EtherCAT
+Retail,Low,Low,Low,Medium,Wireless,Low,MQTT
+Retail,Low,Low,High,Medium,Wireless,Low,OPC UA
+Transportation,Low,Low,High,Medium,Wired,High,OPC UA
+Agriculture,Low,High,Low,Medium,Wireless,Medium,PROFINET
+Retail,Low,Low,Medium,Low,Wireless,High,LoRaWAN
+Manufacturing,High,Medium,Medium,Low,Wired,Medium,PROFINET
+Retail,High,High,Medium,High,Wireless,High,PROFINET
+Healthcare,Low,Medium,Low,Medium,Wireless,Low,EtherCAT
+Agriculture,Medium,Low,High,Low,Wired,Low,MQTT
+Healthcare,Low,High,Low,Medium,Wireless,High,LoRaWAN
+Healthcare,Medium,Medium,High,High,Wired,High,HTTPS
+Healthcare,Medium,Medium,Medium,Medium,Wired,Medium,HTTPS
+Agriculture,Low,Medium,Medium,Medium,Wireless,Low,HTTPS
+Transportation,Medium,Low,High,Low,Wired,Low,MQTT
+Manufacturing,Medium,Low,High,High,Wired,Low,MQTT
+Agriculture,Medium,High,Medium,High,Wired,High,PROFINET
+Healthcare,Medium,Low,Medium,Medium,Wired,Low,MQTT
+Transportation,Low,Medium,Low,Medium,Wireless,Medium,EtherCAT
+Manufacturing,High,Medium,Medium,Low,Wired,Medium,OPC UA
+Agriculture,High,Low,High,High,Wired,Low,OPC UA
+Transportation,High,High,High,High,Wireless,High,OPC UA
+Agriculture,High,Low,Low,High,Wireless,Low,OPC UA
+Manufacturing,High,Medium,Low,Low,Wired,High,EtherCAT
+Transportation,Low,High,Low,High,Wireless,Medium,MQTT
+Transportation,Medium,Medium,Medium,Low,Wireless,High,OPC UA
+Retail,High,Medium,Medium,High,Wired,High,PROFINET
+Energy,Medium,Medium,Medium,Medium,Wireless,Medium,EtherCAT
+Healthcare,Low,High,High,Low,Wired,Medium,PROFINET
+Agriculture,Low,Low,High,Low,Wired,High,EtherCAT
+Energy,Medium,High,Medium,Low,Wired,Medium,PROFINET
+Transportation,Medium,High,Low,High,Wireless,High,HTTPS
+Agriculture,Low,Low,High,Low,Wireless,Low,HTTPS
+Manufacturing,Medium,High,Medium,Low,Wireless,High,OPC UA
+Agriculture,High,High,Low,High,Wired,Low,OPC UA
+Transportation,Low,Low,High,Medium,Wireless,High,LoRaWAN
+Healthcare,Medium,Low,Medium,Low,Wireless,High,MQTT
+Agriculture,High,High,Medium,Low,Wired,High,PROFINET
+Healthcare,High,Low,Low,Medium,Wired,High,EtherCAT
+Healthcare,High,High,Medium,Medium,Wired,Low,PROFINET
+Agriculture,High,High,Medium,Low,Wireless,High,LoRaWAN
+Agriculture,Low,High,High,Medium,Wired,High,PROFINET
+Energy,High,Low,High,Medium,Wireless,High,OPC UA
+Agriculture,Medium,High,Medium,Medium,Wired,Low,PROFINET
+Retail,High,High,Medium,High,Wired,Low,PROFINET
+Retail,Low,Low,Low,High,Wireless,High,LoRaWAN
+Energy,Low,High,Medium,High,Wired,Medium,PROFINET
+Retail,Low,Medium,High,Low,Wireless,Medium,HTTPS
+Transportation,High,Low,Medium,Low,Wired,Medium,PROFINET
+Retail,Medium,Low,High,Medium,Wireless,High,HTTPS
+Retail,Low,Low,Medium,High,Wireless,Low,LoRaWAN
+Transportation,Low,Medium,High,High,Wireless,Medium,MQTT
+Transportation,Low,High,High,Low,Wireless,Medium,OPC UA
+Healthcare,High,High,Low,High,Wired,High,OPC UA
+Healthcare,High,Medium,High,Low,Wired,High,HTTPS
+Transportation,High,High,Low,High,Wired,High,OPC UA
+Energy,Low,Medium,High,High,Wireless,High,LoRaWAN
+Manufacturing,Low,High,Medium,High,Wired,High,PROFINET
+Energy,Low,High,High,Medium,Wireless,High,LoRaWAN
+Agriculture,High,High,Medium,Low,Wireless,Medium,EtherCAT
+Retail,Low,High,Medium,Medium,Wired,High,PROFINET
+Transportation,Low,High,High,Medium,Wireless,Low,PROFINET
+Retail,Low,High,Low,Low,Wired,Low,PROFINET
+Transportation,Low,Medium,High,High,Wired,Medium,PROFINET
+Energy,Medium,High,Medium,Medium,Wired,High,PROFINET
+Healthcare,Medium,Low,Medium,Low,Wired,Low,MQTT
+Transportation,High,Low,Low,Medium,Wireless,High,EtherCAT
+Manufacturing,High,High,High,Medium,Wired,Medium,PROFINET
+Agriculture,High,High,Low,Low,Wired,Low,EtherCAT
+Energy,Medium,High,Medium,High,Wireless,Low,MQTT
+Agriculture,Medium,High,Low,Low,Wireless,Low,MQTT
+Manufacturing,Medium,High,High,Low,Wired,Low,PROFINET
+Retail,Medium,Low,Medium,High,Wireless,Low,MQTT
+Energy,High,Low,Low,Low,Wired,Low,EtherCAT
+Agriculture,Medium,Medium,High,Medium,Wireless,Low,MQTT
+Healthcare,High,Low,Low,Medium,Wired,Low,EtherCAT
+Energy,Low,Medium,High,Medium,Wired,Medium,MQTT
+Transportation,Medium,Low,Medium,Medium,Wired,Medium,EtherCAT
+Healthcare,Medium,Low,Low,High,Wired,Low,MQTT
+Retail,High,Low,Low,Low,Wired,Medium,EtherCAT
+Retail,Medium,Low,Medium,Low,Wireless,High,LoRaWAN
+Retail,Medium,High,Low,High,Wireless,High,HTTPS
+Healthcare,High,Low,Medium,High,Wireless,Medium,MQTT
+Healthcare,High,Low,Medium,Medium,Wired,Low,OPC UA
+Manufacturing,Low,Low,High,Low,Wired,Medium,PROFINET
+Healthcare,Low,Low,High,High,Wired,Low,MQTT
+Healthcare,Medium,Low,High,High,Wireless,Low,MQTT
+Manufacturing,Medium,High,High,Low,Wired,Low,PROFINET
+Energy,Medium,Low,High,Medium,Wireless,Medium,LoRaWAN
+Agriculture,Medium,Medium,Medium,Medium,Wireless,Low,MQTT
+Healthcare,Medium,Low,High,Low,Wireless,Low,MQTT
+Agriculture,Medium,Low,High,High,Wireless,High,HTTPS
+Manufacturing,Medium,Medium,High,High,Wireless,Medium,HTTPS
+Healthcare,High,High,Medium,High,Wireless,Medium,EtherCAT
+Transportation,Low,Low,High,Medium,Wired,High,OPC UA
+Manufacturing,Low,High,High,High,Wireless,Medium,EtherCAT
+Healthcare,High,Medium,Low,High,Wired,Low,OPC UA
+Healthcare,Medium,Medium,Medium,Low,Wireless,Medium,LoRaWAN
+Energy,Low,Medium,Low,High,Wireless,Low,MQTT
+Retail,High,Medium,Low,Medium,Wireless,Low,EtherCAT
+Healthcare,Low,Medium,Medium,Medium,Wired,Low,LoRaWAN
+Manufacturing,Low,Medium,High,Low,Wireless,Medium,MQTT
+Healthcare,High,Medium,Medium,Low,Wired,High,LoRaWAN
+Healthcare,High,Medium,Low,High,Wired,High,OPC UA
+Healthcare,Medium,Low,High,Low,Wireless,Low,MQTT
+Transportation,Medium,Medium,High,Medium,Wireless,Low,MQTT
+Energy,Medium,Low,Medium,High,Wireless,Low,MQTT
+Energy,High,High,Low,Low,Wireless,High,EtherCAT
+Retail,Medium,Medium,Medium,High,Wireless,Medium,HTTPS
+Retail,Low,High,High,High,Wireless,Low,HTTPS
+Retail,Medium,Low,Low,Medium,Wireless,Medium,OPC UA
+Agriculture,Medium,High,Low,High,Wired,Low,PROFINET
+Healthcare,Low,Medium,High,Low,Wired,High,OPC UA
+Energy,Medium,High,Low,Medium,Wired,Medium,PROFINET
+Agriculture,Low,High,Medium,High,Wireless,Low,MQTT
+Energy,Low,Low,Low,Medium,Wired,High,PROFINET
+Energy,Low,Medium,High,High,Wireless,High,LoRaWAN
+Transportation,Medium,High,Medium,High,Wireless,High,HTTPS
+Healthcare,Low,High,Low,Medium,Wired,Medium,PROFINET
+Agriculture,Low,Low,Medium,Medium,Wired,Medium,EtherCAT
+Transportation,Low,Low,Medium,High,Wireless,High,LoRaWAN
+Manufacturing,Medium,High,Medium,Low,Wireless,Low,MQTT
+Energy,Low,Low,High,High,Wired,Medium,OPC UA
+Energy,Low,High,High,Low,Wired,High,PROFINET
+Healthcare,Medium,Medium,High,Medium,Wireless,Medium,MQTT
+Retail,High,Low,Medium,Medium,Wired,High,OPC UA
+Retail,High,High,Low,High,Wireless,High,OPC UA
+Energy,Medium,Medium,High,Medium,Wireless,Medium,EtherCAT
+Manufacturing,High,Medium,Low,High,Wired,High,OPC UA
+Energy,High,Medium,Low,High,Wired,High,OPC UA
+Healthcare,Medium,Medium,Medium,Low,Wired,Medium,EtherCAT
+Manufacturing,High,Low,Medium,Low,Wired,Low,OPC UA
+Agriculture,Medium,Medium,High,Medium,Wired,Low,MQTT
+Manufacturing,Medium,Low,Low,Medium,Wireless,Low,MQTT
+Transportation,Low,High,Low,High,Wired,Low,PROFINET
+Retail,Low,Low,Low,Low,Wireless,High,LoRaWAN
+Energy,Medium,Low,High,Low,Wired,High,LoRaWAN
+Agriculture,Medium,Low,High,Medium,Wireless,Medium,EtherCAT
+Energy,Medium,Medium,Low,Low,Wireless,Low,MQTT
+Healthcare,Low,Medium,Low,High,Wired,Low,OPC UA
+Agriculture,Low,Medium,Medium,Low,Wireless,High,LoRaWAN
+Energy,Medium,Low,Medium,Medium,Wireless,High,LoRaWAN
+Transportation,High,Medium,Medium,Medium,Wired,High,HTTPS
+Retail,Medium,High,Medium,Low,Wired,Medium,PROFINET
+Retail,Low,High,Low,Low,Wireless,Low,LoRaWAN
+Retail,Low,Medium,Low,Low,Wireless,High,LoRaWAN
+Transportation,High,High,High,Medium,Wireless,Low,HTTPS
+Agriculture,High,High,Medium,Low,Wireless,High,HTTPS
+Manufacturing,Medium,High,Low,High,Wired,High,PROFINET
+Agriculture,Low,Medium,High,High,Wireless,Low,OPC UA
+Agriculture,Low,High,High,Low,Wired,Low,PROFINET
+Energy,Low,Low,High,High,Wired,Medium,EtherCAT
+Healthcare,Low,Medium,Low,Medium,Wired,Medium,OPC UA
+Retail,Medium,High,High,High,Wired,Medium,PROFINET
+Healthcare,Medium,Medium,Medium,High,Wireless,High,HTTPS
+Healthcare,Medium,High,Medium,High,Wired,High,PROFINET
+Healthcare,High,Low,Medium,Medium,Wireless,Low,LoRaWAN
+Energy,High,Low,Low,Medium,Wired,High,EtherCAT
+Manufacturing,Medium,Low,High,Medium,Wired,Low,MQTT
+Transportation,Low,Medium,Low,High,Wired,Low,HTTPS
+Healthcare,Low,Medium,Medium,Medium,Wired,Low,PROFINET
+Agriculture,Low,High,High,Medium,Wireless,Medium,MQTT
+Healthcare,High,Medium,High,Low,Wired,High,LoRaWAN
+Retail,High,Low,Medium,Medium,Wired,Low,LoRaWAN
+Healthcare,Low,Low,Medium,High,Wired,High,PROFINET
+Healthcare,Medium,Medium,Medium,Medium,Wired,High,OPC UA
+Energy,Low,Low,Low,Medium,Wireless,Low,EtherCAT
+Energy,Low,Medium,High,Low,Wired,Low,EtherCAT
+Transportation,High,Medium,High,Low,Wireless,High,OPC UA
+Agriculture,Low,Medium,High,High,Wireless,High,LoRaWAN
+Healthcare,High,Low,Low,Medium,Wired,Low,EtherCAT
+Manufacturing,Low,Medium,High,Low,Wired,Low,HTTPS
+Healthcare,Medium,Low,Medium,Low,Wireless,Medium,LoRaWAN
+Energy,High,Medium,High,Medium,Wired,Low,OPC UA
+Agriculture,Medium,Low,Low,Low,Wired,High,OPC UA
+Agriculture,Medium,Medium,Medium,Medium,Wired,Low,MQTT
+Manufacturing,Low,High,High,Medium,Wired,Low,PROFINET
+Energy,High,Low,Medium,High,Wireless,High,HTTPS
+Transportation,High,High,High,Low,Wired,Low,PROFINET
+Retail,Low,Low,High,High,Wired,High,LoRaWAN
+Agriculture,Medium,High,Medium,Low,Wired,High,PROFINET
+Energy,Low,Medium,Low,High,Wireless,Medium,LoRaWAN
+Agriculture,Medium,Medium,High,Medium,Wireless,High,OPC UA
+Manufacturing,Medium,High,Low,Medium,Wired,Medium,PROFINET
+Manufacturing,Low,Low,Low,Low,Wireless,Medium,OPC UA
+Energy,Medium,Medium,Low,Low,Wired,Medium,LoRaWAN
+Manufacturing,High,Medium,Medium,High,Wired,High,HTTPS
+Transportation,Medium,Low,Low,Medium,Wireless,High,EtherCAT
+Transportation,Medium,High,Medium,High,Wired,High,PROFINET
+Transportation,Low,High,Low,High,Wired,Medium,PROFINET
+Energy,Medium,High,Medium,Low,Wireless,High,EtherCAT
+Retail,Low,High,Low,Medium,Wireless,Low,LoRaWAN
+Energy,High,High,Medium,High,Wireless,Medium,PROFINET
+Manufacturing,Medium,High,Medium,High,Wireless,Low,MQTT
+Agriculture,Medium,Low,Medium,Medium,Wireless,Low,MQTT
+Transportation,Low,Low,Medium,Low,Wired,Medium,MQTT
+Agriculture,Medium,Low,High,Low,Wireless,Low,MQTT
+Retail,Low,Low,High,Medium,Wired,Low,EtherCAT
+Healthcare,Low,High,Low,High,Wired,Medium,PROFINET
+Agriculture,High,Medium,High,Low,Wired,Medium,LoRaWAN
+Agriculture,High,High,Medium,High,Wireless,Low,PROFINET
+Healthcare,Medium,High,High,Medium,Wireless,High,PROFINET
+Energy,High,High,Medium,High,Wireless,Low,LoRaWAN
+Transportation,Low,High,Low,Medium,Wireless,Low,MQTT
+Retail,Medium,High,High,Medium,Wired,Medium,PROFINET
+Manufacturing,High,High,Low,Low,Wired,Medium,EtherCAT
+Energy,High,Medium,High,Low,Wireless,Low,LoRaWAN
+Retail,Low,High,Low,Low,Wireless,Low,MQTT
+Agriculture,High,Low,Medium,Medium,Wireless,High,MQTT
+Healthcare,High,Medium,High,Low,Wired,Low,LoRaWAN
+Energy,High,Low,High,Medium,Wireless,High,OPC UA
+Agriculture,Low,Low,High,Medium,Wired,Low,HTTPS
+Healthcare,Low,High,Low,Low,Wireless,High,LoRaWAN
+Transportation,Low,Medium,Medium,High,Wireless,Medium,OPC UA
+Energy,Low,Low,Low,Low,Wired,Low,HTTPS
+Transportation,Low,High,Medium,High,Wireless,Low,PROFINET
+Transportation,High,Low,Medium,High,Wired,Low,OPC UA
+Retail,High,Medium,High,Medium,Wireless,High,OPC UA
+Transportation,Low,Low,Medium,Medium,Wireless,Medium,LoRaWAN
+Retail,Low,Medium,Medium,High,Wired,Medium,EtherCAT
+Retail,Medium,High,High,High,Wired,Medium,PROFINET
+Transportation,Low,Low,Low,Low,Wired,Low,PROFINET
+Retail,Low,Medium,Medium,High,Wired,Medium,OPC UA
+Transportation,High,Low,Medium,High,Wired,Low,LoRaWAN
+Manufacturing,High,High,Medium,High,Wireless,High,LoRaWAN
+Healthcare,Low,High,Medium,Medium,Wired,Low,PROFINET
+Retail,High,Medium,High,Medium,Wireless,Low,MQTT
+Manufacturing,Medium,Low,High,High,Wired,Medium,HTTPS
+Manufacturing,Medium,Low,Medium,High,Wireless,Low,MQTT
+Transportation,Low,High,Medium,Low,Wired,Medium,PROFINET
+Healthcare,Medium,High,Medium,High,Wired,Low,PROFINET
+Retail,Low,High,Low,High,Wireless,High,LoRaWAN
+Retail,Medium,High,High,Low,Wired,High,PROFINET
+Manufacturing,Medium,Medium,Low,Medium,Wireless,Low,MQTT
+Agriculture,High,Low,High,High,Wired,Medium,PROFINET
+Energy,High,High,High,Low,Wired,Low,PROFINET
+Retail,Low,Medium,High,Low,Wireless,Low,HTTPS
+Agriculture,Low,Medium,High,High,Wired,Medium,HTTPS
+Manufacturing,Medium,High,High,Low,Wireless,Medium,OPC UA
+Agriculture,High,Low,High,High,Wireless,High,HTTPS
+Agriculture,Low,High,Medium,High,Wired,Medium,PROFINET
+Manufacturing,Low,Low,High,Low,Wired,Low,EtherCAT
+Manufacturing,High,Medium,High,Medium,Wired,Medium,EtherCAT
+Manufacturing,Medium,Medium,High,High,Wireless,Medium,HTTPS
+Transportation,High,Medium,Medium,High,Wired,High,EtherCAT
+Manufacturing,High,High,High,Medium,Wired,Medium,PROFINET
+Retail,Low,High,High,High,Wireless,High,LoRaWAN
+Agriculture,High,Medium,Medium,High,Wired,Low,OPC UA
+Manufacturing,Medium,Medium,High,Low,Wireless,Low,MQTT
+Agriculture,High,Low,High,Low,Wireless,Low,EtherCAT
+Manufacturing,Medium,High,Low,High,Wireless,Low,MQTT
+Retail,Medium,Low,Medium,Medium,Wired,Medium,HTTPS
+Healthcare,Medium,High,Low,Low,Wired,Medium,PROFINET
+Energy,Medium,High,Medium,Medium,Wired,Low,PROFINET
+Transportation,Medium,Low,Medium,High,Wired,Medium,HTTPS
+Healthcare,High,Medium,Low,Low,Wired,Low,EtherCAT
+Agriculture,Low,High,Medium,Low,Wireless,Medium,OPC UA
+Healthcare,High,High,High,Low,Wired,Medium,PROFINET
+Transportation,High,High,Medium,Medium,Wireless,Low,OPC UA
+Manufacturing,High,Medium,Low,High,Wireless,High,OPC UA
+Energy,Medium,Medium,High,High,Wireless,High,HTTPS
+Energy,Medium,Low,High,Low,Wireless,High,LoRaWAN
+Healthcare,High,Medium,Low,Medium,Wired,High,EtherCAT
+Retail,High,Medium,Low,Medium,Wireless,Medium,EtherCAT
+Healthcare,Medium,Low,Low,Low,Wireless,Medium,MQTT
+Energy,Low,High,High,Low,Wired,Medium,PROFINET
+Transportation,Low,Low,High,High,Wireless,Medium,LoRaWAN
+Transportation,Low,High,Medium,High,Wired,Medium,PROFINET
+Retail,Low,Medium,High,High,Wired,Low,OPC UA
+Agriculture,Low,Low,Medium,Medium,Wireless,High,LoRaWAN
+Healthcare,Low,Medium,Low,Medium,Wired,Low,LoRaWAN
+Energy,Medium,High,High,High,Wireless,High,HTTPS
+Manufacturing,Low,Low,Medium,Low,Wireless,Low,OPC UA
+Agriculture,Medium,Medium,Low,High,Wireless,Medium,HTTPS
+Manufacturing,Low,Medium,Medium,High,Wired,Medium,EtherCAT
+Retail,High,Medium,High,Medium,Wireless,Medium,HTTPS
+Healthcare,Low,High,Medium,Medium,Wired,Low,PROFINET
+Healthcare,Low,Medium,Low,Medium,Wireless,Low,HTTPS
+Retail,Medium,High,Medium,Medium,Wired,Medium,PROFINET
+Healthcare,High,High,Medium,Low,Wireless,High,OPC UA
+Transportation,Low,Medium,Low,Low,Wireless,Medium,MQTT
+Agriculture,High,Low,Low,Medium,Wired,High,EtherCAT
+Manufacturing,High,Medium,Medium,Medium,Wired,High,MQTT
+Manufacturing,Medium,Medium,Medium,Low,Wired,Medium,LoRaWAN
+Manufacturing,High,High,Medium,Low,Wireless,Medium,HTTPS
+Healthcare,High,Medium,Medium,High,Wired,High,MQTT
+Manufacturing,High,High,Medium,High,Wired,Low,PROFINET
+Agriculture,High,Medium,Medium,Medium,Wireless,High,LoRaWAN
+Agriculture,High,Medium,Low,Low,Wireless,High,EtherCAT
+Energy,High,High,Medium,High,Wireless,High,MQTT
+Transportation,Medium,High,Medium,Medium,Wireless,Medium,EtherCAT
+Manufacturing,Low,High,Medium,Medium,Wired,Medium,PROFINET
+Retail,High,Low,Low,Low,Wired,High,EtherCAT
+Retail,Low,Low,High,Medium,Wired,High,MQTT
+Manufacturing,High,High,Medium,Medium,Wireless,High,LoRaWAN
+Manufacturing,High,Medium,Medium,Low,Wireless,High,MQTT
+Manufacturing,Low,Medium,Medium,High,Wired,High,HTTPS
+Retail,Medium,Medium,High,Low,Wireless,High,OPC UA
+Transportation,Low,Low,Medium,High,Wired,Medium,MQTT
+Agriculture,Medium,Low,High,Medium,Wired,Medium,EtherCAT
+Manufacturing,Low,Medium,High,Medium,Wired,High,HTTPS
+Healthcare,Low,Low,Low,Low,Wired,High,HTTPS
+Energy,Medium,Low,High,Low,Wired,Medium,HTTPS
+Energy,High,High,High,Low,Wireless,High,OPC UA
+Manufacturing,High,Low,High,High,Wireless,Low,LoRaWAN
+Transportation,Low,High,Low,Medium,Wireless,Medium,HTTPS
+Agriculture,High,High,High,High,Wireless,Medium,MQTT
+Manufacturing,Low,Medium,Low,Medium,Wired,High,OPC UA
+Manufacturing,Medium,High,Low,Medium,Wired,Medium,PROFINET
+Healthcare,Low,High,High,High,Wired,High,PROFINET
+Energy,Medium,Low,High,High,Wired,High,HTTPS
+Energy,High,High,Medium,Low,Wireless,Low,MQTT
+Agriculture,High,High,High,Low,Wired,Medium,PROFINET
+Transportation,Medium,High,High,Low,Wireless,Low,MQTT
+Healthcare,Medium,High,Medium,High,Wireless,High,HTTPS
+Agriculture,Low,Low,High,High,Wireless,High,LoRaWAN
+Retail,Medium,Low,Low,Medium,Wireless,Medium,PROFINET
+Manufacturing,Medium,High,High,Low,Wireless,Medium,PROFINET
+Manufacturing,High,Medium,Low,Medium,Wireless,High,EtherCAT
+Retail,High,Medium,Medium,High,Wired,Medium,OPC UA
+Healthcare,High,Low,High,Medium,Wired,Medium,HTTPS
+Retail,High,Low,Medium,High,Wireless,Low,HTTPS
+Retail,High,High,Low,Medium,Wireless,High,EtherCAT
+Retail,Low,Low,Medium,Medium,Wireless,Medium,LoRaWAN
+Agriculture,Low,Medium,Low,Medium,Wireless,Medium,LoRaWAN
+Agriculture,Medium,Medium,Low,Low,Wireless,Medium,HTTPS
+Transportation,Medium,High,High,Medium,Wired,High,PROFINET
+Manufacturing,Medium,Low,Medium,Low,Wired,Low,MQTT
+Retail,High,High,Low,High,Wired,Low,OPC UA
+Retail,Low,Low,Low,High,Wireless,Low,LoRaWAN
+Transportation,High,Medium,High,Low,Wireless,Low,MQTT
+Healthcare,Medium,Medium,High,Low,Wireless,Low,MQTT
+Agriculture,Medium,Low,Medium,Medium,Wired,Medium,OPC UA
+Agriculture,Medium,Low,Low,Medium,Wireless,Low,MQTT
+Healthcare,Low,Medium,Medium,High,Wireless,Low,LoRaWAN
+Retail,Low,High,Medium,High,Wired,Medium,PROFINET
+Transportation,Medium,High,Medium,High,Wired,High,PROFINET
+Energy,Low,High,High,Low,Wired,High,PROFINET
+Energy,Low,Medium,High,Medium,Wireless,Medium,OPC UA
+Healthcare,Medium,Medium,Low,High,Wired,Low,MQTT
+Healthcare,High,Low,High,Low,Wireless,Medium,HTTPS
+Energy,Medium,High,Low,Low,Wireless,Medium,MQTT
+Agriculture,High,Medium,Medium,Low,Wired,High,OPC UA
+Energy,Low,Medium,Medium,Medium,Wired,Low,EtherCAT
+Healthcare,Low,Low,High,Medium,Wireless,Medium,EtherCAT
+Manufacturing,Low,High,High,Low,Wireless,Medium,PROFINET
+Manufacturing,Low,Low,Low,Low,Wired,Low,HTTPS
+Agriculture,Medium,Low,High,Low,Wired,High,MQTT
+Transportation,High,High,Low,Low,Wired,Medium,EtherCAT
+Transportation,High,High,Low,Medium,Wireless,High,EtherCAT
+Energy,Medium,Low,Low,High,Wireless,Low,MQTT
+Manufacturing,Low,Low,Medium,High,Wired,Medium,LoRaWAN
+Manufacturing,High,Medium,Low,High,Wireless,Medium,OPC UA
+Energy,High,High,High,Low,Wireless,Medium,HTTPS
+Transportation,Medium,High,Low,Low,Wired,Low,PROFINET
+Healthcare,Medium,High,Low,Medium,Wired,High,PROFINET
+Agriculture,Low,Low,Low,Low,Wired,Medium,OPC UA
+Manufacturing,Low,Low,High,Low,Wired,Low,LoRaWAN
+Healthcare,Low,Medium,High,High,Wired,High,LoRaWAN
+Transportation,Low,High,High,Medium,Wireless,High,LoRaWAN
+Healthcare,High,High,Medium,High,Wired,Medium,PROFINET
+Agriculture,Low,High,Low,High,Wired,Low,PROFINET
+Energy,Low,High,Low,Low,Wired,Low,PROFINET
+Agriculture,High,High,Medium,Medium,Wireless,Medium,EtherCAT
+Retail,High,Medium,Low,Low,Wireless,High,EtherCAT
+Agriculture,Medium,High,Low,Medium,Wired,Low,PROFINET
+Transportation,Medium,High,Medium,High,Wireless,Low,MQTT
+Energy,High,Medium,High,Medium,Wired,Medium,HTTPS
+Energy,Low,Medium,Low,High,Wired,Low,LoRaWAN
+Agriculture,Low,Low,Low,High,Wireless,Low,MQTT
+Healthcare,Medium,High,High,Low,Wired,Low,PROFINET
+Agriculture,Low,Low,Low,Medium,Wireless,Medium,PROFINET
+Retail,High,High,High,Low,Wireless,Medium,HTTPS
+Retail,High,Low,Low,High,Wireless,Low,OPC UA
+Healthcare,Low,Low,Low,High,Wired,High,OPC UA
+Energy,Medium,Medium,High,Low,Wired,Low,MQTT
+Agriculture,Low,High,Low,Medium,Wired,High,PROFINET
+Agriculture,Medium,Medium,Low,Medium,Wired,Low,MQTT
+Healthcare,High,Medium,High,Medium,Wireless,Medium,PROFINET
+Retail,High,Medium,Medium,Low,Wireless,Low,LoRaWAN
+Healthcare,High,Low,High,Low,Wireless,Low,HTTPS
+Energy,Low,High,Low,High,Wireless,Low,HTTPS
+Energy,High,Medium,Medium,High,Wireless,Low,OPC UA
+Energy,Medium,High,Low,Medium,Wired,Low,PROFINET
+Healthcare,Low,Low,Low,High,Wired,Low,HTTPS
+Healthcare,Medium,Low,High,Medium,Wired,Low,MQTT
+Healthcare,Medium,Low,Low,Medium,Wireless,Medium,MQTT
+Healthcare,Medium,Low,High,High,Wireless,High,HTTPS
+Agriculture,High,High,Low,High,Wireless,Low,OPC UA
+Transportation,High,High,Low,Medium,Wired,High,EtherCAT
+Transportation,Medium,Low,High,High,Wireless,Low,MQTT
+Healthcare,High,High,Low,Low,Wired,High,EtherCAT
+Manufacturing,High,Medium,High,High,Wireless,Low,PROFINET
+Manufacturing,Medium,Low,Medium,High,Wired,Medium,HTTPS
+Transportation,Medium,High,High,Medium,Wired,High,PROFINET
+Transportation,Medium,Low,Low,Low,Wireless,Medium,OPC UA
+Manufacturing,Low,Medium,High,Low,Wired,Low,LoRaWAN
+Energy,Medium,Medium,Low,High,Wireless,Low,MQTT
+Transportation,High,Low,High,Medium,Wired,Medium,HTTPS
+Retail,High,High,Medium,Medium,Wired,High,PROFINET
+Transportation,High,Low,Low,High,Wired,High,OPC UA
+Energy,Medium,High,Medium,High,Wired,High,PROFINET
+Agriculture,High,Low,High,Low,Wireless,Low,HTTPS
+Retail,High,High,Low,High,Wired,Low,OPC UA
+Agriculture,Medium,High,High,Medium,Wireless,Low,MQTT
+Retail,Medium,Medium,Low,High,Wired,Medium,HTTPS
+Energy,Low,Low,Medium,Medium,Wireless,High,LoRaWAN
+Retail,Medium,Medium,Low,Medium,Wireless,High,MQTT
+Agriculture,Low,High,High,High,Wireless,Medium,OPC UA
+Agriculture,Low,High,Low,Low,Wired,Medium,PROFINET
+Retail,Low,Medium,Low,High,Wired,Medium,OPC UA
+Energy,Medium,Medium,High,Low,Wired,Medium,HTTPS
+Healthcare,Medium,Low,Low,Medium,Wired,Medium,HTTPS
+Energy,High,High,Medium,Medium,Wired,Medium,PROFINET
+Manufacturing,Low,Medium,High,Medium,Wireless,Medium,PROFINET
+Healthcare,Low,Medium,Medium,High,Wired,Low,PROFINET
+Agriculture,High,High,Low,High,Wireless,High,OPC UA
+Energy,Medium,Low,Low,Medium,Wireless,Medium,MQTT
+Healthcare,Medium,Low,Low,High,Wired,Medium,HTTPS
+Transportation,High,High,High,Medium,Wired,High,PROFINET
+Retail,Medium,Medium,Low,Medium,Wired,Medium,HTTPS
+Energy,High,Low,High,High,Wireless,Low,EtherCAT
+Retail,Medium,Medium,Low,Low,Wired,Medium,MQTT
+Energy,High,Low,High,Medium,Wired,Low,PROFINET
+Retail,Medium,Low,High,High,Wireless,Low,MQTT
+Retail,Medium,High,Low,Medium,Wireless,Medium,EtherCAT
+Agriculture,Medium,Low,High,Low,Wired,High,EtherCAT
+Retail,High,Low,Medium,High,Wired,High,MQTT
+Transportation,High,Low,Low,High,Wireless,Low,OPC UA
+Manufacturing,High,Medium,High,High,Wired,Low,PROFINET
+Agriculture,Medium,High,Medium,Medium,Wireless,Medium,EtherCAT
+Manufacturing,High,Medium,High,Medium,Wired,High,OPC UA
+Retail,High,High,High,High,Wireless,Medium,HTTPS
+Retail,Medium,Low,Low,Medium,Wireless,Medium,HTTPS
+Energy,High,Medium,High,Low,Wireless,High,HTTPS
+Transportation,Medium,Low,Low,Low,Wireless,Low,MQTT
+Retail,Low,Low,High,High,Wireless,High,LoRaWAN
+Agriculture,Low,High,High,High,Wireless,High,LoRaWAN
+Manufacturing,High,Medium,Medium,High,Wireless,Low,EtherCAT
+Manufacturing,High,High,Low,High,Wired,High,OPC UA
+Agriculture,Medium,Low,Medium,Low,Wired,Low,MQTT
+Energy,Low,High,High,High,Wired,High,PROFINET
+Healthcare,Low,High,Low,Medium,Wired,Medium,PROFINET
+Agriculture,Medium,Low,Low,High,Wired,Low,MQTT
+Energy,High,High,Medium,High,Wired,High,PROFINET
+Healthcare,Low,Medium,Low,High,Wireless,Low,EtherCAT
+Energy,High,Medium,High,Low,Wireless,Low,LoRaWAN
+Retail,High,Medium,Low,Medium,Wireless,High,EtherCAT
+Healthcare,Medium,Low,Low,Medium,Wireless,Medium,OPC UA
+Healthcare,High,Medium,High,High,Wireless,Low,OPC UA
+Healthcare,Medium,Low,Low,Low,Wired,High,EtherCAT
+Transportation,High,Low,Medium,Medium,Wireless,High,LoRaWAN
+Healthcare,Medium,Low,Medium,Medium,Wired,Medium,PROFINET
+Healthcare,Medium,Medium,Medium,Low,Wired,High,LoRaWAN
+Manufacturing,Low,Low,Low,High,Wired,Medium,LoRaWAN
+Retail,Low,Low,Low,Medium,Wireless,Medium,OPC UA
+Energy,High,Medium,Medium,Low,Wireless,High,OPC UA
+Manufacturing,High,Low,Medium,Low,Wired,Low,MQTT
+Agriculture,Low,Medium,High,Medium,Wired,High,MQTT
+Transportation,Medium,High,Low,Medium,Wireless,Low,MQTT
+Retail,Low,Low,High,Medium,Wired,Medium,LoRaWAN
+Healthcare,Medium,High,Medium,High,Wireless,High,HTTPS
+Energy,Low,Medium,Medium,Low,Wired,Low,MQTT
+Retail,Low,Medium,Medium,Medium,Wired,High,PROFINET
+Transportation,Medium,Low,High,Low,Wireless,High,MQTT
+Manufacturing,High,Medium,Low,Low,Wireless,High,EtherCAT
+Manufacturing,Low,High,High,High,Wired,Medium,PROFINET
+Retail,High,Low,Medium,Low,Wired,High,EtherCAT
+Manufacturing,Low,Low,Low,Low,Wired,High,HTTPS
+Healthcare,Medium,Medium,High,High,Wired,Medium,HTTPS
+Transportation,Medium,Low,Medium,High,Wired,Low,MQTT
+Retail,High,High,Low,Medium,Wireless,Medium,EtherCAT
+Healthcare,Medium,High,Medium,Low,Wired,Low,PROFINET
+Manufacturing,High,Medium,High,Low,Wireless,Medium,MQTT
+Retail,Medium,Medium,Low,High,Wireless,Low,MQTT
+Retail,Medium,Medium,High,Medium,Wireless,Medium,PROFINET
+Manufacturing,Medium,High,Medium,High,Wired,Medium,PROFINET
+Manufacturing,Medium,High,Low,Low,Wireless,Low,MQTT
+Manufacturing,Medium,High,High,High,Wireless,Low,MQTT
+Healthcare,High,High,High,Medium,Wired,Medium,PROFINET
+Retail,Medium,Medium,Low,Low,Wired,High,PROFINET
+Agriculture,Low,High,Medium,High,Wireless,Low,LoRaWAN
+Agriculture,Medium,Medium,High,High,Wired,Medium,HTTPS
+Agriculture,Low,High,Low,Medium,Wired,High,PROFINET
+Transportation,Low,High,High,Low,Wired,High,PROFINET
+Manufacturing,Medium,High,Low,Low,Wired,High,PROFINET
+Energy,Low,High,Medium,Medium,Wireless,High,LoRaWAN
+Transportation,High,Medium,Medium,High,Wired,Low,EtherCAT
+Manufacturing,Medium,High,Medium,Low,Wireless,Medium,PROFINET
+Transportation,Low,Low,Low,Medium,Wireless,Low,LoRaWAN
+Healthcare,High,Medium,Low,High,Wireless,Medium,OPC UA
+Healthcare,Low,Low,Low,High,Wired,Low,HTTPS
+Transportation,Low,High,Medium,High,Wired,Medium,PROFINET
+Manufacturing,Medium,High,High,Low,Wired,High,PROFINET
+Energy,Low,Medium,Low,Medium,Wired,High,LoRaWAN
+Manufacturing,High,Medium,High,Low,Wired,Medium,HTTPS
+Transportation,High,Low,High,Medium,Wired,Medium,EtherCAT
+Energy,Low,Medium,Low,Low,Wired,Low,PROFINET
+Healthcare,Medium,Medium,High,Medium,Wired,Low,MQTT
+Transportation,Medium,Medium,Low,Low,Wireless,Low,MQTT
+Energy,High,Low,Medium,Medium,Wired,Medium,MQTT
+Transportation,High,Low,High,Medium,Wireless,Medium,OPC UA
+Manufacturing,Medium,Low,Medium,High,Wireless,Low,MQTT
+Transportation,High,High,High,Low,Wireless,Medium,PROFINET
+Energy,High,High,Low,Medium,Wireless,Low,EtherCAT
+Healthcare,Medium,Medium,High,Low,Wireless,Low,MQTT
+Retail,Low,Medium,Low,Medium,Wireless,Low,MQTT
+Agriculture,Medium,Low,Medium,Medium,Wireless,Medium,HTTPS
+Manufacturing,Low,High,High,Medium,Wired,Low,PROFINET
+Manufacturing,High,High,High,Medium,Wireless,Low,EtherCAT
+Agriculture,Medium,High,High,Low,Wired,Low,PROFINET
+Energy,Medium,Medium,Low,High,Wireless,High,HTTPS
+Retail,Medium,High,Medium,Low,Wireless,Medium,OPC UA
+Transportation,Low,High,Medium,Low,Wireless,Medium,LoRaWAN
+Healthcare,High,Low,Medium,Medium,Wired,Low,EtherCAT
+Retail,Low,Medium,High,Low,Wired,High,MQTT
+Retail,High,High,Medium,Low,Wired,High,PROFINET
+Healthcare,Medium,Low,High,High,Wired,Medium,HTTPS
+Transportation,Low,High,Medium,Low,Wireless,High,LoRaWAN
+Transportation,Medium,High,High,Low,Wired,Medium,PROFINET
+Energy,Low,Medium,Medium,High,Wireless,Medium,HTTPS
+Transportation,Low,Low,High,High,Wireless,Low,MQTT
+Retail,High,High,Low,High,Wired,Low,OPC UA
+Agriculture,Medium,High,Medium,Low,Wired,High,PROFINET
+Healthcare,Low,Low,High,Low,Wired,High,OPC UA
+Agriculture,Medium,Medium,High,Medium,Wireless,Low,MQTT
+Energy,Medium,High,High,High,Wireless,Medium,HTTPS
+Agriculture,Low,Medium,High,High,Wired,Medium,PROFINET
+Energy,Medium,Medium,Medium,High,Wireless,Medium,HTTPS
+Agriculture,High,Low,Medium,Medium,Wireless,Low,HTTPS
+Retail,Low,High,High,High,Wired,Medium,PROFINET
+Retail,High,Medium,High,Medium,Wireless,Medium,MQTT
+Energy,High,Medium,Low,High,Wired,High,OPC UA
+Manufacturing,Low,High,High,Medium,Wired,Low,PROFINET
+Energy,Medium,Medium,Medium,High,Wireless,High,HTTPS
+Energy,High,Low,Low,Low,Wireless,High,EtherCAT
+Manufacturing,High,High,Low,High,Wireless,High,OPC UA
+Agriculture,Low,Low,High,Low,Wireless,Medium,HTTPS
+Energy,Low,Medium,High,Low,Wireless,High,LoRaWAN
+Retail,Medium,High,High,High,Wireless,High,HTTPS
+Energy,Low,Low,High,Low,Wired,Low,HTTPS
+Transportation,High,Medium,Low,High,Wired,Medium,OPC UA
+Agriculture,High,Low,Low,High,Wireless,Medium,OPC UA
+Retail,Low,High,Medium,Low,Wireless,High,LoRaWAN
+Agriculture,Low,Low,Medium,High,Wireless,Low,HTTPS
+Manufacturing,High,Low,High,Low,Wired,Low,PROFINET
+Retail,Medium,Low,High,Medium,Wired,Medium,LoRaWAN
+Manufacturing,Low,Low,High,Low,Wireless,High,LoRaWAN
+Energy,Medium,High,High,Medium,Wireless,Low,MQTT
+Agriculture,High,Medium,High,Medium,Wireless,Low,OPC UA
+Healthcare,High,Low,High,High,Wireless,Low,HTTPS
+Energy,Medium,Medium,High,Medium,Wired,Low,MQTT
+Agriculture,Medium,Low,Low,Low,Wireless,High,EtherCAT
+Healthcare,Low,High,Medium,Medium,Wired,High,PROFINET
+Transportation,High,Medium,Medium,High,Wireless,High,HTTPS
+Energy,Medium,High,Low,Low,Wired,Low,PROFINET
+Manufacturing,High,High,High,High,Wireless,High,MQTT
+Agriculture,Low,High,Low,Low,Wireless,Medium,EtherCAT
+Energy,Low,High,Low,High,Wireless,Low,EtherCAT
+Healthcare,Medium,Low,High,High,Wireless,High,HTTPS
+Agriculture,Medium,High,Medium,Low,Wired,High,PROFINET
+Retail,Low,Medium,Medium,Medium,Wireless,Medium,OPC UA
+Healthcare,Low,Low,Medium,High,Wired,Medium,OPC UA
+Transportation,Medium,Medium,Medium,Low,Wired,High,OPC UA
+Energy,High,Low,High,Medium,Wireless,Medium,LoRaWAN
+Retail,Low,High,Low,High,Wireless,Medium,PROFINET
+Transportation,Low,High,Medium,Medium,Wireless,Low,OPC UA
+Energy,High,Low,Medium,Medium,Wireless,High,HTTPS
+Manufacturing,Low,Low,Low,Medium,Wired,Low,MQTT
+Retail,Low,Low,Low,High,Wired,High,LoRaWAN
+Healthcare,Low,Medium,High,Medium,Wired,High,PROFINET
+Retail,Low,Medium,High,High,Wireless,High,LoRaWAN
+Manufacturing,High,Medium,High,Low,Wired,Medium,HTTPS
+Retail,Medium,High,Low,Medium,Wired,Low,PROFINET
+Transportation,Low,High,Medium,Low,Wired,High,PROFINET
+Healthcare,High,Medium,Medium,Low,Wired,High,EtherCAT
+Energy,Medium,High,High,High,Wired,Low,PROFINET
+Manufacturing,High,Medium,High,High,Wireless,High,OPC UA
+Retail,Low,Medium,Low,Medium,Wired,High,LoRaWAN
+Healthcare,Medium,High,Low,High,Wired,Medium,PROFINET
+Retail,Low,High,Low,Low,Wireless,High,LoRaWAN
+Transportation,Low,Medium,High,High,Wireless,Low,PROFINET
+Retail,High,Medium,High,High,Wired,Medium,HTTPS
+Healthcare,High,Medium,Low,Low,Wired,High,EtherCAT
+Healthcare,Medium,High,High,Low,Wired,High,PROFINET
+Agriculture,Low,Medium,Low,High,Wired,Medium,OPC UA
+Agriculture,Medium,Medium,High,High,Wireless,Low,MQTT
+Agriculture,Medium,Low,Low,Low,Wireless,Low,MQTT
+Energy,High,Low,High,Low,Wired,Medium,OPC UA
+Manufacturing,Low,Medium,Low,Medium,Wireless,Medium,MQTT
+Retail,Low,Medium,Low,High,Wired,High,MQTT
+Manufacturing,High,Medium,High,High,Wired,Low,MQTT
+Healthcare,Low,Medium,Low,High,Wired,High,LoRaWAN
+Transportation,Medium,High,Low,High,Wireless,Low,MQTT
+Healthcare,High,Medium,Medium,High,Wired,Medium,MQTT
+Agriculture,Medium,High,Low,Medium,Wired,Medium,PROFINET
+Manufacturing,High,High,High,Low,Wired,Low,PROFINET
+Transportation,High,Medium,Low,Medium,Wired,Medium,EtherCAT
+Healthcare,Low,Medium,Low,Low,Wired,Low,HTTPS
+Manufacturing,High,Medium,Medium,Low,Wireless,High,PROFINET
+Agriculture,High,High,High,High,Wireless,High,OPC UA
+Retail,Low,Medium,Medium,Low,Wired,High,PROFINET
+Retail,High,High,Medium,Low,Wired,Medium,PROFINET
+Healthcare,Medium,Medium,Low,High,Wired,Medium,HTTPS
+Energy,High,Medium,High,High,Wireless,Low,PROFINET
+Energy,High,High,Low,Medium,Wireless,High,EtherCAT
+Agriculture,Medium,Medium,Medium,Medium,Wireless,High,PROFINET
+Retail,High,High,Low,Medium,Wireless,High,EtherCAT
+Manufacturing,Medium,High,Medium,High,Wireless,Medium,HTTPS
+Agriculture,Medium,Low,Low,High,Wireless,Medium,HTTPS
+Energy,High,High,Low,Medium,Wired,High,EtherCAT
+Transportation,High,Low,High,Low,Wired,Medium,HTTPS
+Energy,High,High,High,Medium,Wireless,Low,PROFINET
+Healthcare,Medium,Low,High,High,Wireless,Medium,HTTPS
+Healthcare,High,Medium,Low,Low,Wireless,Medium,EtherCAT
+Retail,Medium,High,High,Medium,Wired,Medium,PROFINET
+Healthcare,Low,Medium,High,Medium,Wireless,Low,PROFINET
+Transportation,High,Low,Low,Low,Wired,Low,EtherCAT
+Healthcare,High,Medium,Medium,High,Wireless,High,PROFINET
+Manufacturing,High,Low,Medium,Low,Wireless,Low,MQTT
+Transportation,Low,Low,High,High,Wired,Low,PROFINET
+Manufacturing,High,High,Low,Medium,Wireless,Low,EtherCAT
+Healthcare,Medium,Medium,Medium,Medium,Wired,Medium,OPC UA
+Agriculture,High,Low,Low,High,Wired,Low,OPC UA
+Manufacturing,Medium,High,Medium,Medium,Wired,Medium,PROFINET
+Healthcare,Medium,Low,High,Medium,Wired,Low,MQTT
+Energy,Medium,Low,High,Medium,Wired,High,HTTPS
+Retail,Medium,High,Low,Medium,Wired,High,PROFINET
+Healthcare,Low,Medium,High,High,Wireless,High,LoRaWAN
+Retail,Medium,Medium,High,Medium,Wireless,Low,MQTT
+Manufacturing,High,Low,Low,High,Wireless,High,OPC UA
+Manufacturing,Low,Medium,Low,Medium,Wireless,High,LoRaWAN
+Transportation,Medium,Low,High,High,Wired,High,HTTPS
+Manufacturing,Medium,High,Medium,Medium,Wireless,High,HTTPS
+Transportation,High,Low,Medium,Low,Wired,High,HTTPS
+Transportation,Medium,Low,High,Low,Wired,High,EtherCAT
+Agriculture,High,Medium,Low,High,Wireless,Medium,OPC UA
+Energy,High,Low,Low,High,Wireless,Medium,OPC UA
+Healthcare,High,Medium,Low,Medium,Wired,Medium,EtherCAT
+Agriculture,Medium,Low,Medium,Medium,Wireless,Low,MQTT
+Healthcare,Low,Medium,Low,Medium,Wired,High,EtherCAT
+Healthcare,Medium,Medium,High,Medium,Wired,High,EtherCAT
+Retail,High,High,High,Low,Wired,High,PROFINET
+Healthcare,Medium,High,High,Medium,Wireless,Low,MQTT
+Agriculture,Medium,High,Low,Medium,Wireless,Low,MQTT
+Energy,Low,High,High,High,Wireless,Low,LoRaWAN
+Energy,Low,Low,Low,Medium,Wired,Medium,OPC UA
+Retail,Medium,Low,Medium,Low,Wired,Low,MQTT
+Manufacturing,Low,Medium,Low,Low,Wired,High,PROFINET
+Energy,Medium,High,Medium,Low,Wireless,Low,MQTT
+Retail,High,Low,Medium,Medium,Wired,Low,HTTPS
+Manufacturing,Medium,Medium,Low,Low,Wired,Medium,PROFINET
+Transportation,Medium,Low,Low,Low,Wireless,Medium,EtherCAT
+Energy,Low,Medium,Low,High,Wireless,Medium,PROFINET
+Healthcare,High,High,High,High,Wired,High,PROFINET
+Transportation,Medium,High,Medium,High,Wireless,High,HTTPS
+Agriculture,Medium,High,Low,Medium,Wireless,Medium,LoRaWAN
+Transportation,High,High,Low,Medium,Wireless,High,EtherCAT
+Retail,Low,Low,Low,Low,Wired,Medium,PROFINET
+Manufacturing,Medium,Low,Low,High,Wired,Low,MQTT
+Transportation,Medium,Low,High,Low,Wireless,Medium,EtherCAT
+Energy,Medium,Low,Medium,Medium,Wireless,High,OPC UA
+Retail,High,Medium,High,Low,Wired,Medium,HTTPS
+Agriculture,Medium,Medium,Low,Medium,Wireless,High,PROFINET
+Manufacturing,High,High,Medium,Low,Wired,Low,PROFINET
+Transportation,Medium,High,High,High,Wired,Medium,PROFINET
+Healthcare,High,Low,High,High,Wired,Medium,MQTT
+Retail,Medium,Low,Low,High,Wired,Medium,HTTPS
+Healthcare,Low,Low,Low,Low,Wired,Medium,MQTT
+Manufacturing,Medium,Low,Low,Low,Wired,High,EtherCAT
+Manufacturing,High,Low,High,Low,Wired,Low,LoRaWAN
+Retail,Low,Medium,Medium,Low,Wired,High,OPC UA
+Healthcare,Low,Low,High,High,Wireless,Medium,LoRaWAN
+Healthcare,Medium,Low,Low,Medium,Wired,High,EtherCAT
+Healthcare,Low,Low,Medium,Medium,Wired,High,OPC UA
+Manufacturing,High,Low,Low,High,Wired,High,OPC UA
+Transportation,Medium,Medium,Low,Low,Wired,High,MQTT
+Retail,Medium,High,Low,Low,Wireless,Medium,OPC UA
+Manufacturing,Medium,High,Medium,Low,Wired,Medium,PROFINET
+Agriculture,Medium,High,Low,High,Wireless,Medium,HTTPS
+Transportation,Low,High,Medium,Medium,Wired,Low,PROFINET
+Energy,High,Low,Medium,Low,Wireless,Medium,EtherCAT
+Transportation,High,Medium,High,High,Wired,High,MQTT
+Manufacturing,Low,High,Low,Medium,Wireless,Low,MQTT
+Agriculture,High,Medium,Low,High,Wireless,High,OPC UA
+Agriculture,High,Medium,Low,Medium,Wireless,High,EtherCAT
+Agriculture,High,Low,High,High,Wireless,Medium,EtherCAT
+Healthcare,High,High,Medium,High,Wireless,Medium,EtherCAT
+Healthcare,Low,Low,High,High,Wired,Low,HTTPS
+Energy,Low,Medium,Medium,High,Wired,Medium,LoRaWAN
+Energy,Medium,Medium,Low,Low,Wireless,Low,MQTT
+Transportation,Low,High,Medium,Medium,Wireless,Medium,OPC UA
+Healthcare,Medium,Low,High,Low,Wireless,Medium,PROFINET
+Agriculture,Low,Medium,High,High,Wireless,High,LoRaWAN
+Retail,High,Low,Medium,Medium,Wireless,Low,OPC UA
+Energy,High,Medium,Medium,Medium,Wired,High,OPC UA
+Manufacturing,High,High,High,Low,Wireless,Low,HTTPS
+Transportation,Low,Low,Medium,Medium,Wired,High,LoRaWAN
+Agriculture,Medium,Medium,High,Low,Wired,Low,MQTT
+Manufacturing,Medium,Medium,Low,Low,Wired,Low,MQTT
+Agriculture,Medium,Low,Medium,Low,Wireless,Medium,LoRaWAN
+Manufacturing,Medium,Medium,Low,Low,Wired,Low,MQTT
+Retail,High,Low,Medium,Low,Wireless,Low,MQTT
+Agriculture,Medium,Medium,High,Medium,Wireless,High,MQTT
+Manufacturing,Low,Medium,Medium,High,Wireless,Medium,PROFINET
+Healthcare,Low,High,Low,High,Wired,Low,PROFINET
+Transportation,Low,Medium,Low,High,Wired,Low,HTTPS
+Manufacturing,Medium,High,Low,Low,Wireless,High,EtherCAT
+Transportation,Low,High,High,High,Wired,Low,PROFINET
+Retail,High,High,High,High,Wireless,High,OPC UA
+Transportation,Low,Medium,Low,High,Wireless,Low,PROFINET
+Retail,Medium,High,Low,High,Wired,Medium,PROFINET
+Healthcare,High,Medium,Medium,High,Wireless,Medium,LoRaWAN
+Agriculture,High,Medium,Low,Low,Wireless,Low,EtherCAT
+Transportation,Medium,High,Medium,Medium,Wired,Medium,PROFINET
+Healthcare,Medium,Low,Medium,High,Wireless,Low,MQTT
+Manufacturing,High,Low,High,High,Wireless,Medium,PROFINET
+Agriculture,High,Low,Medium,Low,Wireless,Medium,OPC UA
+Manufacturing,High,High,Low,High,Wireless,High,OPC UA
+Manufacturing,Medium,High,Low,Medium,Wired,Medium,PROFINET
+Transportation,High,High,Low,Medium,Wired,Low,EtherCAT
+Transportation,Medium,Low,Medium,High,Wired,Medium,HTTPS
+Manufacturing,Low,High,High,Low,Wireless,Low,HTTPS
+Retail,High,High,High,Low,Wireless,Medium,EtherCAT
+Transportation,High,High,Medium,High,Wired,Low,PROFINET
+Manufacturing,Medium,High,Medium,Medium,Wireless,Low,MQTT
+Healthcare,Low,Low,High,Low,Wireless,High,LoRaWAN
+Energy,Medium,Low,Medium,Low,Wired,Medium,PROFINET
+Healthcare,High,Medium,Medium,Low,Wired,Low,MQTT
+Agriculture,Medium,Medium,High,High,Wired,High,HTTPS
+Retail,Medium,Medium,Low,Medium,Wireless,Medium,LoRaWAN
+Agriculture,High,High,Medium,Low,Wired,Low,PROFINET
+Energy,Low,Low,High,High,Wireless,High,LoRaWAN
+Energy,Medium,High,Low,Low,Wireless,High,PROFINET
+Manufacturing,High,Low,Medium,High,Wired,High,LoRaWAN
+Agriculture,Medium,High,High,Medium,Wired,High,PROFINET
+Manufacturing,High,Low,Medium,High,Wired,High,LoRaWAN
+Transportation,Medium,Low,Low,High,Wireless,High,HTTPS
+Agriculture,Low,Medium,Low,High,Wireless,Medium,OPC UA
+Energy,Medium,Low,High,Low,Wireless,High,LoRaWAN
+Agriculture,High,Medium,Low,Medium,Wireless,High,EtherCAT
+Healthcare,Low,Low,Low,Low,Wired,High,LoRaWAN
+Manufacturing,Medium,Medium,High,High,Wired,Medium,HTTPS
+Energy,Medium,High,Low,High,Wireless,Low,MQTT
+Retail,Low,Medium,Low,Medium,Wired,Low,MQTT
+Transportation,High,High,Low,Medium,Wired,High,EtherCAT
+Retail,High,High,High,Medium,Wired,Medium,PROFINET
+Manufacturing,Medium,High,High,High,Wireless,High,HTTPS
+Transportation,Medium,High,Medium,High,Wired,Low,PROFINET
+Transportation,Medium,High,Medium,Medium,Wired,Medium,PROFINET
+Manufacturing,Medium,Low,Low,High,Wired,Low,MQTT
+Retail,Medium,Medium,Low,Medium,Wired,High,LoRaWAN
+Manufacturing,High,High,High,Medium,Wireless,Low,HTTPS
+Manufacturing,Medium,High,High,Medium,Wired,Low,PROFINET
+Healthcare,High,High,Low,Medium,Wired,Medium,EtherCAT
+Energy,High,Medium,Medium,Low,Wireless,Medium,PROFINET
+Energy,Low,Low,Medium,Medium,Wireless,Medium,LoRaWAN
+Manufacturing,High,Medium,Low,Medium,Wired,Low,EtherCAT
+Agriculture,Medium,Low,Medium,Low,Wired,Medium,MQTT
+Transportation,Low,Low,Low,High,Wireless,High,LoRaWAN
+Agriculture,High,High,High,High,Wireless,Low,PROFINET
+Agriculture,Low,Low,Medium,High,Wireless,High,LoRaWAN
+Transportation,Medium,High,Low,Low,Wireless,High,OPC UA
+Manufacturing,High,Low,Medium,High,Wireless,Medium,HTTPS
+Energy,Medium,Medium,High,Low,Wireless,Medium,MQTT
+Energy,Low,High,Medium,Low,Wired,High,PROFINET
+Manufacturing,Medium,Low,Medium,High,Wireless,Medium,HTTPS
+Manufacturing,Low,Low,High,High,Wired,Low,MQTT
+Agriculture,Medium,Medium,Low,Low,Wired,High,MQTT
+Agriculture,Low,High,High,Low,Wireless,High,LoRaWAN
+Energy,Medium,Low,Medium,Medium,Wired,Medium,PROFINET
+Manufacturing,Medium,Low,High,High,Wireless,Medium,HTTPS
+Retail,High,Low,Medium,Low,Wireless,Medium,OPC UA
+Manufacturing,Medium,Low,Medium,High,Wired,Medium,HTTPS
+Healthcare,Medium,High,High,Low,Wireless,Medium,OPC UA
+Agriculture,Low,Medium,High,Medium,Wired,Low,PROFINET
+Healthcare,Low,Low,High,High,Wired,Medium,PROFINET
+Energy,Medium,Low,High,High,Wired,Medium,HTTPS
+Transportation,Medium,Medium,Low,Medium,Wireless,Medium,EtherCAT
+Transportation,High,Low,Medium,High,Wired,High,PROFINET
+Energy,Low,Low,Medium,High,Wireless,Low,OPC UA
+Healthcare,Medium,Medium,Low,Medium,Wired,Medium,PROFINET
+Healthcare,High,High,Medium,Low,Wireless,High,EtherCAT
+Manufacturing,Low,Low,High,Low,Wireless,Low,LoRaWAN
+Agriculture,Low,Medium,Low,Low,Wireless,Low,HTTPS
+Energy,Low,High,High,High,Wired,Low,PROFINET
+Transportation,High,Low,Medium,High,Wireless,High,EtherCAT
+Manufacturing,Low,Low,Low,High,Wired,High,LoRaWAN
+Agriculture,Medium,Medium,High,Medium,Wireless,High,PROFINET
+Transportation,Medium,Medium,Medium,High,Wireless,Medium,HTTPS
+Transportation,High,Medium,High,High,Wireless,High,EtherCAT
+Transportation,Medium,Low,Medium,High,Wireless,Medium,HTTPS
+Agriculture,Medium,High,Low,High,Wired,Medium,PROFINET
+Energy,High,Medium,Medium,Low,Wired,High,OPC UA
+Transportation,Low,High,Medium,Low,Wired,Medium,PROFINET
+Transportation,High,Medium,Low,High,Wireless,High,OPC UA
+Healthcare,Low,Low,Low,Low,Wireless,High,LoRaWAN
+Agriculture,Low,Medium,Medium,Low,Wireless,Low,HTTPS
+Energy,High,Medium,High,Medium,Wireless,Low,MQTT
+Transportation,High,Medium,Medium,High,Wireless,High,HTTPS
+Energy,Medium,Medium,Medium,Medium,Wireless,High,PROFINET
+Healthcare,Medium,High,High,High,Wireless,Medium,HTTPS
+Retail,Medium,Medium,Medium,Low,Wired,Low,MQTT
+Manufacturing,High,High,Medium,Low,Wired,High,PROFINET
+Retail,Medium,Medium,High,High,Wired,High,HTTPS
+Retail,Medium,Medium,Medium,Medium,Wired,Medium,MQTT
+Healthcare,Low,High,Medium,Medium,Wireless,Low,EtherCAT
+Transportation,Low,Low,Low,Medium,Wired,Low,OPC UA
+Retail,High,Medium,Low,High,Wired,Low,OPC UA
+Retail,Medium,Medium,High,Medium,Wireless,Low,MQTT
+Healthcare,High,Low,High,High,Wireless,High,LoRaWAN
+Manufacturing,Low,Low,Medium,Medium,Wired,Medium,MQTT
+Manufacturing,Medium,Low,Medium,Low,Wireless,Low,MQTT
+Retail,Low,Medium,Low,Low,Wired,Medium,LoRaWAN
+Transportation,Low,Medium,Low,High,Wireless,Medium,HTTPS
+Energy,Medium,Medium,Medium,High,Wireless,Medium,HTTPS
+Transportation,High,Low,Low,High,Wireless,Low,OPC UA
+Retail,Low,High,Low,Low,Wired,Low,PROFINET
+Transportation,Medium,Medium,Medium,Low,Wired,High,OPC UA
+Energy,Low,Low,Low,Low,Wired,Low,OPC UA
+Transportation,Low,High,High,Low,Wired,Medium,PROFINET
+Energy,Medium,Medium,Low,Low,Wireless,Low,MQTT
+Retail,High,Low,Low,Medium,Wireless,Low,EtherCAT
+Energy,Low,Low,High,Medium,Wireless,Low,LoRaWAN
+Transportation,High,High,Medium,High,Wired,Medium,PROFINET
+Energy,Low,High,High,High,Wired,Medium,PROFINET
+Manufacturing,High,Low,Low,Low,Wireless,High,EtherCAT
+Manufacturing,Medium,High,Medium,Low,Wireless,Low,MQTT
+Manufacturing,Medium,High,High,Medium,Wired,High,PROFINET
+Retail,Low,Low,High,High,Wireless,Low,OPC UA
+Transportation,Low,High,Medium,High,Wired,High,PROFINET
+Healthcare,High,Medium,High,Low,Wired,Medium,PROFINET
+Healthcare,Medium,Medium,High,High,Wired,Low,MQTT
+Retail,Low,Low,Medium,Medium,Wireless,Medium,MQTT
+Energy,Low,High,Low,Low,Wireless,Medium,OPC UA
+Healthcare,Low,High,Medium,Medium,Wireless,High,LoRaWAN
+Energy,Medium,Low,Medium,Medium,Wired,Medium,OPC UA
+Energy,High,High,High,Medium,Wireless,High,HTTPS
+Agriculture,High,High,Medium,High,Wired,High,PROFINET
+Manufacturing,Medium,Low,High,High,Wired,Low,MQTT
+Energy,High,Medium,Low,Low,Wired,High,EtherCAT
+Manufacturing,Low,Low,High,Low,Wireless,Medium,HTTPS
+Healthcare,Medium,Medium,Medium,High,Wireless,High,HTTPS
+Transportation,Medium,High,Medium,Medium,Wired,Medium,PROFINET
+Healthcare,High,Low,Medium,Medium,Wired,Medium,LoRaWAN
+Retail,Low,High,Low,Low,Wireless,Low,LoRaWAN
+Energy,Medium,High,Low,Low,Wireless,Medium,PROFINET
+Agriculture,High,Low,Medium,Medium,Wireless,Medium,OPC UA
+Transportation,Medium,Low,Medium,Low,Wireless,High,LoRaWAN
+Healthcare,Medium,High,Medium,Low,Wireless,Medium,OPC UA
+Agriculture,Low,High,Medium,High,Wireless,Low,MQTT
+Manufacturing,High,High,Medium,Medium,Wireless,Low,PROFINET
+Energy,Medium,High,High,High,Wired,Low,PROFINET
+Healthcare,Low,Medium,Low,High,Wireless,Low,MQTT
+Energy,Low,High,Low,Low,Wireless,High,LoRaWAN
+Agriculture,Medium,Medium,Low,High,Wireless,Medium,HTTPS
+Retail,Medium,Low,Medium,High,Wireless,Low,MQTT
+Manufacturing,High,Low,Medium,High,Wireless,Low,LoRaWAN
+Energy,Low,Low,Low,Medium,Wired,High,MQTT
+Healthcare,High,Medium,High,Low,Wireless,Low,MQTT
+Healthcare,Low,High,Medium,Medium,Wired,Low,PROFINET
+Agriculture,Medium,High,Medium,Medium,Wireless,Medium,OPC UA
+Retail,Low,High,High,Medium,Wireless,Low,LoRaWAN
+Retail,High,Low,Low,High,Wired,Medium,OPC UA
+Agriculture,Medium,Low,High,Low,Wireless,Low,MQTT
+Healthcare,High,Medium,Low,Low,Wireless,Low,EtherCAT
+Healthcare,Medium,Medium,Low,Low,Wireless,Low,MQTT
+Retail,Medium,Low,Low,Medium,Wired,Low,MQTT
+Energy,Low,Low,High,Low,Wired,Low,OPC UA
+Manufacturing,High,High,Low,Medium,Wireless,Low,EtherCAT
+Manufacturing,High,High,High,High,Wireless,High,PROFINET

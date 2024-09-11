@@ -1,0 +1,1001 @@
+industry,business_goal,system_scale,operational_need,data_volume,latency,security_concerns,legacy_system_integration,cloud_integration,edge_computing_needs,architectural_pattern
+Energy,Real-time analytics,Large,Real-time decision-making,Low,Low,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Retail,Cost reduction,Medium,Real-time decision-making,Medium,High,Low,No,No,No,Centralized Cloud Architecture
+Transportation,Cost reduction,Large,Monitoring,Low,Low,Low,No,No,No,Federated Architecture
+Healthcare,Flexibility,Distributed,Predictive maintenance,High,Medium,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Cost reduction,Small,Predictive maintenance,Low,Medium,Medium,Yes,Yes,No,Layered Databus Architecture
+Manufacturing,Flexibility,Large,Predictive maintenance,Medium,Low,Medium,No,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Flexibility,Small,Monitoring,Medium,High,High,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Flexibility,Small,Monitoring,Low,Low,High,No,No,No,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Distributed,Optimization,Low,Low,High,No,Yes,No,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Small,Predictive maintenance,Low,High,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Transportation,Increase efficiency,Distributed,Real-time decision-making,Low,High,High,Yes,Yes,No,Federated Architecture
+Agriculture,Reduce downtime,Small,Optimization,High,Low,Low,Yes,Yes,Yes,Centralized Cloud Architecture
+Retail,Cost reduction,Medium,Predictive maintenance,Low,High,Medium,No,No,Yes,Layered Edge Computing Architecture
+Manufacturing,Reduce downtime,Large,Optimization,Medium,Low,High,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Healthcare,Reduce downtime,Large,Predictive maintenance,Medium,High,Medium,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Energy,Cost reduction,Distributed,Optimization,Low,Low,Medium,No,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Flexibility,Small,Predictive maintenance,High,Low,High,No,Yes,No,Centralized Cloud Architecture
+Agriculture,Reduce downtime,Medium,Predictive maintenance,High,Medium,Medium,Yes,Yes,No,Centralized Cloud Architecture
+Energy,Increase efficiency,Small,Real-time decision-making,Low,Low,Medium,Yes,Yes,No,Centralized Cloud Architecture
+Manufacturing,Reduce downtime,Medium,Monitoring,Medium,Medium,High,Yes,Yes,Yes,Gateway-Mediated Edge Architecture
+Healthcare,Reduce downtime,Distributed,Optimization,Low,Medium,High,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Healthcare,Cost reduction,Medium,Optimization,High,Low,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Energy,Reduce downtime,Small,Monitoring,Medium,High,Low,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Transportation,Reduce downtime,Small,Predictive maintenance,High,Low,High,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Agriculture,Cost reduction,Large,Monitoring,High,High,Medium,Yes,Yes,Yes,Centralized Cloud Architecture
+Healthcare,Increase efficiency,Small,Real-time decision-making,High,Medium,Low,No,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Real-time analytics,Medium,Real-time decision-making,Medium,Low,Low,Yes,Yes,No,Layered Databus Architecture
+Agriculture,Reduce downtime,Medium,Predictive maintenance,High,High,Low,Yes,Yes,Yes,Centralized Cloud Architecture
+Energy,Reduce downtime,Medium,Monitoring,High,Medium,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Reduce downtime,Medium,Monitoring,Medium,High,High,No,Yes,No,Centralized Cloud Architecture
+Transportation,Real-time analytics,Large,Real-time decision-making,High,Medium,Low,Yes,No,Yes,Layered Edge Computing Architecture
+Energy,Real-time analytics,Distributed,Optimization,High,High,High,Yes,Yes,Yes,Federated Architecture
+Healthcare,Increase efficiency,Distributed,Real-time decision-making,High,Low,High,No,No,No,Centralized Cloud Architecture
+Transportation,Increase efficiency,Large,Predictive maintenance,Medium,High,Low,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Healthcare,Flexibility,Large,Real-time decision-making,Medium,Medium,High,Yes,No,No,Service-Oriented Architecture (SOA)
+Healthcare,Reduce downtime,Large,Monitoring,Low,Low,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Cost reduction,Medium,Optimization,Medium,Medium,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Energy,Reduce downtime,Small,Predictive maintenance,Medium,High,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Energy,Flexibility,Large,Real-time decision-making,Low,Medium,High,No,No,No,Service-Oriented Architecture (SOA)
+Healthcare,Flexibility,Distributed,Optimization,Medium,Low,Low,Yes,No,Yes,Federated Architecture
+Agriculture,Real-time analytics,Medium,Real-time decision-making,Low,High,High,No,Yes,No,Gateway-Mediated Edge Architecture
+Manufacturing,Increase efficiency,Small,Real-time decision-making,Low,Low,Low,Yes,No,Yes,Layered Edge Computing Architecture
+Energy,Increase efficiency,Small,Optimization,High,Medium,Low,Yes,Yes,No,Centralized Cloud Architecture
+Agriculture,Increase efficiency,Distributed,Optimization,High,Low,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Retail,Reduce downtime,Large,Real-time decision-making,Medium,Medium,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Healthcare,Real-time analytics,Large,Optimization,High,Medium,Medium,No,Yes,No,Centralized Cloud Architecture
+Manufacturing,Cost reduction,Distributed,Monitoring,Low,High,Low,Yes,Yes,Yes,Federated Architecture
+Retail,Real-time analytics,Large,Monitoring,Low,Low,Medium,No,No,No,Gateway-Mediated Edge Architecture
+Agriculture,Increase efficiency,Large,Predictive maintenance,Low,High,High,Yes,Yes,No,Federated Architecture
+Healthcare,Flexibility,Medium,Real-time decision-making,Low,Medium,Low,Yes,No,Yes,Layered Edge Computing Architecture
+Agriculture,Real-time analytics,Small,Monitoring,Medium,High,Medium,No,No,No,Layered Edge Computing Architecture
+Energy,Reduce downtime,Small,Real-time decision-making,Low,High,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Transportation,Cost reduction,Medium,Real-time decision-making,Medium,High,Medium,No,No,No,Gateway-Mediated Edge Architecture
+Agriculture,Reduce downtime,Distributed,Optimization,Medium,Low,Medium,Yes,No,No,Federated Architecture
+Agriculture,Flexibility,Large,Predictive maintenance,Low,High,High,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Flexibility,Distributed,Optimization,High,High,Medium,No,Yes,Yes,Centralized Cloud Architecture
+Healthcare,Cost reduction,Distributed,Optimization,Low,Medium,Low,Yes,No,Yes,Federated Architecture
+Retail,Flexibility,Distributed,Monitoring,Medium,Low,Medium,Yes,No,No,Federated Architecture
+Transportation,Cost reduction,Small,Optimization,Medium,High,High,No,No,No,Service-Oriented Architecture (SOA)
+Healthcare,Increase efficiency,Large,Real-time decision-making,High,Low,Low,Yes,No,No,Layered Edge Computing Architecture
+Healthcare,Reduce downtime,Small,Optimization,Low,High,Low,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Energy,Reduce downtime,Small,Optimization,Low,High,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Real-time analytics,Large,Real-time decision-making,Low,High,Low,No,No,No,Layered Edge Computing Architecture
+Transportation,Increase efficiency,Medium,Optimization,Medium,High,Medium,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Healthcare,Reduce downtime,Medium,Monitoring,Low,High,High,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Retail,Increase efficiency,Distributed,Predictive maintenance,Medium,Medium,Low,Yes,No,No,Federated Architecture
+Transportation,Flexibility,Medium,Optimization,Medium,High,Medium,No,Yes,No,Service-Oriented Architecture (SOA)
+Healthcare,Flexibility,Large,Optimization,High,Medium,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Real-time analytics,Distributed,Monitoring,High,Medium,Low,No,No,Yes,Centralized Cloud Architecture
+Transportation,Cost reduction,Medium,Predictive maintenance,Low,High,Low,No,Yes,Yes,Gateway-Mediated Edge Architecture
+Retail,Increase efficiency,Large,Monitoring,Low,Medium,Medium,Yes,Yes,No,Federated Architecture
+Retail,Increase efficiency,Medium,Predictive maintenance,Low,Medium,High,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Transportation,Flexibility,Large,Predictive maintenance,Low,Medium,Low,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Transportation,Flexibility,Medium,Optimization,Low,Medium,Low,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Retail,Flexibility,Large,Monitoring,Medium,High,Low,No,No,No,Service-Oriented Architecture (SOA)
+Energy,Real-time analytics,Medium,Optimization,High,Low,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Medium,Real-time decision-making,High,Medium,Low,Yes,No,Yes,Layered Edge Computing Architecture
+Energy,Real-time analytics,Large,Monitoring,High,Low,Low,No,Yes,No,Layered Edge Computing Architecture
+Healthcare,Reduce downtime,Medium,Real-time decision-making,High,Medium,Medium,Yes,No,Yes,Layered Edge Computing Architecture
+Manufacturing,Increase efficiency,Small,Real-time decision-making,Low,Medium,High,No,Yes,Yes,Layered Edge Computing Architecture
+Manufacturing,Cost reduction,Large,Optimization,Low,High,Medium,No,Yes,No,Service-Oriented Architecture (SOA)
+Transportation,Reduce downtime,Distributed,Optimization,Medium,Medium,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Increase efficiency,Large,Predictive maintenance,Low,Low,Medium,Yes,Yes,No,Layered Databus Architecture
+Transportation,Cost reduction,Large,Real-time decision-making,High,Low,Low,No,No,No,Layered Edge Computing Architecture
+Transportation,Increase efficiency,Large,Optimization,High,Low,Low,No,No,No,Layered Edge Computing Architecture
+Agriculture,Real-time analytics,Small,Predictive maintenance,High,Low,Medium,Yes,Yes,No,Centralized Cloud Architecture
+Energy,Cost reduction,Small,Optimization,Medium,Medium,Low,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Distributed,Optimization,High,Medium,Low,No,Yes,No,Centralized Cloud Architecture
+Retail,Cost reduction,Large,Predictive maintenance,Medium,Low,High,Yes,Yes,No,Centralized Cloud Architecture
+Agriculture,Real-time analytics,Small,Real-time decision-making,Low,Low,Low,Yes,No,Yes,Layered Edge Computing Architecture
+Agriculture,Real-time analytics,Distributed,Predictive maintenance,High,Medium,Medium,Yes,Yes,No,Federated Architecture
+Retail,Cost reduction,Distributed,Optimization,High,High,Low,Yes,No,No,Federated Architecture
+Energy,Increase efficiency,Small,Monitoring,Medium,High,Medium,No,Yes,No,Centralized Cloud Architecture
+Healthcare,Increase efficiency,Medium,Monitoring,Medium,Medium,Low,Yes,Yes,Yes,Federated Architecture
+Healthcare,Cost reduction,Large,Predictive maintenance,Medium,Medium,Low,No,No,Yes,Layered Databus Architecture
+Healthcare,Flexibility,Distributed,Predictive maintenance,High,Medium,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Cost reduction,Medium,Monitoring,Low,Low,Medium,Yes,Yes,Yes,Layered Databus Architecture
+Retail,Real-time analytics,Large,Optimization,Medium,Medium,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Reduce downtime,Distributed,Monitoring,Low,High,High,No,Yes,Yes,Layered Edge Computing Architecture
+Agriculture,Increase efficiency,Distributed,Predictive maintenance,Medium,Medium,Low,No,Yes,Yes,Layered Databus Architecture
+Transportation,Reduce downtime,Medium,Real-time decision-making,High,High,Medium,No,No,Yes,Layered Edge Computing Architecture
+Manufacturing,Cost reduction,Large,Optimization,High,Low,Low,No,No,Yes,Layered Edge Computing Architecture
+Retail,Increase efficiency,Large,Optimization,Medium,Low,Medium,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Increase efficiency,Large,Monitoring,Medium,Medium,Low,No,No,No,Layered Edge Computing Architecture
+Agriculture,Flexibility,Distributed,Predictive maintenance,High,Medium,Medium,Yes,No,No,Federated Architecture
+Agriculture,Flexibility,Small,Monitoring,Low,Medium,Low,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Reduce downtime,Medium,Monitoring,Low,High,High,Yes,Yes,No,Federated Architecture
+Healthcare,Cost reduction,Distributed,Real-time decision-making,Low,High,Low,No,Yes,Yes,Layered Edge Computing Architecture
+Energy,Reduce downtime,Medium,Monitoring,Low,Low,High,No,Yes,No,Centralized Cloud Architecture
+Healthcare,Increase efficiency,Large,Real-time decision-making,Low,Low,High,No,No,No,Centralized Cloud Architecture
+Agriculture,Cost reduction,Large,Monitoring,High,Low,Low,No,No,Yes,Layered Edge Computing Architecture
+Energy,Real-time analytics,Small,Monitoring,Medium,Low,Medium,No,Yes,Yes,Federated Architecture
+Manufacturing,Real-time analytics,Distributed,Monitoring,Low,Low,Low,Yes,Yes,Yes,Federated Architecture
+Healthcare,Real-time analytics,Medium,Predictive maintenance,Medium,Medium,Medium,Yes,Yes,Yes,Layered Edge Computing Architecture
+Healthcare,Reduce downtime,Medium,Monitoring,Medium,Medium,Low,Yes,Yes,Yes,Gateway-Mediated Edge Architecture
+Agriculture,Reduce downtime,Distributed,Real-time decision-making,Low,Medium,Medium,Yes,Yes,No,Federated Architecture
+Manufacturing,Real-time analytics,Distributed,Predictive maintenance,Medium,High,High,No,No,Yes,Federated Architecture
+Healthcare,Increase efficiency,Medium,Optimization,Medium,High,Medium,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Retail,Reduce downtime,Medium,Real-time decision-making,Medium,Medium,Medium,Yes,Yes,Yes,Layered Edge Computing Architecture
+Agriculture,Flexibility,Large,Optimization,Low,Medium,Medium,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Reduce downtime,Medium,Real-time decision-making,Low,Medium,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Retail,Real-time analytics,Distributed,Optimization,High,High,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Healthcare,Real-time analytics,Distributed,Monitoring,High,Low,Medium,Yes,Yes,Yes,Federated Architecture
+Retail,Reduce downtime,Large,Optimization,Medium,High,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Small,Monitoring,Medium,High,Low,Yes,Yes,Yes,Centralized Cloud Architecture
+Agriculture,Real-time analytics,Large,Predictive maintenance,Low,Medium,High,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Manufacturing,Real-time analytics,Large,Optimization,Medium,Low,Low,No,No,No,Service-Oriented Architecture (SOA)
+Energy,Flexibility,Distributed,Real-time decision-making,High,High,Low,Yes,Yes,Yes,Federated Architecture
+Energy,Increase efficiency,Large,Optimization,High,High,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Small,Predictive maintenance,Medium,Medium,Low,No,No,Yes,Federated Architecture
+Transportation,Cost reduction,Large,Optimization,Medium,Low,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Retail,Reduce downtime,Distributed,Monitoring,Low,Low,High,No,Yes,Yes,Layered Databus Architecture
+Healthcare,Flexibility,Small,Real-time decision-making,Low,Low,Low,No,No,No,Service-Oriented Architecture (SOA)
+Healthcare,Increase efficiency,Medium,Real-time decision-making,Low,High,High,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Healthcare,Cost reduction,Medium,Optimization,Low,Medium,High,No,Yes,No,Service-Oriented Architecture (SOA)
+Agriculture,Flexibility,Small,Monitoring,Medium,Low,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Retail,Flexibility,Medium,Monitoring,High,High,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Flexibility,Distributed,Real-time decision-making,Medium,High,Medium,No,Yes,Yes,Layered Edge Computing Architecture
+Energy,Increase efficiency,Large,Optimization,High,High,Low,No,No,No,Service-Oriented Architecture (SOA)
+Retail,Flexibility,Small,Monitoring,High,Low,Low,No,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Cost reduction,Large,Predictive maintenance,Low,Medium,Medium,Yes,Yes,No,Layered Edge Computing Architecture
+Retail,Reduce downtime,Large,Real-time decision-making,High,Low,Low,Yes,No,Yes,Layered Edge Computing Architecture
+Transportation,Reduce downtime,Large,Monitoring,High,Low,High,Yes,Yes,No,Layered Edge Computing Architecture
+Healthcare,Real-time analytics,Large,Monitoring,High,High,Low,No,No,Yes,Layered Databus Architecture
+Energy,Flexibility,Small,Real-time decision-making,Medium,Low,High,Yes,No,No,Service-Oriented Architecture (SOA)
+Transportation,Real-time analytics,Small,Predictive maintenance,Low,Medium,High,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Retail,Cost reduction,Small,Real-time decision-making,High,High,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Retail,Real-time analytics,Distributed,Real-time decision-making,Low,Medium,High,No,Yes,Yes,Layered Edge Computing Architecture
+Retail,Cost reduction,Distributed,Monitoring,High,Low,Medium,Yes,Yes,Yes,Federated Architecture
+Healthcare,Reduce downtime,Distributed,Monitoring,Low,Low,High,No,Yes,Yes,Gateway-Mediated Edge Architecture
+Energy,Increase efficiency,Small,Real-time decision-making,Low,Medium,Low,No,Yes,Yes,Layered Edge Computing Architecture
+Energy,Increase efficiency,Small,Real-time decision-making,Low,Medium,High,No,Yes,No,Layered Edge Computing Architecture
+Agriculture,Increase efficiency,Small,Predictive maintenance,Low,Low,High,No,No,No,Centralized Cloud Architecture
+Agriculture,Cost reduction,Large,Predictive maintenance,Medium,Medium,Low,No,No,No,Federated Architecture
+Agriculture,Real-time analytics,Large,Monitoring,Low,Medium,Low,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Agriculture,Reduce downtime,Distributed,Predictive maintenance,High,High,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Flexibility,Medium,Monitoring,Medium,High,High,No,Yes,No,Service-Oriented Architecture (SOA)
+Manufacturing,Flexibility,Large,Real-time decision-making,Medium,Low,Medium,Yes,Yes,Yes,Layered Edge Computing Architecture
+Transportation,Increase efficiency,Medium,Predictive maintenance,Medium,High,Low,Yes,Yes,No,Layered Edge Computing Architecture
+Transportation,Cost reduction,Medium,Monitoring,Medium,Medium,High,Yes,Yes,No,Centralized Cloud Architecture
+Agriculture,Increase efficiency,Distributed,Optimization,High,Medium,Medium,No,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Cost reduction,Medium,Real-time decision-making,High,Medium,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Transportation,Cost reduction,Large,Real-time decision-making,Low,Low,Low,No,No,No,Centralized Cloud Architecture
+Manufacturing,Flexibility,Distributed,Monitoring,Medium,High,Low,Yes,No,No,Federated Architecture
+Agriculture,Cost reduction,Small,Monitoring,Low,Medium,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Agriculture,Reduce downtime,Small,Optimization,Low,Medium,Low,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Large,Real-time decision-making,Medium,Medium,Low,Yes,Yes,No,Centralized Cloud Architecture
+Manufacturing,Reduce downtime,Medium,Monitoring,Low,Medium,High,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Healthcare,Reduce downtime,Large,Predictive maintenance,High,Medium,Low,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Manufacturing,Increase efficiency,Distributed,Monitoring,Low,Medium,High,No,Yes,No,Layered Databus Architecture
+Transportation,Flexibility,Large,Monitoring,Low,Low,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Transportation,Reduce downtime,Large,Monitoring,High,High,Low,No,Yes,No,Centralized Cloud Architecture
+Transportation,Flexibility,Large,Optimization,Medium,Medium,Low,No,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Flexibility,Distributed,Real-time decision-making,Low,Low,Low,Yes,No,Yes,Federated Architecture
+Agriculture,Cost reduction,Medium,Monitoring,High,High,Low,No,Yes,No,Centralized Cloud Architecture
+Healthcare,Flexibility,Small,Predictive maintenance,Medium,High,Low,No,Yes,No,Service-Oriented Architecture (SOA)
+Retail,Increase efficiency,Distributed,Monitoring,Medium,High,High,Yes,No,No,Federated Architecture
+Retail,Real-time analytics,Large,Predictive maintenance,Low,High,Low,No,Yes,No,Gateway-Mediated Edge Architecture
+Retail,Cost reduction,Medium,Real-time decision-making,High,Medium,High,Yes,No,Yes,Layered Edge Computing Architecture
+Retail,Real-time analytics,Distributed,Real-time decision-making,Medium,Low,Medium,Yes,Yes,No,Federated Architecture
+Energy,Cost reduction,Distributed,Real-time decision-making,High,Low,Medium,No,Yes,No,Centralized Cloud Architecture
+Manufacturing,Real-time analytics,Small,Optimization,Low,Medium,Low,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Medium,Real-time decision-making,Medium,Low,Medium,Yes,No,Yes,Layered Edge Computing Architecture
+Retail,Cost reduction,Large,Predictive maintenance,Medium,Medium,High,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Retail,Reduce downtime,Large,Optimization,High,Medium,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Energy,Real-time analytics,Small,Real-time decision-making,Medium,Medium,Medium,No,Yes,Yes,Layered Edge Computing Architecture
+Transportation,Real-time analytics,Small,Monitoring,High,Medium,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Flexibility,Medium,Real-time decision-making,Medium,Medium,Low,Yes,No,No,Service-Oriented Architecture (SOA)
+Agriculture,Cost reduction,Large,Optimization,High,Medium,Low,No,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Reduce downtime,Distributed,Predictive maintenance,Low,High,High,Yes,Yes,Yes,Federated Architecture
+Transportation,Increase efficiency,Distributed,Monitoring,Low,Low,Low,Yes,Yes,No,Federated Architecture
+Agriculture,Increase efficiency,Medium,Optimization,Medium,Medium,High,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Real-time analytics,Large,Optimization,Low,Low,High,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Healthcare,Cost reduction,Large,Predictive maintenance,Low,Medium,Medium,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Flexibility,Medium,Predictive maintenance,High,High,High,No,Yes,Yes,Centralized Cloud Architecture
+Healthcare,Increase efficiency,Medium,Predictive maintenance,Low,Low,High,No,No,No,Centralized Cloud Architecture
+Retail,Real-time analytics,Medium,Real-time decision-making,Medium,Low,High,No,Yes,No,Centralized Cloud Architecture
+Retail,Real-time analytics,Large,Real-time decision-making,Low,Medium,High,No,Yes,No,Layered Databus Architecture
+Healthcare,Increase efficiency,Large,Monitoring,High,Medium,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Manufacturing,Real-time analytics,Small,Real-time decision-making,Medium,Medium,High,No,Yes,Yes,Layered Edge Computing Architecture
+Healthcare,Increase efficiency,Medium,Predictive maintenance,High,Medium,Medium,Yes,Yes,No,Centralized Cloud Architecture
+Energy,Cost reduction,Large,Optimization,Low,High,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Healthcare,Real-time analytics,Distributed,Optimization,High,Medium,Low,Yes,Yes,Yes,Federated Architecture
+Energy,Flexibility,Medium,Monitoring,Low,Low,Low,No,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Real-time analytics,Distributed,Optimization,High,High,Medium,Yes,No,Yes,Federated Architecture
+Manufacturing,Increase efficiency,Small,Real-time decision-making,Medium,Medium,High,Yes,Yes,No,Gateway-Mediated Edge Architecture
+Manufacturing,Increase efficiency,Small,Monitoring,Medium,High,High,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Increase efficiency,Medium,Monitoring,Low,Low,Low,No,No,Yes,Federated Architecture
+Agriculture,Real-time analytics,Small,Predictive maintenance,Low,Low,Medium,Yes,Yes,No,Layered Edge Computing Architecture
+Manufacturing,Cost reduction,Large,Real-time decision-making,High,Low,Medium,No,No,Yes,Layered Edge Computing Architecture
+Retail,Flexibility,Distributed,Predictive maintenance,Low,High,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Medium,Real-time decision-making,Low,Medium,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Healthcare,Flexibility,Distributed,Real-time decision-making,Medium,High,Low,Yes,Yes,Yes,Federated Architecture
+Retail,Cost reduction,Distributed,Optimization,High,Low,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Cost reduction,Medium,Optimization,High,Medium,Low,No,No,No,Service-Oriented Architecture (SOA)
+Energy,Flexibility,Distributed,Monitoring,Medium,Low,High,Yes,Yes,Yes,Federated Architecture
+Manufacturing,Cost reduction,Large,Optimization,Low,Medium,High,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Distributed,Optimization,Low,Medium,Medium,Yes,Yes,Yes,Federated Architecture
+Agriculture,Real-time analytics,Medium,Real-time decision-making,High,High,High,Yes,Yes,No,Centralized Cloud Architecture
+Agriculture,Increase efficiency,Distributed,Real-time decision-making,Medium,Low,High,No,Yes,No,Federated Architecture
+Agriculture,Reduce downtime,Small,Real-time decision-making,Low,Medium,Medium,Yes,No,Yes,Layered Edge Computing Architecture
+Energy,Increase efficiency,Medium,Monitoring,Low,Medium,Low,No,No,No,Layered Edge Computing Architecture
+Retail,Real-time analytics,Distributed,Predictive maintenance,Medium,Low,Low,No,No,Yes,Federated Architecture
+Energy,Real-time analytics,Small,Optimization,High,High,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Transportation,Cost reduction,Medium,Optimization,Low,Medium,Medium,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Retail,Flexibility,Medium,Monitoring,Medium,Low,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Energy,Real-time analytics,Medium,Monitoring,High,Low,High,No,Yes,Yes,Centralized Cloud Architecture
+Energy,Increase efficiency,Large,Optimization,Low,Medium,High,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Cost reduction,Medium,Real-time decision-making,High,Medium,Low,No,Yes,Yes,Centralized Cloud Architecture
+Agriculture,Flexibility,Medium,Optimization,Medium,High,Medium,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Reduce downtime,Distributed,Predictive maintenance,High,Low,Low,Yes,No,Yes,Federated Architecture
+Healthcare,Flexibility,Distributed,Predictive maintenance,Medium,Low,Low,Yes,No,Yes,Federated Architecture
+Retail,Increase efficiency,Medium,Real-time decision-making,Low,High,High,Yes,Yes,Yes,Layered Edge Computing Architecture
+Healthcare,Reduce downtime,Distributed,Optimization,High,Low,Low,Yes,No,Yes,Federated Architecture
+Healthcare,Flexibility,Small,Optimization,Low,High,Low,No,Yes,No,Service-Oriented Architecture (SOA)
+Manufacturing,Reduce downtime,Distributed,Optimization,Medium,High,Low,Yes,No,No,Federated Architecture
+Agriculture,Increase efficiency,Large,Monitoring,Medium,Medium,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Agriculture,Reduce downtime,Small,Real-time decision-making,High,Medium,Low,No,Yes,Yes,Centralized Cloud Architecture
+Retail,Increase efficiency,Small,Monitoring,Medium,Low,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Energy,Real-time analytics,Medium,Monitoring,Medium,Low,Medium,Yes,Yes,Yes,Centralized Cloud Architecture
+Healthcare,Increase efficiency,Distributed,Monitoring,Medium,Medium,High,Yes,No,No,Federated Architecture
+Healthcare,Real-time analytics,Large,Predictive maintenance,High,Medium,Low,Yes,Yes,Yes,Centralized Cloud Architecture
+Agriculture,Reduce downtime,Distributed,Real-time decision-making,Medium,Medium,High,No,No,Yes,Layered Edge Computing Architecture
+Manufacturing,Flexibility,Distributed,Predictive maintenance,Medium,Low,Medium,No,Yes,No,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Medium,Real-time decision-making,High,High,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Transportation,Flexibility,Small,Predictive maintenance,Medium,High,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Transportation,Reduce downtime,Medium,Optimization,Low,Low,High,No,No,No,Service-Oriented Architecture (SOA)
+Healthcare,Real-time analytics,Medium,Monitoring,Medium,Medium,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Medium,Optimization,High,Medium,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Increase efficiency,Large,Predictive maintenance,Low,Medium,Low,Yes,Yes,Yes,Gateway-Mediated Edge Architecture
+Retail,Real-time analytics,Small,Predictive maintenance,Medium,Medium,Low,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Transportation,Increase efficiency,Large,Monitoring,Medium,High,Low,No,No,No,Centralized Cloud Architecture
+Transportation,Cost reduction,Distributed,Predictive maintenance,Medium,High,Medium,Yes,No,No,Federated Architecture
+Energy,Increase efficiency,Medium,Monitoring,High,Medium,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Agriculture,Flexibility,Distributed,Optimization,Medium,Medium,Medium,Yes,Yes,No,Federated Architecture
+Energy,Increase efficiency,Distributed,Predictive maintenance,Low,Medium,Low,Yes,Yes,Yes,Federated Architecture
+Retail,Cost reduction,Small,Predictive maintenance,Medium,Low,High,No,Yes,No,Federated Architecture
+Energy,Real-time analytics,Medium,Real-time decision-making,Medium,High,High,No,Yes,No,Centralized Cloud Architecture
+Manufacturing,Cost reduction,Small,Optimization,High,High,High,No,No,No,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Small,Real-time decision-making,Low,Low,Medium,No,Yes,Yes,Layered Edge Computing Architecture
+Agriculture,Reduce downtime,Small,Predictive maintenance,High,High,Medium,No,Yes,Yes,Centralized Cloud Architecture
+Energy,Reduce downtime,Small,Monitoring,Medium,Low,Low,No,Yes,No,Gateway-Mediated Edge Architecture
+Retail,Reduce downtime,Small,Real-time decision-making,Medium,Medium,Low,No,Yes,Yes,Layered Edge Computing Architecture
+Energy,Flexibility,Large,Predictive maintenance,Low,High,Low,No,Yes,No,Service-Oriented Architecture (SOA)
+Agriculture,Reduce downtime,Medium,Real-time decision-making,Low,Medium,High,No,Yes,Yes,Layered Edge Computing Architecture
+Healthcare,Increase efficiency,Small,Real-time decision-making,High,Low,High,Yes,No,Yes,Layered Edge Computing Architecture
+Retail,Increase efficiency,Medium,Predictive maintenance,Low,Medium,High,No,Yes,No,Gateway-Mediated Edge Architecture
+Agriculture,Real-time analytics,Distributed,Predictive maintenance,Low,Medium,Medium,No,Yes,No,Layered Databus Architecture
+Transportation,Real-time analytics,Large,Real-time decision-making,High,High,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Retail,Flexibility,Distributed,Monitoring,High,Low,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Real-time analytics,Small,Monitoring,Medium,Medium,High,No,No,No,Centralized Cloud Architecture
+Agriculture,Real-time analytics,Distributed,Real-time decision-making,Low,Low,Low,No,Yes,Yes,Layered Edge Computing Architecture
+Healthcare,Real-time analytics,Large,Predictive maintenance,Low,Medium,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Retail,Increase efficiency,Distributed,Predictive maintenance,Low,Low,High,No,Yes,No,Layered Edge Computing Architecture
+Transportation,Real-time analytics,Small,Predictive maintenance,Low,Low,Low,No,No,No,Centralized Cloud Architecture
+Transportation,Real-time analytics,Distributed,Real-time decision-making,Medium,Medium,Low,No,Yes,No,Service-Oriented Architecture (SOA)
+Manufacturing,Flexibility,Large,Predictive maintenance,Low,Low,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Cost reduction,Medium,Real-time decision-making,Low,Low,High,No,No,No,Federated Architecture
+Retail,Increase efficiency,Medium,Predictive maintenance,Low,High,Low,No,Yes,No,Service-Oriented Architecture (SOA)
+Healthcare,Flexibility,Distributed,Real-time decision-making,Medium,High,Low,Yes,Yes,Yes,Federated Architecture
+Agriculture,Increase efficiency,Large,Optimization,Low,High,Medium,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Small,Predictive maintenance,Low,Low,Low,No,Yes,No,Layered Databus Architecture
+Agriculture,Cost reduction,Small,Predictive maintenance,Low,Low,High,Yes,Yes,No,Centralized Cloud Architecture
+Energy,Flexibility,Distributed,Predictive maintenance,High,High,High,Yes,No,Yes,Federated Architecture
+Energy,Reduce downtime,Medium,Optimization,Medium,Low,Medium,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Small,Optimization,High,Medium,Low,Yes,No,No,Service-Oriented Architecture (SOA)
+Agriculture,Real-time analytics,Large,Predictive maintenance,Low,High,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Agriculture,Real-time analytics,Distributed,Real-time decision-making,Low,High,High,Yes,No,No,Federated Architecture
+Healthcare,Increase efficiency,Distributed,Optimization,High,Low,Medium,Yes,Yes,Yes,Federated Architecture
+Transportation,Flexibility,Distributed,Optimization,High,Medium,High,No,Yes,Yes,Centralized Cloud Architecture
+Healthcare,Flexibility,Medium,Predictive maintenance,Low,Low,High,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Energy,Cost reduction,Distributed,Predictive maintenance,Medium,Low,High,Yes,Yes,No,Federated Architecture
+Healthcare,Reduce downtime,Medium,Real-time decision-making,High,Medium,Low,No,Yes,Yes,Centralized Cloud Architecture
+Retail,Cost reduction,Medium,Predictive maintenance,Low,Medium,High,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Energy,Real-time analytics,Small,Monitoring,High,High,Low,No,Yes,Yes,Centralized Cloud Architecture
+Retail,Flexibility,Distributed,Optimization,Low,Medium,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Increase efficiency,Medium,Monitoring,Medium,Low,Low,Yes,Yes,No,Centralized Cloud Architecture
+Healthcare,Cost reduction,Small,Monitoring,Medium,Low,High,Yes,Yes,Yes,Layered Databus Architecture
+Energy,Real-time analytics,Medium,Optimization,Low,High,High,No,Yes,No,Service-Oriented Architecture (SOA)
+Healthcare,Increase efficiency,Large,Real-time decision-making,Medium,Medium,Low,Yes,No,Yes,Layered Edge Computing Architecture
+Healthcare,Increase efficiency,Small,Monitoring,Medium,Medium,Medium,No,Yes,Yes,Layered Databus Architecture
+Agriculture,Flexibility,Distributed,Monitoring,Low,High,High,Yes,No,Yes,Federated Architecture
+Retail,Increase efficiency,Medium,Monitoring,Low,High,Low,No,No,No,Gateway-Mediated Edge Architecture
+Agriculture,Real-time analytics,Small,Predictive maintenance,High,Medium,Low,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Agriculture,Flexibility,Medium,Monitoring,Medium,Low,Low,No,No,No,Service-Oriented Architecture (SOA)
+Energy,Reduce downtime,Medium,Monitoring,High,High,Medium,No,Yes,No,Centralized Cloud Architecture
+Agriculture,Cost reduction,Small,Monitoring,High,Medium,Medium,No,No,Yes,Federated Architecture
+Transportation,Real-time analytics,Large,Optimization,High,Medium,Low,Yes,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Increase efficiency,Small,Predictive maintenance,High,Low,Medium,No,Yes,No,Centralized Cloud Architecture
+Healthcare,Cost reduction,Distributed,Monitoring,Low,High,High,No,Yes,Yes,Layered Edge Computing Architecture
+Retail,Increase efficiency,Medium,Real-time decision-making,Medium,Medium,High,Yes,No,Yes,Layered Edge Computing Architecture
+Healthcare,Cost reduction,Medium,Real-time decision-making,Low,Low,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Manufacturing,Reduce downtime,Large,Real-time decision-making,Low,Low,High,No,Yes,No,Layered Databus Architecture
+Agriculture,Flexibility,Small,Predictive maintenance,Low,High,High,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Increase efficiency,Distributed,Predictive maintenance,Low,Medium,Low,No,No,Yes,Federated Architecture
+Manufacturing,Reduce downtime,Small,Real-time decision-making,High,Medium,Low,Yes,Yes,Yes,Centralized Cloud Architecture
+Agriculture,Real-time analytics,Medium,Optimization,High,Medium,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Healthcare,Reduce downtime,Distributed,Optimization,Medium,High,Low,Yes,Yes,No,Federated Architecture
+Transportation,Reduce downtime,Distributed,Predictive maintenance,Medium,Low,Medium,Yes,Yes,No,Federated Architecture
+Energy,Reduce downtime,Medium,Predictive maintenance,High,Low,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Agriculture,Cost reduction,Distributed,Optimization,Low,Low,Low,Yes,Yes,Yes,Federated Architecture
+Transportation,Reduce downtime,Medium,Monitoring,Medium,Low,Low,No,No,No,Centralized Cloud Architecture
+Energy,Real-time analytics,Small,Optimization,Medium,Low,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Agriculture,Flexibility,Distributed,Monitoring,High,High,High,Yes,Yes,No,Federated Architecture
+Energy,Flexibility,Medium,Monitoring,Low,Low,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Healthcare,Real-time analytics,Small,Monitoring,Low,Low,High,No,Yes,Yes,Layered Databus Architecture
+Manufacturing,Cost reduction,Medium,Real-time decision-making,Low,High,Medium,Yes,Yes,No,Federated Architecture
+Retail,Cost reduction,Small,Real-time decision-making,Medium,High,Medium,Yes,No,Yes,Layered Edge Computing Architecture
+Energy,Flexibility,Medium,Predictive maintenance,Low,Low,High,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Increase efficiency,Small,Predictive maintenance,Medium,Low,High,Yes,Yes,No,Layered Databus Architecture
+Healthcare,Increase efficiency,Large,Real-time decision-making,High,High,Low,No,No,No,Federated Architecture
+Energy,Cost reduction,Large,Predictive maintenance,High,Low,High,Yes,Yes,Yes,Layered Edge Computing Architecture
+Manufacturing,Reduce downtime,Small,Predictive maintenance,Medium,High,Low,No,No,No,Layered Databus Architecture
+Transportation,Reduce downtime,Large,Real-time decision-making,Medium,Low,Low,No,No,No,Layered Databus Architecture
+Energy,Reduce downtime,Distributed,Predictive maintenance,Medium,Medium,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Large,Real-time decision-making,High,Medium,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Healthcare,Cost reduction,Large,Real-time decision-making,High,Low,High,Yes,No,Yes,Layered Edge Computing Architecture
+Energy,Increase efficiency,Small,Predictive maintenance,Low,Low,Low,No,Yes,Yes,Federated Architecture
+Transportation,Increase efficiency,Medium,Monitoring,Medium,High,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Transportation,Real-time analytics,Distributed,Real-time decision-making,Low,Medium,High,No,No,Yes,Layered Edge Computing Architecture
+Healthcare,Cost reduction,Small,Optimization,High,Low,Medium,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Energy,Increase efficiency,Distributed,Predictive maintenance,Medium,High,Low,No,Yes,No,Centralized Cloud Architecture
+Healthcare,Real-time analytics,Small,Optimization,Low,Medium,Medium,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Flexibility,Large,Real-time decision-making,Medium,High,High,No,No,Yes,Layered Edge Computing Architecture
+Agriculture,Flexibility,Large,Real-time decision-making,Medium,High,High,No,No,No,Service-Oriented Architecture (SOA)
+Agriculture,Cost reduction,Distributed,Predictive maintenance,Low,Low,Low,Yes,No,No,Federated Architecture
+Healthcare,Flexibility,Large,Monitoring,Medium,High,High,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Energy,Cost reduction,Medium,Optimization,Low,Medium,Medium,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Reduce downtime,Distributed,Optimization,Low,High,Low,Yes,Yes,No,Federated Architecture
+Retail,Real-time analytics,Distributed,Real-time decision-making,High,Low,Medium,No,Yes,No,Centralized Cloud Architecture
+Retail,Real-time analytics,Medium,Real-time decision-making,Medium,High,High,Yes,No,Yes,Layered Edge Computing Architecture
+Agriculture,Increase efficiency,Distributed,Monitoring,Low,Low,Medium,No,Yes,No,Federated Architecture
+Healthcare,Increase efficiency,Medium,Real-time decision-making,High,Medium,Medium,No,No,Yes,Layered Edge Computing Architecture
+Agriculture,Increase efficiency,Large,Real-time decision-making,Medium,Medium,High,No,Yes,No,Layered Edge Computing Architecture
+Healthcare,Real-time analytics,Large,Optimization,Medium,Low,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Large,Optimization,High,Low,Low,No,No,Yes,Layered Edge Computing Architecture
+Transportation,Flexibility,Medium,Monitoring,Medium,Low,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Energy,Real-time analytics,Large,Monitoring,Low,Low,High,No,Yes,No,Layered Edge Computing Architecture
+Transportation,Increase efficiency,Medium,Monitoring,Medium,Low,Medium,No,No,No,Federated Architecture
+Energy,Flexibility,Medium,Real-time decision-making,Low,Low,Low,No,Yes,No,Service-Oriented Architecture (SOA)
+Healthcare,Flexibility,Large,Predictive maintenance,High,Medium,Low,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Increase efficiency,Medium,Predictive maintenance,Medium,Low,Low,No,No,No,Centralized Cloud Architecture
+Manufacturing,Real-time analytics,Distributed,Predictive maintenance,Low,Low,Medium,Yes,Yes,Yes,Federated Architecture
+Agriculture,Reduce downtime,Medium,Predictive maintenance,Low,High,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Retail,Real-time analytics,Medium,Optimization,Medium,High,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Large,Optimization,Medium,Low,Medium,No,No,Yes,Service-Oriented Architecture (SOA)
+Energy,Real-time analytics,Distributed,Predictive maintenance,Medium,Low,Medium,No,Yes,Yes,Centralized Cloud Architecture
+Transportation,Real-time analytics,Medium,Optimization,Medium,Low,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Large,Monitoring,Medium,High,Low,No,No,Yes,Centralized Cloud Architecture
+Retail,Cost reduction,Medium,Real-time decision-making,Low,Medium,High,Yes,Yes,Yes,Layered Edge Computing Architecture
+Retail,Flexibility,Distributed,Monitoring,High,Low,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Increase efficiency,Distributed,Optimization,Medium,Medium,Low,Yes,Yes,Yes,Federated Architecture
+Healthcare,Reduce downtime,Distributed,Optimization,Low,Low,Medium,No,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Large,Predictive maintenance,High,High,Low,No,No,No,Gateway-Mediated Edge Architecture
+Retail,Reduce downtime,Small,Real-time decision-making,Low,Medium,High,No,Yes,No,Layered Edge Computing Architecture
+Manufacturing,Real-time analytics,Small,Real-time decision-making,Medium,Medium,High,No,Yes,Yes,Layered Edge Computing Architecture
+Healthcare,Flexibility,Small,Predictive maintenance,Low,High,Medium,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Flexibility,Small,Optimization,High,High,Medium,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Energy,Real-time analytics,Medium,Predictive maintenance,Medium,Medium,Medium,No,No,Yes,Layered Edge Computing Architecture
+Energy,Cost reduction,Distributed,Monitoring,High,Low,Medium,No,Yes,No,Centralized Cloud Architecture
+Transportation,Increase efficiency,Distributed,Predictive maintenance,High,Low,Medium,No,No,No,Centralized Cloud Architecture
+Manufacturing,Flexibility,Distributed,Real-time decision-making,High,High,High,No,No,No,Service-Oriented Architecture (SOA)
+Transportation,Reduce downtime,Small,Predictive maintenance,High,Low,Low,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Transportation,Flexibility,Large,Predictive maintenance,Low,Medium,High,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Medium,Predictive maintenance,Low,Medium,Medium,No,Yes,No,Centralized Cloud Architecture
+Retail,Reduce downtime,Medium,Monitoring,Medium,Low,High,Yes,Yes,No,Gateway-Mediated Edge Architecture
+Healthcare,Flexibility,Distributed,Optimization,High,Low,Medium,No,Yes,Yes,Centralized Cloud Architecture
+Retail,Reduce downtime,Medium,Predictive maintenance,Low,Medium,High,Yes,Yes,No,Layered Edge Computing Architecture
+Manufacturing,Cost reduction,Small,Real-time decision-making,High,Low,Low,No,No,No,Gateway-Mediated Edge Architecture
+Healthcare,Cost reduction,Medium,Optimization,Medium,High,Low,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Small,Predictive maintenance,High,Medium,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Manufacturing,Flexibility,Large,Real-time decision-making,Low,High,High,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Healthcare,Increase efficiency,Small,Predictive maintenance,Low,Low,Medium,Yes,Yes,Yes,Layered Edge Computing Architecture
+Healthcare,Real-time analytics,Distributed,Monitoring,Low,High,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Small,Predictive maintenance,High,Medium,Low,No,No,Yes,Centralized Cloud Architecture
+Healthcare,Real-time analytics,Distributed,Real-time decision-making,Low,High,Low,No,No,No,Layered Edge Computing Architecture
+Manufacturing,Flexibility,Medium,Monitoring,Low,High,Low,Yes,No,No,Service-Oriented Architecture (SOA)
+Transportation,Flexibility,Small,Predictive maintenance,Low,Low,Low,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Increase efficiency,Distributed,Monitoring,High,Low,High,No,Yes,No,Centralized Cloud Architecture
+Manufacturing,Flexibility,Distributed,Optimization,High,Low,High,No,Yes,Yes,Centralized Cloud Architecture
+Healthcare,Cost reduction,Small,Real-time decision-making,Low,Low,Medium,No,No,No,Gateway-Mediated Edge Architecture
+Energy,Cost reduction,Large,Optimization,Low,Medium,High,No,Yes,No,Service-Oriented Architecture (SOA)
+Transportation,Cost reduction,Distributed,Predictive maintenance,Low,Low,Low,Yes,No,No,Federated Architecture
+Healthcare,Flexibility,Small,Monitoring,Low,High,High,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Healthcare,Reduce downtime,Small,Optimization,High,High,High,No,Yes,No,Centralized Cloud Architecture
+Retail,Cost reduction,Large,Predictive maintenance,Low,Low,Low,No,Yes,No,Layered Databus Architecture
+Healthcare,Flexibility,Large,Monitoring,Low,Medium,Medium,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Real-time analytics,Distributed,Predictive maintenance,Low,Low,Medium,Yes,No,Yes,Federated Architecture
+Healthcare,Cost reduction,Large,Predictive maintenance,High,Medium,Low,No,No,No,Layered Edge Computing Architecture
+Manufacturing,Cost reduction,Medium,Predictive maintenance,High,High,Medium,Yes,Yes,Yes,Centralized Cloud Architecture
+Healthcare,Reduce downtime,Large,Optimization,Low,Medium,Low,No,No,No,Service-Oriented Architecture (SOA)
+Energy,Flexibility,Large,Predictive maintenance,High,Medium,High,No,Yes,Yes,Centralized Cloud Architecture
+Healthcare,Cost reduction,Medium,Monitoring,High,Low,High,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Retail,Increase efficiency,Small,Optimization,High,High,High,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Healthcare,Cost reduction,Medium,Monitoring,High,Medium,High,Yes,Yes,No,Centralized Cloud Architecture
+Retail,Increase efficiency,Large,Monitoring,Medium,Medium,Medium,Yes,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Reduce downtime,Medium,Monitoring,Low,Low,Medium,No,No,No,Gateway-Mediated Edge Architecture
+Energy,Flexibility,Small,Optimization,Medium,Low,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Agriculture,Real-time analytics,Large,Monitoring,Medium,High,Low,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Healthcare,Increase efficiency,Medium,Optimization,High,Medium,Medium,No,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Flexibility,Small,Monitoring,Medium,Low,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Distributed,Optimization,High,High,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Energy,Cost reduction,Distributed,Optimization,Low,High,High,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Energy,Real-time analytics,Distributed,Optimization,High,High,High,Yes,Yes,No,Federated Architecture
+Agriculture,Reduce downtime,Large,Predictive maintenance,Medium,Low,High,Yes,Yes,No,Layered Edge Computing Architecture
+Manufacturing,Real-time analytics,Medium,Predictive maintenance,Low,Low,High,Yes,Yes,No,Layered Databus Architecture
+Retail,Real-time analytics,Distributed,Optimization,High,High,High,Yes,No,Yes,Federated Architecture
+Energy,Flexibility,Distributed,Real-time decision-making,High,Low,High,No,Yes,No,Centralized Cloud Architecture
+Energy,Increase efficiency,Small,Real-time decision-making,High,Low,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Agriculture,Flexibility,Distributed,Optimization,Medium,High,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Healthcare,Flexibility,Medium,Optimization,High,Medium,Medium,Yes,Yes,Yes,Centralized Cloud Architecture
+Energy,Reduce downtime,Small,Predictive maintenance,Low,Medium,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Energy,Reduce downtime,Large,Monitoring,Low,Medium,Medium,No,Yes,No,Layered Databus Architecture
+Retail,Flexibility,Large,Real-time decision-making,Low,High,Low,No,Yes,No,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Large,Optimization,Low,High,High,Yes,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Flexibility,Medium,Real-time decision-making,High,Medium,Medium,Yes,No,Yes,Layered Edge Computing Architecture
+Transportation,Cost reduction,Medium,Predictive maintenance,Low,High,High,No,Yes,Yes,Gateway-Mediated Edge Architecture
+Manufacturing,Flexibility,Large,Predictive maintenance,High,Low,High,No,Yes,No,Layered Edge Computing Architecture
+Energy,Reduce downtime,Distributed,Optimization,Low,Low,Low,Yes,No,No,Federated Architecture
+Energy,Real-time analytics,Large,Monitoring,Low,Low,Low,No,Yes,No,Layered Edge Computing Architecture
+Manufacturing,Reduce downtime,Distributed,Predictive maintenance,Medium,High,Medium,Yes,Yes,Yes,Federated Architecture
+Transportation,Real-time analytics,Distributed,Optimization,High,High,High,Yes,Yes,No,Federated Architecture
+Energy,Cost reduction,Distributed,Monitoring,High,Low,Medium,Yes,No,Yes,Federated Architecture
+Manufacturing,Increase efficiency,Distributed,Optimization,Low,High,Low,Yes,No,Yes,Federated Architecture
+Agriculture,Real-time analytics,Small,Optimization,Low,Low,High,No,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Cost reduction,Small,Monitoring,Medium,Medium,High,No,No,Yes,Centralized Cloud Architecture
+Energy,Flexibility,Distributed,Monitoring,Low,High,High,Yes,No,No,Federated Architecture
+Energy,Cost reduction,Distributed,Monitoring,High,Medium,High,No,No,No,Layered Edge Computing Architecture
+Manufacturing,Real-time analytics,Medium,Optimization,Medium,High,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Transportation,Cost reduction,Medium,Optimization,Low,Low,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Healthcare,Reduce downtime,Large,Optimization,Medium,Medium,Medium,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Cost reduction,Medium,Monitoring,Medium,Medium,Medium,No,No,Yes,Centralized Cloud Architecture
+Agriculture,Reduce downtime,Medium,Real-time decision-making,Medium,High,Medium,Yes,Yes,No,Federated Architecture
+Retail,Flexibility,Large,Predictive maintenance,High,Medium,High,No,No,No,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Large,Monitoring,Medium,Medium,High,Yes,Yes,Yes,Layered Databus Architecture
+Healthcare,Reduce downtime,Large,Predictive maintenance,Medium,High,High,Yes,Yes,No,Federated Architecture
+Manufacturing,Cost reduction,Medium,Optimization,Low,Low,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Reduce downtime,Distributed,Real-time decision-making,Low,Medium,High,Yes,No,Yes,Federated Architecture
+Manufacturing,Cost reduction,Small,Optimization,Medium,Medium,High,Yes,No,No,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Large,Optimization,Medium,Low,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Transportation,Flexibility,Medium,Predictive maintenance,Medium,Medium,High,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Distributed,Predictive maintenance,Low,High,Low,Yes,Yes,No,Federated Architecture
+Healthcare,Flexibility,Distributed,Predictive maintenance,Low,Low,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Real-time analytics,Medium,Predictive maintenance,Low,Low,Low,Yes,Yes,No,Centralized Cloud Architecture
+Manufacturing,Cost reduction,Small,Optimization,High,High,Low,No,Yes,Yes,Centralized Cloud Architecture
+Healthcare,Real-time analytics,Large,Monitoring,Low,Low,Low,No,Yes,Yes,Layered Databus Architecture
+Healthcare,Real-time analytics,Distributed,Real-time decision-making,High,Low,Medium,No,Yes,Yes,Centralized Cloud Architecture
+Retail,Increase efficiency,Large,Real-time decision-making,High,Medium,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Cost reduction,Medium,Predictive maintenance,Medium,Low,Low,Yes,Yes,Yes,Layered Edge Computing Architecture
+Retail,Real-time analytics,Small,Real-time decision-making,High,High,High,No,Yes,No,Centralized Cloud Architecture
+Agriculture,Flexibility,Large,Optimization,Low,Low,Medium,No,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Flexibility,Distributed,Real-time decision-making,Medium,Low,High,Yes,Yes,Yes,Federated Architecture
+Healthcare,Real-time analytics,Large,Predictive maintenance,High,Low,High,No,Yes,No,Layered Edge Computing Architecture
+Transportation,Real-time analytics,Distributed,Predictive maintenance,High,Low,High,Yes,Yes,Yes,Federated Architecture
+Retail,Reduce downtime,Small,Monitoring,Medium,Low,High,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Transportation,Real-time analytics,Large,Predictive maintenance,Medium,High,Low,Yes,Yes,No,Centralized Cloud Architecture
+Agriculture,Flexibility,Large,Predictive maintenance,Low,Medium,Medium,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Increase efficiency,Medium,Monitoring,High,High,Medium,No,No,Yes,Layered Databus Architecture
+Retail,Reduce downtime,Distributed,Optimization,High,Medium,High,No,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Reduce downtime,Small,Predictive maintenance,Low,Medium,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Flexibility,Medium,Real-time decision-making,Medium,Medium,High,No,No,No,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Small,Real-time decision-making,Medium,High,Low,Yes,Yes,Yes,Layered Edge Computing Architecture
+Healthcare,Increase efficiency,Large,Real-time decision-making,High,High,High,Yes,Yes,No,Centralized Cloud Architecture
+Healthcare,Cost reduction,Small,Predictive maintenance,Medium,Low,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Retail,Cost reduction,Medium,Predictive maintenance,High,Low,Medium,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Retail,Real-time analytics,Medium,Monitoring,Low,Low,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Real-time analytics,Large,Real-time decision-making,High,Low,Medium,No,Yes,No,Layered Edge Computing Architecture
+Retail,Flexibility,Small,Predictive maintenance,Medium,High,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Reduce downtime,Medium,Predictive maintenance,Low,Low,Low,No,Yes,Yes,Layered Databus Architecture
+Transportation,Cost reduction,Distributed,Optimization,Low,Medium,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Agriculture,Cost reduction,Medium,Real-time decision-making,High,High,Medium,No,No,Yes,Layered Edge Computing Architecture
+Agriculture,Cost reduction,Small,Predictive maintenance,Medium,Low,High,Yes,Yes,No,Federated Architecture
+Agriculture,Increase efficiency,Large,Predictive maintenance,High,Medium,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Manufacturing,Real-time analytics,Medium,Predictive maintenance,High,Low,Medium,No,No,No,Centralized Cloud Architecture
+Energy,Increase efficiency,Distributed,Optimization,Low,High,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Reduce downtime,Medium,Predictive maintenance,Low,Low,High,Yes,Yes,No,Layered Edge Computing Architecture
+Transportation,Flexibility,Small,Monitoring,Low,High,High,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Healthcare,Cost reduction,Small,Real-time decision-making,Medium,Medium,Medium,No,Yes,Yes,Layered Edge Computing Architecture
+Retail,Reduce downtime,Small,Optimization,Medium,Medium,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Cost reduction,Large,Predictive maintenance,High,Low,Low,Yes,Yes,No,Layered Edge Computing Architecture
+Transportation,Real-time analytics,Medium,Predictive maintenance,High,High,Low,Yes,Yes,No,Centralized Cloud Architecture
+Retail,Flexibility,Large,Monitoring,Medium,High,Medium,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Medium,Optimization,High,Low,Low,No,Yes,Yes,Centralized Cloud Architecture
+Agriculture,Flexibility,Medium,Optimization,High,High,Medium,No,Yes,No,Centralized Cloud Architecture
+Healthcare,Flexibility,Large,Monitoring,Medium,High,High,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Reduce downtime,Medium,Real-time decision-making,Low,High,Low,No,No,No,Layered Databus Architecture
+Retail,Real-time analytics,Medium,Optimization,Low,Medium,Medium,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Transportation,Real-time analytics,Distributed,Predictive maintenance,Low,Low,Low,No,Yes,No,Centralized Cloud Architecture
+Transportation,Increase efficiency,Small,Optimization,Medium,Medium,High,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Increase efficiency,Small,Predictive maintenance,Low,High,Medium,No,No,No,Gateway-Mediated Edge Architecture
+Retail,Flexibility,Small,Real-time decision-making,Low,Medium,High,Yes,No,No,Service-Oriented Architecture (SOA)
+Agriculture,Reduce downtime,Large,Monitoring,High,High,High,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Healthcare,Increase efficiency,Medium,Real-time decision-making,Low,High,Low,Yes,No,Yes,Layered Edge Computing Architecture
+Transportation,Reduce downtime,Distributed,Real-time decision-making,Medium,High,High,No,Yes,Yes,Layered Edge Computing Architecture
+Agriculture,Increase efficiency,Distributed,Predictive maintenance,High,Low,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Real-time analytics,Small,Optimization,High,High,Medium,No,Yes,No,Centralized Cloud Architecture
+Energy,Reduce downtime,Distributed,Monitoring,Medium,Medium,Medium,Yes,No,Yes,Federated Architecture
+Energy,Flexibility,Medium,Optimization,Low,High,High,No,Yes,No,Service-Oriented Architecture (SOA)
+Retail,Reduce downtime,Small,Monitoring,Low,High,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Retail,Flexibility,Small,Monitoring,Medium,High,Low,No,No,No,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Small,Real-time decision-making,Low,High,Medium,No,No,Yes,Layered Edge Computing Architecture
+Retail,Reduce downtime,Small,Optimization,High,Low,Medium,Yes,Yes,Yes,Centralized Cloud Architecture
+Transportation,Increase efficiency,Medium,Monitoring,Medium,Low,Medium,No,No,Yes,Layered Databus Architecture
+Energy,Cost reduction,Medium,Predictive maintenance,High,High,High,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Retail,Flexibility,Distributed,Monitoring,High,Low,Low,No,Yes,No,Centralized Cloud Architecture
+Agriculture,Flexibility,Medium,Optimization,High,Low,Low,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Real-time analytics,Large,Predictive maintenance,High,High,Medium,No,No,No,Federated Architecture
+Transportation,Cost reduction,Large,Monitoring,Low,Medium,Low,No,Yes,Yes,Centralized Cloud Architecture
+Retail,Flexibility,Large,Real-time decision-making,High,High,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Energy,Increase efficiency,Small,Optimization,Low,Medium,Medium,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Large,Real-time decision-making,Medium,Low,Medium,No,Yes,Yes,Layered Edge Computing Architecture
+Agriculture,Real-time analytics,Small,Real-time decision-making,Low,Low,Low,No,No,No,Centralized Cloud Architecture
+Energy,Flexibility,Distributed,Optimization,Low,Low,Medium,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Energy,Cost reduction,Medium,Real-time decision-making,Medium,Low,Medium,Yes,No,Yes,Layered Edge Computing Architecture
+Manufacturing,Real-time analytics,Small,Predictive maintenance,Medium,Low,Medium,No,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Cost reduction,Small,Monitoring,Medium,Medium,Medium,Yes,Yes,Yes,Centralized Cloud Architecture
+Transportation,Increase efficiency,Medium,Monitoring,Medium,High,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Healthcare,Increase efficiency,Distributed,Predictive maintenance,Medium,High,Low,Yes,No,Yes,Federated Architecture
+Retail,Flexibility,Medium,Predictive maintenance,Medium,High,Medium,No,Yes,No,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Small,Real-time decision-making,Low,Medium,Low,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Large,Predictive maintenance,High,Low,Low,No,Yes,Yes,Layered Edge Computing Architecture
+Healthcare,Real-time analytics,Small,Predictive maintenance,High,Medium,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Energy,Reduce downtime,Small,Optimization,Low,Low,High,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Flexibility,Small,Predictive maintenance,High,Medium,High,Yes,No,No,Service-Oriented Architecture (SOA)
+Transportation,Flexibility,Distributed,Monitoring,Low,High,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Retail,Increase efficiency,Small,Predictive maintenance,Medium,Medium,Low,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Energy,Reduce downtime,Large,Optimization,Low,Low,Low,No,No,No,Service-Oriented Architecture (SOA)
+Retail,Increase efficiency,Small,Predictive maintenance,Low,Low,Medium,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Reduce downtime,Small,Predictive maintenance,Medium,Low,Medium,No,No,Yes,Centralized Cloud Architecture
+Manufacturing,Real-time analytics,Small,Predictive maintenance,Low,High,Low,No,No,Yes,Layered Edge Computing Architecture
+Energy,Increase efficiency,Large,Predictive maintenance,Medium,High,Medium,No,No,No,Layered Edge Computing Architecture
+Agriculture,Increase efficiency,Small,Optimization,Medium,High,Low,Yes,No,No,Service-Oriented Architecture (SOA)
+Transportation,Real-time analytics,Medium,Predictive maintenance,Medium,Medium,Low,No,Yes,Yes,Layered Databus Architecture
+Energy,Real-time analytics,Medium,Monitoring,High,Low,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Manufacturing,Real-time analytics,Large,Monitoring,Medium,Low,Medium,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Transportation,Reduce downtime,Small,Real-time decision-making,Low,High,Low,No,Yes,Yes,Layered Edge Computing Architecture
+Transportation,Cost reduction,Large,Real-time decision-making,Low,High,Low,No,Yes,Yes,Layered Edge Computing Architecture
+Agriculture,Flexibility,Large,Predictive maintenance,Medium,Low,Low,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Real-time analytics,Large,Predictive maintenance,Low,Medium,Low,No,No,Yes,Layered Edge Computing Architecture
+Manufacturing,Increase efficiency,Medium,Optimization,Low,High,Low,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Flexibility,Small,Predictive maintenance,High,Low,Medium,No,Yes,No,Centralized Cloud Architecture
+Transportation,Reduce downtime,Medium,Optimization,High,Medium,Low,Yes,No,No,Service-Oriented Architecture (SOA)
+Agriculture,Flexibility,Large,Optimization,Low,Low,Medium,No,Yes,No,Service-Oriented Architecture (SOA)
+Agriculture,Real-time analytics,Medium,Predictive maintenance,High,High,Low,Yes,Yes,No,Centralized Cloud Architecture
+Healthcare,Increase efficiency,Small,Optimization,High,Low,High,No,No,No,Service-Oriented Architecture (SOA)
+Agriculture,Flexibility,Large,Predictive maintenance,High,Medium,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Flexibility,Small,Real-time decision-making,Medium,Low,Low,No,Yes,No,Service-Oriented Architecture (SOA)
+Healthcare,Reduce downtime,Large,Monitoring,High,High,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Reduce downtime,Distributed,Predictive maintenance,Low,Medium,Low,Yes,Yes,Yes,Federated Architecture
+Transportation,Real-time analytics,Large,Optimization,Low,High,Low,No,No,No,Service-Oriented Architecture (SOA)
+Healthcare,Real-time analytics,Large,Real-time decision-making,Medium,Low,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Manufacturing,Cost reduction,Large,Monitoring,Medium,Low,Medium,Yes,Yes,Yes,Centralized Cloud Architecture
+Agriculture,Cost reduction,Large,Real-time decision-making,High,Low,High,No,No,No,Layered Edge Computing Architecture
+Energy,Increase efficiency,Distributed,Predictive maintenance,Low,Medium,High,No,Yes,No,Centralized Cloud Architecture
+Energy,Reduce downtime,Distributed,Monitoring,Low,High,Low,Yes,No,No,Federated Architecture
+Transportation,Reduce downtime,Large,Predictive maintenance,High,High,High,No,Yes,No,Centralized Cloud Architecture
+Energy,Cost reduction,Large,Optimization,Low,Low,High,Yes,No,No,Service-Oriented Architecture (SOA)
+Healthcare,Real-time analytics,Large,Monitoring,High,High,High,No,Yes,No,Centralized Cloud Architecture
+Agriculture,Increase efficiency,Large,Real-time decision-making,High,Medium,Medium,Yes,Yes,Yes,Centralized Cloud Architecture
+Healthcare,Flexibility,Medium,Predictive maintenance,Medium,Low,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Retail,Increase efficiency,Large,Predictive maintenance,Low,High,Low,No,No,Yes,Federated Architecture
+Manufacturing,Increase efficiency,Small,Monitoring,Low,Low,Medium,Yes,Yes,Yes,Layered Databus Architecture
+Manufacturing,Real-time analytics,Medium,Optimization,Medium,High,High,Yes,No,No,Service-Oriented Architecture (SOA)
+Agriculture,Reduce downtime,Small,Predictive maintenance,High,Medium,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Healthcare,Flexibility,Medium,Predictive maintenance,Medium,Low,Medium,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Cost reduction,Distributed,Real-time decision-making,Low,Medium,Low,No,No,Yes,Layered Edge Computing Architecture
+Manufacturing,Flexibility,Small,Monitoring,High,Medium,Low,No,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Flexibility,Small,Predictive maintenance,Low,High,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Transportation,Cost reduction,Medium,Monitoring,Medium,Medium,Medium,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Manufacturing,Reduce downtime,Distributed,Real-time decision-making,High,Medium,Low,Yes,Yes,No,Federated Architecture
+Manufacturing,Real-time analytics,Medium,Optimization,Medium,Low,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Cost reduction,Large,Real-time decision-making,High,Low,Low,No,Yes,No,Layered Edge Computing Architecture
+Energy,Increase efficiency,Medium,Predictive maintenance,Low,High,Medium,No,No,No,Centralized Cloud Architecture
+Manufacturing,Real-time analytics,Small,Predictive maintenance,High,Medium,Medium,No,No,Yes,Layered Edge Computing Architecture
+Retail,Cost reduction,Large,Monitoring,High,Low,Medium,Yes,Yes,No,Layered Edge Computing Architecture
+Manufacturing,Cost reduction,Large,Optimization,High,Low,Medium,No,Yes,No,Layered Edge Computing Architecture
+Retail,Cost reduction,Distributed,Monitoring,Low,Low,High,No,No,No,Layered Databus Architecture
+Transportation,Increase efficiency,Distributed,Real-time decision-making,High,Medium,High,No,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Flexibility,Medium,Optimization,Low,Medium,High,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Reduce downtime,Large,Predictive maintenance,Medium,Low,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Transportation,Flexibility,Large,Monitoring,Low,High,High,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Healthcare,Cost reduction,Small,Monitoring,High,Medium,Medium,No,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Reduce downtime,Distributed,Predictive maintenance,Low,High,Medium,Yes,No,Yes,Federated Architecture
+Healthcare,Real-time analytics,Medium,Optimization,Medium,Low,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Flexibility,Distributed,Monitoring,High,Low,Medium,No,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Cost reduction,Small,Real-time decision-making,Medium,Medium,Low,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Real-time analytics,Medium,Real-time decision-making,High,High,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Cost reduction,Large,Predictive maintenance,Low,Medium,Medium,No,No,Yes,Centralized Cloud Architecture
+Retail,Real-time analytics,Medium,Real-time decision-making,Medium,Low,Medium,Yes,Yes,Yes,Layered Edge Computing Architecture
+Retail,Increase efficiency,Medium,Monitoring,Medium,Low,Low,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Retail,Cost reduction,Small,Real-time decision-making,Medium,Medium,Low,No,Yes,No,Centralized Cloud Architecture
+Manufacturing,Real-time analytics,Large,Predictive maintenance,High,Medium,Low,Yes,Yes,Yes,Centralized Cloud Architecture
+Retail,Flexibility,Medium,Real-time decision-making,High,High,Medium,No,No,Yes,Layered Edge Computing Architecture
+Transportation,Flexibility,Medium,Optimization,High,Low,Low,No,Yes,No,Centralized Cloud Architecture
+Manufacturing,Increase efficiency,Large,Optimization,High,Low,Low,No,Yes,No,Layered Edge Computing Architecture
+Manufacturing,Flexibility,Distributed,Predictive maintenance,High,High,Medium,Yes,No,No,Federated Architecture
+Healthcare,Cost reduction,Large,Optimization,Medium,High,High,No,Yes,No,Service-Oriented Architecture (SOA)
+Agriculture,Increase efficiency,Large,Optimization,High,Low,High,No,No,No,Layered Edge Computing Architecture
+Transportation,Real-time analytics,Distributed,Optimization,High,High,Low,Yes,No,Yes,Federated Architecture
+Energy,Reduce downtime,Large,Predictive maintenance,Low,High,High,No,Yes,Yes,Layered Edge Computing Architecture
+Energy,Increase efficiency,Medium,Predictive maintenance,High,High,Low,Yes,Yes,Yes,Centralized Cloud Architecture
+Healthcare,Cost reduction,Small,Optimization,High,High,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Healthcare,Cost reduction,Large,Real-time decision-making,Medium,Medium,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Agriculture,Increase efficiency,Small,Predictive maintenance,Medium,High,Low,No,Yes,Yes,Federated Architecture
+Healthcare,Reduce downtime,Large,Predictive maintenance,High,Low,Low,Yes,Yes,Yes,Layered Edge Computing Architecture
+Agriculture,Cost reduction,Large,Real-time decision-making,Low,Low,Medium,No,No,No,Federated Architecture
+Transportation,Increase efficiency,Medium,Real-time decision-making,Low,Medium,High,Yes,No,Yes,Layered Edge Computing Architecture
+Healthcare,Real-time analytics,Large,Real-time decision-making,Medium,Low,Medium,No,Yes,Yes,Layered Edge Computing Architecture
+Agriculture,Flexibility,Medium,Optimization,Medium,Low,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Healthcare,Reduce downtime,Medium,Predictive maintenance,Medium,Low,Medium,No,Yes,Yes,Layered Edge Computing Architecture
+Manufacturing,Cost reduction,Distributed,Predictive maintenance,High,Medium,Medium,Yes,Yes,Yes,Federated Architecture
+Energy,Increase efficiency,Large,Optimization,Medium,Medium,High,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Retail,Flexibility,Medium,Real-time decision-making,Low,Medium,Medium,No,No,Yes,Layered Edge Computing Architecture
+Energy,Reduce downtime,Distributed,Monitoring,High,Low,High,No,No,No,Federated Architecture
+Transportation,Cost reduction,Large,Real-time decision-making,High,High,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Retail,Cost reduction,Distributed,Predictive maintenance,Medium,Medium,Medium,Yes,No,Yes,Federated Architecture
+Retail,Real-time analytics,Medium,Predictive maintenance,High,High,Low,No,Yes,No,Centralized Cloud Architecture
+Retail,Real-time analytics,Medium,Predictive maintenance,Low,Low,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Reduce downtime,Large,Real-time decision-making,High,Low,High,Yes,No,Yes,Layered Edge Computing Architecture
+Manufacturing,Reduce downtime,Small,Optimization,Medium,Low,Low,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Large,Monitoring,Medium,Low,Low,No,Yes,No,Layered Databus Architecture
+Agriculture,Reduce downtime,Large,Monitoring,Medium,Low,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Manufacturing,Cost reduction,Medium,Monitoring,High,High,Low,Yes,Yes,Yes,Centralized Cloud Architecture
+Transportation,Flexibility,Medium,Optimization,Low,Medium,Low,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Energy,Reduce downtime,Large,Optimization,High,Low,Low,Yes,No,Yes,Layered Edge Computing Architecture
+Transportation,Increase efficiency,Small,Optimization,Low,Low,High,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Cost reduction,Distributed,Real-time decision-making,Medium,Medium,High,No,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Flexibility,Small,Optimization,Medium,High,Low,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Small,Predictive maintenance,Low,Low,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Energy,Real-time analytics,Distributed,Predictive maintenance,Medium,Low,Medium,Yes,No,No,Federated Architecture
+Energy,Reduce downtime,Medium,Predictive maintenance,High,Medium,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Retail,Cost reduction,Small,Predictive maintenance,High,Low,High,No,No,No,Gateway-Mediated Edge Architecture
+Healthcare,Reduce downtime,Large,Predictive maintenance,High,Medium,Medium,Yes,Yes,No,Centralized Cloud Architecture
+Healthcare,Cost reduction,Large,Optimization,Low,Low,High,No,No,No,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Medium,Real-time decision-making,High,Low,Low,Yes,Yes,No,Centralized Cloud Architecture
+Energy,Cost reduction,Small,Predictive maintenance,Medium,High,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Agriculture,Reduce downtime,Large,Optimization,High,Low,Medium,Yes,No,No,Layered Edge Computing Architecture
+Retail,Cost reduction,Large,Optimization,High,Low,Medium,No,Yes,No,Layered Edge Computing Architecture
+Agriculture,Real-time analytics,Large,Predictive maintenance,High,High,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Retail,Reduce downtime,Distributed,Real-time decision-making,High,Medium,Low,No,Yes,No,Centralized Cloud Architecture
+Transportation,Reduce downtime,Large,Optimization,Medium,High,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Flexibility,Distributed,Predictive maintenance,Low,Medium,High,Yes,Yes,No,Federated Architecture
+Manufacturing,Increase efficiency,Small,Predictive maintenance,Medium,High,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Healthcare,Cost reduction,Distributed,Real-time decision-making,High,High,Low,No,Yes,No,Centralized Cloud Architecture
+Agriculture,Flexibility,Distributed,Monitoring,Medium,Medium,Medium,No,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Reduce downtime,Small,Predictive maintenance,Low,High,Low,Yes,Yes,Yes,Layered Edge Computing Architecture
+Energy,Reduce downtime,Large,Predictive maintenance,Low,High,Medium,No,No,No,Centralized Cloud Architecture
+Transportation,Real-time analytics,Large,Monitoring,High,High,Medium,Yes,Yes,Yes,Centralized Cloud Architecture
+Energy,Cost reduction,Large,Monitoring,High,Low,Low,No,Yes,No,Layered Edge Computing Architecture
+Agriculture,Reduce downtime,Medium,Predictive maintenance,Medium,High,Medium,Yes,Yes,No,Layered Databus Architecture
+Transportation,Reduce downtime,Medium,Predictive maintenance,Medium,Medium,Low,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Healthcare,Reduce downtime,Medium,Optimization,Medium,High,Low,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Increase efficiency,Large,Real-time decision-making,Low,Low,Medium,Yes,No,Yes,Layered Edge Computing Architecture
+Transportation,Cost reduction,Distributed,Real-time decision-making,High,Low,Low,Yes,No,No,Federated Architecture
+Manufacturing,Cost reduction,Medium,Real-time decision-making,High,Low,Low,Yes,Yes,No,Centralized Cloud Architecture
+Retail,Increase efficiency,Small,Predictive maintenance,High,Low,High,No,Yes,Yes,Centralized Cloud Architecture
+Energy,Reduce downtime,Medium,Optimization,Medium,Low,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Reduce downtime,Large,Monitoring,High,High,Medium,No,No,No,Gateway-Mediated Edge Architecture
+Agriculture,Flexibility,Medium,Optimization,Low,Low,Low,Yes,No,No,Service-Oriented Architecture (SOA)
+Transportation,Reduce downtime,Small,Monitoring,High,Low,Low,Yes,Yes,Yes,Centralized Cloud Architecture
+Retail,Flexibility,Large,Monitoring,Medium,Medium,Low,Yes,No,No,Service-Oriented Architecture (SOA)
+Transportation,Flexibility,Small,Predictive maintenance,Medium,Low,Low,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Reduce downtime,Small,Predictive maintenance,Low,Low,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Retail,Cost reduction,Small,Real-time decision-making,Low,Low,Low,Yes,Yes,No,Centralized Cloud Architecture
+Agriculture,Real-time analytics,Medium,Optimization,Low,Low,High,Yes,No,No,Service-Oriented Architecture (SOA)
+Energy,Real-time analytics,Distributed,Monitoring,Medium,Low,Low,Yes,Yes,No,Federated Architecture
+Retail,Increase efficiency,Small,Real-time decision-making,Low,High,High,No,Yes,Yes,Layered Edge Computing Architecture
+Energy,Increase efficiency,Distributed,Predictive maintenance,Medium,High,Medium,No,Yes,Yes,Layered Edge Computing Architecture
+Agriculture,Cost reduction,Small,Predictive maintenance,High,High,Low,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Retail,Cost reduction,Large,Real-time decision-making,High,Low,High,Yes,No,Yes,Layered Edge Computing Architecture
+Retail,Increase efficiency,Large,Optimization,Low,High,Low,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Healthcare,Flexibility,Small,Real-time decision-making,High,High,Medium,Yes,Yes,No,Centralized Cloud Architecture
+Retail,Flexibility,Small,Optimization,High,Low,Low,Yes,No,No,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Small,Optimization,High,Low,Medium,No,Yes,No,Centralized Cloud Architecture
+Healthcare,Cost reduction,Large,Optimization,Medium,Low,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Energy,Cost reduction,Large,Monitoring,High,Medium,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Transportation,Real-time analytics,Small,Monitoring,Low,Low,High,Yes,Yes,Yes,Layered Databus Architecture
+Transportation,Cost reduction,Medium,Real-time decision-making,Medium,High,Medium,Yes,Yes,No,Layered Databus Architecture
+Energy,Flexibility,Large,Predictive maintenance,Low,Medium,Medium,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Manufacturing,Reduce downtime,Large,Predictive maintenance,Medium,Medium,Low,No,Yes,No,Centralized Cloud Architecture
+Healthcare,Cost reduction,Medium,Monitoring,Medium,Medium,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Cost reduction,Large,Optimization,Low,Low,High,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Retail,Flexibility,Medium,Optimization,High,Low,High,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Medium,Monitoring,Medium,High,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Manufacturing,Cost reduction,Distributed,Optimization,High,Medium,Medium,Yes,Yes,No,Federated Architecture
+Manufacturing,Flexibility,Small,Monitoring,Low,Medium,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Distributed,Optimization,High,Medium,High,No,Yes,Yes,Centralized Cloud Architecture
+Retail,Real-time analytics,Medium,Real-time decision-making,Medium,Medium,Medium,No,Yes,Yes,Layered Edge Computing Architecture
+Healthcare,Real-time analytics,Distributed,Optimization,High,Medium,Medium,No,Yes,Yes,Centralized Cloud Architecture
+Agriculture,Reduce downtime,Medium,Real-time decision-making,Low,High,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Agriculture,Flexibility,Large,Monitoring,Low,Medium,High,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Transportation,Real-time analytics,Distributed,Predictive maintenance,High,Low,Low,No,No,Yes,Federated Architecture
+Healthcare,Cost reduction,Small,Monitoring,Low,Low,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Real-time analytics,Medium,Monitoring,Low,Low,High,Yes,Yes,No,Layered Edge Computing Architecture
+Healthcare,Cost reduction,Medium,Optimization,Medium,High,Low,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Retail,Flexibility,Distributed,Real-time decision-making,Low,Medium,High,No,Yes,No,Service-Oriented Architecture (SOA)
+Manufacturing,Increase efficiency,Small,Real-time decision-making,Medium,Medium,High,No,Yes,Yes,Layered Edge Computing Architecture
+Energy,Real-time analytics,Medium,Real-time decision-making,High,Low,Low,No,No,Yes,Layered Edge Computing Architecture
+Healthcare,Cost reduction,Small,Real-time decision-making,Low,High,Low,Yes,Yes,Yes,Layered Edge Computing Architecture
+Healthcare,Cost reduction,Distributed,Real-time decision-making,High,High,Medium,Yes,Yes,Yes,Federated Architecture
+Transportation,Increase efficiency,Distributed,Predictive maintenance,Medium,Medium,High,No,Yes,Yes,Gateway-Mediated Edge Architecture
+Healthcare,Cost reduction,Distributed,Predictive maintenance,High,Low,Low,Yes,Yes,Yes,Federated Architecture
+Healthcare,Increase efficiency,Large,Optimization,High,High,Medium,No,Yes,Yes,Centralized Cloud Architecture
+Transportation,Cost reduction,Medium,Real-time decision-making,High,Medium,Medium,Yes,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Increase efficiency,Large,Real-time decision-making,Medium,Medium,High,Yes,Yes,Yes,Layered Edge Computing Architecture
+Energy,Increase efficiency,Medium,Optimization,Medium,Medium,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Energy,Cost reduction,Medium,Monitoring,Low,Low,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Energy,Increase efficiency,Large,Predictive maintenance,Medium,Medium,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Energy,Cost reduction,Small,Optimization,Low,Medium,High,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Small,Optimization,Low,Low,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Retail,Increase efficiency,Medium,Optimization,Low,Low,Medium,No,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Increase efficiency,Distributed,Optimization,High,Medium,Low,No,Yes,Yes,Centralized Cloud Architecture
+Transportation,Reduce downtime,Medium,Real-time decision-making,Medium,Low,High,Yes,Yes,No,Gateway-Mediated Edge Architecture
+Transportation,Real-time analytics,Medium,Predictive maintenance,High,High,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Manufacturing,Flexibility,Small,Predictive maintenance,High,Low,Medium,No,Yes,Yes,Centralized Cloud Architecture
+Retail,Real-time analytics,Medium,Monitoring,High,High,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Energy,Cost reduction,Distributed,Monitoring,High,Low,Medium,Yes,No,Yes,Federated Architecture
+Manufacturing,Cost reduction,Medium,Predictive maintenance,Low,High,Medium,No,Yes,No,Centralized Cloud Architecture
+Agriculture,Increase efficiency,Small,Predictive maintenance,Low,Medium,High,No,No,No,Gateway-Mediated Edge Architecture
+Retail,Reduce downtime,Distributed,Real-time decision-making,Medium,Medium,Medium,No,No,Yes,Layered Edge Computing Architecture
+Agriculture,Reduce downtime,Distributed,Monitoring,High,Low,High,Yes,No,Yes,Federated Architecture
+Manufacturing,Real-time analytics,Large,Real-time decision-making,High,Medium,Low,No,No,Yes,Layered Edge Computing Architecture
+Transportation,Increase efficiency,Large,Monitoring,High,Medium,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Flexibility,Medium,Real-time decision-making,High,Medium,Low,No,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Real-time analytics,Distributed,Optimization,High,High,Low,Yes,No,Yes,Federated Architecture
+Agriculture,Cost reduction,Medium,Optimization,Medium,Medium,High,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Transportation,Cost reduction,Distributed,Real-time decision-making,Low,High,Low,Yes,No,Yes,Federated Architecture
+Agriculture,Increase efficiency,Medium,Predictive maintenance,Medium,Low,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Flexibility,Large,Optimization,Medium,Medium,High,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Small,Optimization,Medium,Low,Low,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Retail,Reduce downtime,Distributed,Monitoring,High,Medium,High,No,No,No,Centralized Cloud Architecture
+Retail,Increase efficiency,Small,Predictive maintenance,Medium,High,Medium,Yes,Yes,No,Layered Databus Architecture
+Energy,Reduce downtime,Medium,Optimization,Medium,Low,Low,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Transportation,Real-time analytics,Large,Real-time decision-making,High,High,High,Yes,No,Yes,Layered Edge Computing Architecture
+Agriculture,Real-time analytics,Distributed,Monitoring,Low,Medium,Medium,No,Yes,No,Centralized Cloud Architecture
+Healthcare,Real-time analytics,Medium,Predictive maintenance,Low,Low,Low,No,Yes,Yes,Layered Databus Architecture
+Transportation,Real-time analytics,Medium,Optimization,Medium,High,Medium,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Distributed,Predictive maintenance,Low,Medium,Low,No,No,Yes,Layered Databus Architecture
+Manufacturing,Reduce downtime,Medium,Monitoring,Low,Low,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Transportation,Flexibility,Small,Monitoring,High,High,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Energy,Flexibility,Distributed,Real-time decision-making,Low,Medium,Medium,Yes,Yes,Yes,Federated Architecture
+Transportation,Flexibility,Medium,Monitoring,High,Low,High,Yes,No,No,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Large,Optimization,Low,High,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Flexibility,Large,Real-time decision-making,Medium,Medium,High,Yes,No,Yes,Layered Edge Computing Architecture
+Transportation,Reduce downtime,Medium,Predictive maintenance,Low,High,Medium,No,No,Yes,Gateway-Mediated Edge Architecture
+Transportation,Flexibility,Distributed,Optimization,High,High,Low,No,Yes,No,Centralized Cloud Architecture
+Manufacturing,Increase efficiency,Large,Predictive maintenance,High,Medium,Medium,Yes,Yes,No,Centralized Cloud Architecture
+Manufacturing,Cost reduction,Distributed,Optimization,High,Low,Low,Yes,Yes,Yes,Federated Architecture
+Manufacturing,Cost reduction,Small,Predictive maintenance,Medium,High,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Transportation,Cost reduction,Medium,Optimization,Low,High,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Retail,Reduce downtime,Distributed,Optimization,Low,Low,Medium,Yes,Yes,Yes,Federated Architecture
+Retail,Increase efficiency,Distributed,Predictive maintenance,High,Low,Low,No,Yes,No,Centralized Cloud Architecture
+Agriculture,Flexibility,Small,Real-time decision-making,High,High,Medium,No,No,Yes,Layered Edge Computing Architecture
+Energy,Real-time analytics,Small,Monitoring,High,High,Medium,No,Yes,No,Centralized Cloud Architecture
+Retail,Increase efficiency,Medium,Monitoring,Medium,Low,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Healthcare,Increase efficiency,Distributed,Monitoring,Low,High,High,No,No,No,Gateway-Mediated Edge Architecture
+Healthcare,Reduce downtime,Large,Real-time decision-making,High,Low,Low,No,No,No,Layered Edge Computing Architecture
+Transportation,Real-time analytics,Large,Predictive maintenance,Medium,Low,High,Yes,Yes,No,Gateway-Mediated Edge Architecture
+Retail,Reduce downtime,Medium,Real-time decision-making,Low,Medium,Medium,Yes,Yes,No,Layered Edge Computing Architecture
+Healthcare,Real-time analytics,Small,Predictive maintenance,High,High,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Healthcare,Increase efficiency,Large,Predictive maintenance,High,High,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Agriculture,Flexibility,Medium,Real-time decision-making,Medium,Medium,Medium,No,No,Yes,Layered Edge Computing Architecture
+Manufacturing,Flexibility,Distributed,Monitoring,High,High,High,Yes,No,No,Federated Architecture
+Healthcare,Cost reduction,Distributed,Predictive maintenance,High,High,Medium,No,No,Yes,Gateway-Mediated Edge Architecture
+Transportation,Reduce downtime,Medium,Monitoring,High,Medium,Medium,Yes,Yes,No,Centralized Cloud Architecture
+Agriculture,Real-time analytics,Large,Optimization,Medium,Medium,Medium,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Real-time analytics,Large,Optimization,Low,Low,High,No,No,No,Service-Oriented Architecture (SOA)
+Energy,Increase efficiency,Large,Optimization,Medium,Medium,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Reduce downtime,Large,Predictive maintenance,Low,Low,High,No,Yes,Yes,Layered Databus Architecture
+Transportation,Real-time analytics,Small,Monitoring,High,Medium,Low,No,No,No,Gateway-Mediated Edge Architecture
+Healthcare,Reduce downtime,Large,Predictive maintenance,Low,Low,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Agriculture,Real-time analytics,Large,Real-time decision-making,High,Low,Medium,Yes,Yes,Yes,Layered Edge Computing Architecture
+Agriculture,Cost reduction,Distributed,Optimization,High,Medium,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Real-time analytics,Large,Real-time decision-making,High,High,Medium,No,Yes,Yes,Centralized Cloud Architecture
+Retail,Real-time analytics,Large,Predictive maintenance,Low,Medium,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Transportation,Cost reduction,Distributed,Predictive maintenance,Medium,Low,Medium,No,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Large,Optimization,High,Medium,Medium,No,Yes,Yes,Centralized Cloud Architecture
+Healthcare,Reduce downtime,Large,Monitoring,Medium,Medium,High,Yes,Yes,No,Layered Databus Architecture
+Energy,Increase efficiency,Distributed,Monitoring,High,Low,Medium,No,Yes,No,Centralized Cloud Architecture
+Healthcare,Cost reduction,Medium,Real-time decision-making,High,Low,Medium,Yes,Yes,Yes,Centralized Cloud Architecture
+Transportation,Increase efficiency,Small,Real-time decision-making,Low,High,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Manufacturing,Cost reduction,Distributed,Optimization,High,Low,Low,Yes,Yes,No,Federated Architecture
+Retail,Reduce downtime,Distributed,Real-time decision-making,Medium,High,Low,Yes,No,Yes,Federated Architecture
+Retail,Real-time analytics,Distributed,Predictive maintenance,Medium,Medium,Low,No,No,No,Layered Edge Computing Architecture
+Transportation,Flexibility,Distributed,Monitoring,High,Low,High,Yes,No,Yes,Federated Architecture
+Manufacturing,Increase efficiency,Distributed,Optimization,High,Medium,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Healthcare,Real-time analytics,Small,Real-time decision-making,High,Medium,High,Yes,No,Yes,Layered Edge Computing Architecture
+Transportation,Reduce downtime,Medium,Real-time decision-making,High,Low,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Energy,Reduce downtime,Medium,Predictive maintenance,High,High,Low,No,No,Yes,Layered Edge Computing Architecture
+Manufacturing,Reduce downtime,Distributed,Predictive maintenance,Medium,High,High,Yes,Yes,No,Federated Architecture
+Retail,Flexibility,Large,Predictive maintenance,High,Medium,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Retail,Flexibility,Large,Real-time decision-making,Low,Low,Low,Yes,No,No,Service-Oriented Architecture (SOA)
+Retail,Increase efficiency,Large,Real-time decision-making,Medium,High,Low,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Transportation,Reduce downtime,Large,Monitoring,High,Medium,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Healthcare,Flexibility,Large,Real-time decision-making,Medium,Low,High,Yes,No,Yes,Layered Edge Computing Architecture
+Retail,Flexibility,Small,Monitoring,Medium,Medium,Low,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Healthcare,Cost reduction,Large,Predictive maintenance,Medium,Low,Low,No,Yes,No,Gateway-Mediated Edge Architecture
+Healthcare,Real-time analytics,Medium,Optimization,High,High,Low,Yes,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Real-time analytics,Large,Optimization,Medium,High,High,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Cost reduction,Distributed,Optimization,Medium,Medium,High,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Increase efficiency,Small,Predictive maintenance,Medium,High,Low,No,No,Yes,Layered Databus Architecture
+Retail,Reduce downtime,Medium,Predictive maintenance,Medium,Low,Medium,No,Yes,No,Service-Oriented Architecture (SOA)
+Agriculture,Cost reduction,Distributed,Predictive maintenance,High,Low,High,No,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Cost reduction,Distributed,Predictive maintenance,High,Low,Low,Yes,No,Yes,Federated Architecture
+Energy,Cost reduction,Small,Predictive maintenance,Low,Medium,Low,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Cost reduction,Medium,Real-time decision-making,High,High,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Healthcare,Flexibility,Distributed,Real-time decision-making,Medium,Low,Medium,No,No,No,Service-Oriented Architecture (SOA)
+Healthcare,Reduce downtime,Large,Predictive maintenance,Low,Low,High,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Agriculture,Reduce downtime,Large,Real-time decision-making,Low,Medium,High,Yes,Yes,Yes,Layered Edge Computing Architecture
+Agriculture,Cost reduction,Large,Monitoring,Low,Medium,Medium,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Agriculture,Flexibility,Small,Predictive maintenance,High,Low,High,No,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Flexibility,Medium,Predictive maintenance,High,Medium,Medium,No,Yes,Yes,Centralized Cloud Architecture
+Retail,Increase efficiency,Medium,Predictive maintenance,High,High,High,No,Yes,No,Centralized Cloud Architecture
+Manufacturing,Increase efficiency,Small,Real-time decision-making,High,Medium,Medium,No,Yes,Yes,Centralized Cloud Architecture
+Agriculture,Flexibility,Distributed,Optimization,High,Low,High,No,No,No,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Distributed,Monitoring,Medium,High,High,Yes,No,No,Federated Architecture
+Agriculture,Flexibility,Small,Predictive maintenance,Medium,High,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Small,Optimization,Low,Low,High,No,Yes,No,Service-Oriented Architecture (SOA)
+Agriculture,Increase efficiency,Medium,Real-time decision-making,High,High,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Healthcare,Flexibility,Small,Real-time decision-making,Medium,Low,High,No,No,Yes,Layered Edge Computing Architecture
+Manufacturing,Cost reduction,Distributed,Real-time decision-making,Low,Medium,High,Yes,No,No,Federated Architecture
+Agriculture,Increase efficiency,Medium,Predictive maintenance,Low,High,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Energy,Real-time analytics,Small,Predictive maintenance,Medium,Low,Low,No,Yes,No,Gateway-Mediated Edge Architecture
+Transportation,Increase efficiency,Small,Real-time decision-making,High,Medium,Medium,Yes,Yes,No,Centralized Cloud Architecture
+Manufacturing,Cost reduction,Medium,Monitoring,High,High,Low,No,Yes,No,Centralized Cloud Architecture
+Manufacturing,Reduce downtime,Distributed,Real-time decision-making,Medium,Medium,Low,No,No,No,Layered Databus Architecture
+Retail,Flexibility,Small,Predictive maintenance,Medium,Medium,Medium,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Flexibility,Large,Predictive maintenance,High,Medium,Low,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Cost reduction,Distributed,Monitoring,Medium,Medium,Medium,Yes,No,No,Federated Architecture
+Transportation,Cost reduction,Large,Optimization,High,Medium,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Cost reduction,Small,Predictive maintenance,Medium,Medium,High,Yes,Yes,Yes,Layered Edge Computing Architecture
+Energy,Increase efficiency,Medium,Optimization,High,Low,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Real-time analytics,Large,Monitoring,Low,Medium,Low,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Increase efficiency,Large,Predictive maintenance,Medium,High,Low,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Healthcare,Cost reduction,Distributed,Real-time decision-making,High,High,Low,Yes,Yes,Yes,Federated Architecture
+Energy,Flexibility,Medium,Predictive maintenance,Medium,Low,High,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Cost reduction,Medium,Predictive maintenance,Medium,Medium,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Energy,Real-time analytics,Distributed,Optimization,Medium,Low,Medium,Yes,Yes,Yes,Federated Architecture
+Retail,Cost reduction,Medium,Predictive maintenance,High,Medium,Medium,No,Yes,No,Centralized Cloud Architecture
+Manufacturing,Flexibility,Distributed,Predictive maintenance,High,Medium,Medium,Yes,Yes,Yes,Federated Architecture
+Manufacturing,Cost reduction,Distributed,Monitoring,High,Medium,Low,No,No,No,Gateway-Mediated Edge Architecture
+Retail,Flexibility,Medium,Optimization,Medium,Low,High,Yes,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Flexibility,Large,Real-time decision-making,Medium,Medium,High,No,No,Yes,Layered Edge Computing Architecture
+Agriculture,Real-time analytics,Medium,Monitoring,Low,Medium,Medium,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Retail,Real-time analytics,Medium,Predictive maintenance,High,Low,Low,No,No,No,Federated Architecture
+Transportation,Flexibility,Small,Optimization,Medium,Low,High,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Reduce downtime,Large,Optimization,High,High,High,Yes,No,No,Service-Oriented Architecture (SOA)
+Retail,Flexibility,Medium,Real-time decision-making,Medium,Medium,Medium,No,No,Yes,Layered Edge Computing Architecture
+Manufacturing,Increase efficiency,Distributed,Predictive maintenance,Medium,High,High,No,No,Yes,Federated Architecture
+Healthcare,Reduce downtime,Medium,Monitoring,Low,Low,Low,No,Yes,No,Centralized Cloud Architecture
+Retail,Cost reduction,Small,Real-time decision-making,Low,High,Medium,Yes,Yes,Yes,Layered Edge Computing Architecture
+Agriculture,Reduce downtime,Large,Predictive maintenance,Medium,Low,High,Yes,Yes,Yes,Layered Databus Architecture
+Retail,Reduce downtime,Small,Predictive maintenance,High,Low,Low,No,Yes,No,Centralized Cloud Architecture
+Manufacturing,Reduce downtime,Small,Monitoring,Medium,High,Low,No,No,No,Layered Databus Architecture
+Agriculture,Flexibility,Distributed,Predictive maintenance,Medium,High,Medium,Yes,Yes,No,Federated Architecture
+Transportation,Real-time analytics,Large,Monitoring,Medium,High,Medium,Yes,Yes,No,Federated Architecture
+Agriculture,Flexibility,Large,Monitoring,High,High,High,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Distributed,Predictive maintenance,High,High,Medium,Yes,No,Yes,Federated Architecture
+Energy,Flexibility,Medium,Predictive maintenance,Medium,High,Low,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Transportation,Reduce downtime,Small,Real-time decision-making,Low,Low,Low,No,No,No,Service-Oriented Architecture (SOA)
+Energy,Cost reduction,Large,Monitoring,High,High,Medium,Yes,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Cost reduction,Medium,Optimization,High,High,Low,No,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Increase efficiency,Medium,Monitoring,High,Medium,High,No,No,No,Gateway-Mediated Edge Architecture
+Healthcare,Increase efficiency,Distributed,Predictive maintenance,Low,High,High,Yes,Yes,Yes,Federated Architecture
+Transportation,Increase efficiency,Large,Monitoring,Medium,Low,High,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Transportation,Reduce downtime,Distributed,Real-time decision-making,High,High,High,Yes,Yes,Yes,Federated Architecture
+Energy,Flexibility,Small,Optimization,High,High,Medium,No,Yes,No,Centralized Cloud Architecture
+Manufacturing,Real-time analytics,Large,Monitoring,Low,High,Medium,Yes,Yes,No,Layered Databus Architecture
+Energy,Real-time analytics,Large,Real-time decision-making,Medium,High,High,Yes,No,Yes,Layered Edge Computing Architecture
+Agriculture,Flexibility,Small,Optimization,Low,Low,High,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Reduce downtime,Small,Predictive maintenance,Low,High,Low,Yes,Yes,No,Layered Edge Computing Architecture
+Manufacturing,Real-time analytics,Distributed,Predictive maintenance,Medium,High,Medium,Yes,Yes,Yes,Federated Architecture
+Transportation,Real-time analytics,Small,Predictive maintenance,Medium,Low,Low,Yes,Yes,Yes,Centralized Cloud Architecture
+Energy,Increase efficiency,Small,Monitoring,High,Medium,High,Yes,Yes,Yes,Centralized Cloud Architecture
+Retail,Increase efficiency,Small,Monitoring,Low,Medium,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Retail,Cost reduction,Large,Monitoring,Low,Medium,Medium,No,Yes,No,Layered Edge Computing Architecture
+Agriculture,Cost reduction,Small,Monitoring,Low,Low,High,No,No,No,Centralized Cloud Architecture
+Manufacturing,Flexibility,Distributed,Predictive maintenance,Low,Low,High,Yes,Yes,Yes,Federated Architecture
+Retail,Increase efficiency,Medium,Optimization,Medium,High,High,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Healthcare,Cost reduction,Distributed,Real-time decision-making,Low,Low,High,Yes,No,No,Federated Architecture
+Manufacturing,Increase efficiency,Large,Optimization,High,High,Medium,No,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Cost reduction,Large,Monitoring,High,Low,High,No,Yes,Yes,Layered Edge Computing Architecture
+Energy,Reduce downtime,Small,Real-time decision-making,Medium,High,Low,Yes,Yes,Yes,Layered Edge Computing Architecture
+Agriculture,Cost reduction,Distributed,Real-time decision-making,High,High,Medium,Yes,Yes,Yes,Federated Architecture
+Transportation,Flexibility,Medium,Predictive maintenance,Low,High,Medium,No,Yes,No,Service-Oriented Architecture (SOA)
+Manufacturing,Increase efficiency,Large,Predictive maintenance,Low,Low,Medium,Yes,No,No,Gateway-Mediated Edge Architecture
+Transportation,Reduce downtime,Large,Optimization,Low,Low,Medium,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Increase efficiency,Medium,Predictive maintenance,Medium,Low,Low,Yes,Yes,No,Gateway-Mediated Edge Architecture
+Manufacturing,Increase efficiency,Large,Monitoring,High,High,High,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Retail,Flexibility,Distributed,Real-time decision-making,High,High,Medium,No,Yes,No,Centralized Cloud Architecture
+Agriculture,Flexibility,Medium,Monitoring,Low,Medium,High,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Distributed,Optimization,Low,Medium,High,Yes,Yes,No,Federated Architecture
+Energy,Increase efficiency,Large,Optimization,Low,High,Low,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Increase efficiency,Distributed,Optimization,Medium,Medium,Low,Yes,No,Yes,Federated Architecture
+Energy,Cost reduction,Small,Monitoring,Medium,Medium,Low,Yes,Yes,No,Centralized Cloud Architecture
+Retail,Increase efficiency,Large,Real-time decision-making,High,High,Low,Yes,Yes,No,Centralized Cloud Architecture
+Manufacturing,Reduce downtime,Distributed,Predictive maintenance,Medium,High,High,Yes,No,No,Federated Architecture
+Energy,Real-time analytics,Small,Real-time decision-making,Medium,Medium,Low,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Increase efficiency,Medium,Real-time decision-making,High,High,High,No,Yes,Yes,Centralized Cloud Architecture
+Manufacturing,Cost reduction,Large,Optimization,Medium,High,High,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Real-time analytics,Large,Real-time decision-making,Medium,Low,High,Yes,No,Yes,Layered Edge Computing Architecture
+Retail,Cost reduction,Medium,Optimization,High,Medium,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Increase efficiency,Small,Predictive maintenance,High,Medium,High,No,Yes,No,Centralized Cloud Architecture
+Energy,Flexibility,Small,Predictive maintenance,Medium,High,Medium,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Energy,Reduce downtime,Small,Monitoring,High,High,High,No,Yes,No,Centralized Cloud Architecture
+Healthcare,Flexibility,Distributed,Real-time decision-making,Low,Low,Medium,Yes,Yes,No,Federated Architecture
+Transportation,Flexibility,Distributed,Optimization,Medium,Low,High,Yes,Yes,Yes,Federated Architecture
+Transportation,Flexibility,Distributed,Real-time decision-making,Low,Medium,Medium,Yes,Yes,Yes,Federated Architecture
+Retail,Flexibility,Small,Predictive maintenance,High,High,High,No,No,No,Service-Oriented Architecture (SOA)
+Transportation,Real-time analytics,Distributed,Optimization,High,Low,Low,Yes,Yes,No,Federated Architecture
+Transportation,Real-time analytics,Distributed,Optimization,High,Medium,Medium,Yes,No,No,Federated Architecture
+Manufacturing,Real-time analytics,Small,Real-time decision-making,High,Medium,Medium,No,No,Yes,Layered Edge Computing Architecture
+Agriculture,Reduce downtime,Small,Optimization,High,High,Low,No,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Reduce downtime,Medium,Predictive maintenance,Medium,Low,High,No,No,Yes,Service-Oriented Architecture (SOA)
+Energy,Reduce downtime,Distributed,Monitoring,Medium,Medium,Low,Yes,No,Yes,Federated Architecture
+Transportation,Flexibility,Large,Monitoring,Medium,Medium,Medium,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Medium,Real-time decision-making,Low,Medium,High,Yes,Yes,Yes,Layered Edge Computing Architecture
+Healthcare,Reduce downtime,Large,Optimization,Medium,Medium,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Energy,Increase efficiency,Distributed,Monitoring,High,Low,High,Yes,No,Yes,Federated Architecture
+Transportation,Flexibility,Distributed,Real-time decision-making,High,Low,High,Yes,Yes,Yes,Federated Architecture
+Transportation,Flexibility,Distributed,Optimization,Medium,Medium,Low,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Real-time analytics,Distributed,Monitoring,Medium,High,Medium,Yes,Yes,Yes,Federated Architecture
+Retail,Increase efficiency,Medium,Predictive maintenance,High,Medium,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Retail,Cost reduction,Large,Optimization,High,Low,High,No,No,Yes,Layered Edge Computing Architecture
+Manufacturing,Increase efficiency,Medium,Real-time decision-making,Medium,High,Medium,No,Yes,No,Layered Databus Architecture
+Manufacturing,Flexibility,Small,Predictive maintenance,High,Low,Low,No,No,No,Service-Oriented Architecture (SOA)
+Healthcare,Flexibility,Small,Optimization,Low,Medium,Medium,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Retail,Cost reduction,Distributed,Optimization,Low,Medium,Low,Yes,No,Yes,Federated Architecture
+Retail,Increase efficiency,Large,Optimization,Medium,Medium,High,Yes,Yes,No,Service-Oriented Architecture (SOA)
+Healthcare,Cost reduction,Large,Real-time decision-making,Low,Medium,High,Yes,Yes,No,Federated Architecture
+Transportation,Real-time analytics,Small,Real-time decision-making,Low,Medium,Low,No,Yes,No,Service-Oriented Architecture (SOA)
+Manufacturing,Real-time analytics,Distributed,Optimization,Low,High,Medium,Yes,No,Yes,Federated Architecture
+Agriculture,Reduce downtime,Distributed,Predictive maintenance,High,Low,High,No,No,Yes,Layered Edge Computing Architecture
+Transportation,Flexibility,Small,Optimization,High,Low,Low,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Energy,Cost reduction,Large,Real-time decision-making,Low,High,Low,Yes,No,No,Gateway-Mediated Edge Architecture
+Energy,Real-time analytics,Large,Real-time decision-making,Medium,High,High,No,Yes,No,Service-Oriented Architecture (SOA)
+Transportation,Reduce downtime,Large,Monitoring,Medium,Low,High,No,Yes,No,Gateway-Mediated Edge Architecture
+Transportation,Flexibility,Large,Real-time decision-making,Medium,High,High,No,Yes,No,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Medium,Predictive maintenance,High,Low,Medium,No,No,Yes,Federated Architecture
+Agriculture,Reduce downtime,Medium,Optimization,Medium,Medium,High,Yes,Yes,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Flexibility,Large,Predictive maintenance,Low,High,Medium,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Manufacturing,Reduce downtime,Small,Monitoring,Low,Medium,Low,No,Yes,Yes,Gateway-Mediated Edge Architecture
+Retail,Increase efficiency,Large,Real-time decision-making,High,Low,Medium,No,No,No,Layered Edge Computing Architecture
+Retail,Real-time analytics,Distributed,Real-time decision-making,Low,Low,High,Yes,Yes,No,Federated Architecture
+Retail,Flexibility,Medium,Real-time decision-making,High,Medium,Low,No,Yes,No,Centralized Cloud Architecture
+Energy,Cost reduction,Medium,Real-time decision-making,Low,Low,Medium,No,No,Yes,Layered Edge Computing Architecture
+Transportation,Flexibility,Distributed,Optimization,High,High,Medium,No,Yes,No,Centralized Cloud Architecture
+Agriculture,Cost reduction,Medium,Real-time decision-making,Medium,High,Low,No,No,No,Layered Edge Computing Architecture
+Agriculture,Real-time analytics,Distributed,Optimization,Medium,Medium,Low,No,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Reduce downtime,Distributed,Predictive maintenance,High,High,High,Yes,No,No,Federated Architecture
+Transportation,Reduce downtime,Medium,Optimization,High,Low,Low,Yes,No,No,Service-Oriented Architecture (SOA)
+Agriculture,Reduce downtime,Distributed,Real-time decision-making,Low,Low,Low,Yes,Yes,Yes,Federated Architecture
+Transportation,Flexibility,Large,Optimization,High,Low,Medium,No,No,Yes,Layered Edge Computing Architecture
+Transportation,Cost reduction,Distributed,Optimization,Low,Medium,High,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Transportation,Real-time analytics,Distributed,Optimization,High,Medium,Medium,No,No,Yes,Service-Oriented Architecture (SOA)
+Energy,Reduce downtime,Distributed,Optimization,Medium,Medium,High,No,Yes,Yes,Service-Oriented Architecture (SOA)
+Retail,Increase efficiency,Medium,Monitoring,Low,Low,Medium,Yes,Yes,No,Centralized Cloud Architecture
+Transportation,Cost reduction,Medium,Optimization,High,Medium,High,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Energy,Flexibility,Small,Predictive maintenance,High,High,Low,No,Yes,No,Centralized Cloud Architecture
+Manufacturing,Real-time analytics,Large,Optimization,Low,Low,Low,No,No,No,Service-Oriented Architecture (SOA)
+Manufacturing,Increase efficiency,Small,Predictive maintenance,Medium,Low,Low,No,No,Yes,Gateway-Mediated Edge Architecture
+Retail,Cost reduction,Large,Monitoring,Low,High,High,No,Yes,Yes,Federated Architecture
+Agriculture,Cost reduction,Large,Predictive maintenance,Medium,High,Low,Yes,Yes,Yes,Gateway-Mediated Edge Architecture
+Energy,Increase efficiency,Medium,Optimization,Medium,Low,Low,No,No,No,Service-Oriented Architecture (SOA)
+Retail,Reduce downtime,Small,Monitoring,Low,Low,High,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Agriculture,Cost reduction,Large,Real-time decision-making,Medium,High,High,No,No,No,Gateway-Mediated Edge Architecture
+Retail,Flexibility,Large,Monitoring,High,Medium,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Agriculture,Increase efficiency,Small,Optimization,Low,Low,Medium,Yes,No,Yes,Service-Oriented Architecture (SOA)
+Agriculture,Increase efficiency,Large,Predictive maintenance,High,Medium,High,No,Yes,Yes,Centralized Cloud Architecture
+Healthcare,Increase efficiency,Medium,Optimization,Medium,High,Low,No,Yes,No,Service-Oriented Architecture (SOA)
+Retail,Real-time analytics,Distributed,Predictive maintenance,Medium,Low,High,No,No,No,Layered Databus Architecture
+Transportation,Flexibility,Small,Monitoring,High,High,Medium,Yes,No,No,Service-Oriented Architecture (SOA)
+Retail,Increase efficiency,Large,Optimization,Medium,Medium,Medium,No,No,Yes,Service-Oriented Architecture (SOA)
+Energy,Reduce downtime,Distributed,Optimization,Medium,Medium,High,Yes,Yes,No,Federated Architecture
+Retail,Cost reduction,Distributed,Real-time decision-making,High,Low,Medium,No,No,Yes,Layered Edge Computing Architecture
+Healthcare,Real-time analytics,Medium,Monitoring,High,High,High,Yes,No,No,Gateway-Mediated Edge Architecture
+Transportation,Reduce downtime,Medium,Monitoring,Medium,Low,Medium,Yes,No,Yes,Gateway-Mediated Edge Architecture
+Retail,Cost reduction,Medium,Monitoring,Low,Low,High,No,No,No,Service-Oriented Architecture (SOA)
+Transportation,Increase efficiency,Distributed,Real-time decision-making,Low,Low,High,Yes,No,No,Federated Architecture
+Healthcare,Reduce downtime,Small,Predictive maintenance,Low,Medium,High,Yes,No,No,Gateway-Mediated Edge Architecture

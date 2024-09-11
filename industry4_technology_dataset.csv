@@ -1,0 +1,1001 @@
+industry,data_volume,latency_requirement,connectivity_type,security_requirement,data_analytics_requirement,deployment_environment,technology
+Manufacturing,Medium,Medium,Wired,Medium,No,Edge,Edge Computing
+Retail,Medium,Medium,Wireless,High,Yes,Edge,Edge Computing
+Manufacturing,High,High,Wireless,Low,No,On-Premise,Edge Computing
+Transportation,High,High,Wired,High,No,Cloud,SCADA
+Manufacturing,High,Low,Wired,Low,Yes,Cloud,OPC UA
+Agriculture,Low,Medium,Wireless,High,Yes,Cloud,Blockchain
+Retail,Medium,Medium,Wired,Low,No,Edge,Edge Computing
+Manufacturing,High,High,Wired,Low,Yes,On-Premise,AI/ML
+Manufacturing,Medium,Low,Wireless,Low,Yes,On-Premise,OPC UA
+Transportation,High,High,Wired,Medium,Yes,Cloud,AI/ML
+Healthcare,Low,Medium,Wireless,High,No,Cloud,Blockchain
+Retail,Medium,Low,Wired,Low,Yes,Cloud,SCADA
+Healthcare,Medium,Low,Wireless,Low,Yes,On-Premise,PLCs
+Agriculture,High,High,Wireless,Medium,No,Cloud,Blockchain
+Energy,High,Low,Wired,High,No,Cloud,SCADA
+Agriculture,Medium,Medium,Wireless,High,Yes,Edge,Edge Computing
+Agriculture,High,High,Wired,Low,No,Edge,Blockchain
+Transportation,High,Low,Wired,Medium,Yes,On-Premise,SCADA
+Manufacturing,Low,Low,Wired,High,No,On-Premise,SCADA
+Healthcare,Low,Medium,Wireless,Low,Yes,Cloud,MQTT
+Healthcare,Low,High,Wired,Low,No,Edge,Cloud Computing
+Transportation,High,Medium,Wireless,High,Yes,Edge,MQTT
+Transportation,Medium,High,Wired,High,No,Cloud,Cloud Computing
+Energy,Medium,Low,Wireless,Low,Yes,Cloud,OPC UA
+Retail,Medium,Low,Wired,Medium,Yes,On-Premise,SCADA
+Retail,Low,High,Wired,High,Yes,On-Premise,Blockchain
+Transportation,Low,Medium,Wireless,Medium,Yes,Edge,AI/ML
+Retail,Medium,High,Wired,High,No,Edge,Edge Computing
+Agriculture,Low,High,Wireless,High,No,Cloud,OPC UA
+Manufacturing,Medium,Medium,Wireless,Low,Yes,On-Premise,OPC UA
+Energy,Medium,Low,Wired,High,Yes,Cloud,SCADA
+Transportation,Medium,Medium,Wired,Low,Yes,Edge,Edge Computing
+Transportation,High,Medium,Wireless,Medium,Yes,On-Premise,MQTT
+Energy,Low,High,Wired,Medium,No,Edge,Cloud Computing
+Transportation,Low,High,Wired,Low,Yes,Edge,Blockchain
+Transportation,High,Low,Wireless,Medium,No,Cloud,PLCs
+Manufacturing,High,Medium,Wireless,High,Yes,Cloud,AI/ML
+Manufacturing,High,High,Wireless,Medium,Yes,Cloud,AI/ML
+Transportation,Low,Low,Wired,Medium,No,On-Premise,SCADA
+Manufacturing,Low,Low,Wireless,High,Yes,On-Premise,SCADA
+Energy,Low,Low,Wired,High,Yes,Cloud,SCADA
+Agriculture,Medium,Medium,Wired,Medium,Yes,On-Premise,PLCs
+Manufacturing,Low,Medium,Wired,Medium,Yes,Edge,Blockchain
+Retail,High,Medium,Wired,Medium,No,Cloud,Blockchain
+Agriculture,High,Low,Wired,Low,Yes,On-Premise,SCADA
+Manufacturing,Low,High,Wired,Low,Yes,On-Premise,Cloud Computing
+Agriculture,High,High,Wireless,High,Yes,Edge,SCADA
+Energy,Medium,Medium,Wireless,High,Yes,Edge,Edge Computing
+Manufacturing,Low,High,Wired,High,No,Cloud,OPC UA
+Retail,High,Medium,Wired,Medium,No,Cloud,AI/ML
+Healthcare,Medium,High,Wireless,Low,No,On-Premise,SCADA
+Energy,Low,Medium,Wireless,High,Yes,Edge,SCADA
+Energy,High,Medium,Wired,High,No,Edge,Blockchain
+Healthcare,Medium,High,Wired,Low,No,On-Premise,Blockchain
+Agriculture,Low,Low,Wired,Low,No,Cloud,SCADA
+Energy,Medium,High,Wired,High,Yes,On-Premise,MQTT
+Transportation,Low,Medium,Wireless,Medium,No,Edge,OPC UA
+Agriculture,Medium,High,Wired,Medium,No,Cloud,AI/ML
+Healthcare,High,Low,Wireless,Low,No,Cloud,Blockchain
+Manufacturing,Medium,Low,Wired,Medium,Yes,Edge,SCADA
+Retail,Low,High,Wired,Low,Yes,On-Premise,MQTT
+Energy,Medium,High,Wireless,High,Yes,Edge,Edge Computing
+Manufacturing,Low,High,Wired,Low,Yes,On-Premise,SCADA
+Manufacturing,Medium,Low,Wireless,High,Yes,Cloud,AI/ML
+Agriculture,High,Medium,Wireless,Low,No,Cloud,MQTT
+Agriculture,Low,Medium,Wired,Medium,Yes,Cloud,AI/ML
+Retail,Medium,Medium,Wireless,Low,No,Cloud,Blockchain
+Healthcare,Medium,Low,Wireless,Medium,Yes,Cloud,AI/ML
+Transportation,Medium,High,Wired,Medium,No,Edge,Edge Computing
+Healthcare,High,Medium,Wireless,High,Yes,Cloud,Blockchain
+Transportation,Low,High,Wireless,High,Yes,Edge,Edge Computing
+Agriculture,High,Medium,Wired,High,Yes,On-Premise,MQTT
+Energy,High,High,Wired,Low,Yes,Edge,Blockchain
+Retail,Medium,Low,Wired,Medium,Yes,Edge,SCADA
+Healthcare,Medium,High,Wireless,High,No,On-Premise,Blockchain
+Manufacturing,Medium,Medium,Wired,Medium,No,Edge,Edge Computing
+Energy,Low,Medium,Wired,Low,Yes,On-Premise,MQTT
+Healthcare,Low,Low,Wired,Low,Yes,Edge,SCADA
+Energy,Medium,Low,Wireless,Low,No,Edge,Edge Computing
+Retail,Low,Medium,Wireless,Low,Yes,On-Premise,Edge Computing
+Retail,Low,High,Wireless,Medium,No,On-Premise,PLCs
+Transportation,Low,High,Wired,Low,No,Edge,OPC UA
+Manufacturing,Medium,Medium,Wired,Low,No,Cloud,SCADA
+Retail,Low,Low,Wired,Medium,Yes,Edge,SCADA
+Transportation,Low,High,Wired,Low,No,Edge,Cloud Computing
+Healthcare,High,Low,Wired,Medium,Yes,On-Premise,SCADA
+Agriculture,Medium,High,Wired,Medium,No,Edge,Edge Computing
+Energy,Medium,High,Wireless,Medium,Yes,Edge,Edge Computing
+Transportation,Medium,Low,Wireless,High,No,On-Premise,AI/ML
+Energy,High,Low,Wireless,Low,Yes,On-Premise,Cloud Computing
+Transportation,High,Low,Wired,Low,No,Edge,SCADA
+Healthcare,Low,High,Wireless,Medium,No,Cloud,AI/ML
+Manufacturing,High,Medium,Wired,High,Yes,On-Premise,Cloud Computing
+Transportation,High,Medium,Wired,Low,No,Edge,SCADA
+Transportation,Medium,Medium,Wired,High,No,Edge,Edge Computing
+Energy,Medium,Medium,Wired,High,Yes,Edge,Edge Computing
+Manufacturing,Medium,Medium,Wired,High,No,Edge,Edge Computing
+Healthcare,Medium,High,Wireless,Medium,Yes,On-Premise,PLCs
+Transportation,High,Medium,Wireless,Low,No,On-Premise,SCADA
+Agriculture,Medium,Medium,Wired,Medium,Yes,Cloud,Blockchain
+Transportation,Low,Medium,Wired,Medium,No,Cloud,Edge Computing
+Transportation,High,Low,Wireless,High,Yes,Edge,SCADA
+Energy,High,Medium,Wired,High,Yes,Edge,Cloud Computing
+Manufacturing,Low,Low,Wireless,Low,Yes,On-Premise,OPC UA
+Retail,High,High,Wireless,Medium,No,On-Premise,MQTT
+Retail,Low,High,Wired,Medium,No,On-Premise,AI/ML
+Healthcare,High,Low,Wired,High,No,Cloud,Blockchain
+Manufacturing,Low,Low,Wired,High,Yes,Cloud,SCADA
+Retail,Medium,High,Wired,High,No,Cloud,Blockchain
+Healthcare,Medium,Low,Wired,Low,Yes,Cloud,SCADA
+Retail,Medium,Medium,Wireless,Medium,No,Edge,Edge Computing
+Retail,High,Low,Wired,Medium,No,Edge,SCADA
+Healthcare,Medium,High,Wired,High,Yes,Edge,Blockchain
+Manufacturing,Medium,High,Wireless,Medium,Yes,Edge,Edge Computing
+Retail,Medium,High,Wireless,Medium,No,Edge,Edge Computing
+Manufacturing,Medium,Low,Wired,Medium,Yes,On-Premise,SCADA
+Agriculture,Medium,Low,Wired,Medium,Yes,Edge,SCADA
+Energy,Low,High,Wired,High,No,On-Premise,Edge Computing
+Manufacturing,High,Low,Wireless,High,Yes,On-Premise,OPC UA
+Retail,Low,Low,Wired,Medium,Yes,Cloud,SCADA
+Healthcare,Low,Medium,Wireless,Medium,No,Cloud,Blockchain
+Healthcare,High,Medium,Wired,High,Yes,On-Premise,Blockchain
+Manufacturing,Medium,Low,Wireless,Medium,Yes,Edge,Edge Computing
+Healthcare,Low,High,Wireless,Low,Yes,Edge,SCADA
+Manufacturing,High,Low,Wired,Medium,Yes,Cloud,OPC UA
+Agriculture,High,Medium,Wired,Low,No,Edge,Cloud Computing
+Transportation,High,Medium,Wired,Low,No,Edge,OPC UA
+Transportation,Low,High,Wired,High,Yes,On-Premise,Blockchain
+Transportation,Medium,High,Wireless,Medium,No,Edge,Edge Computing
+Agriculture,Medium,Medium,Wired,High,Yes,On-Premise,Blockchain
+Retail,Medium,High,Wired,High,Yes,On-Premise,PLCs
+Healthcare,High,Low,Wired,Medium,No,Edge,SCADA
+Agriculture,High,Low,Wired,Medium,No,Edge,SCADA
+Agriculture,High,Low,Wired,Medium,Yes,On-Premise,SCADA
+Healthcare,Low,High,Wired,Medium,Yes,Edge,SCADA
+Healthcare,Low,Medium,Wired,Low,No,Cloud,PLCs
+Transportation,Low,High,Wired,Medium,No,Cloud,Blockchain
+Healthcare,High,Medium,Wired,Medium,Yes,On-Premise,Edge Computing
+Energy,High,Low,Wired,Medium,Yes,Edge,SCADA
+Retail,Low,Medium,Wireless,Low,Yes,On-Premise,AI/ML
+Transportation,Low,High,Wireless,Medium,No,Cloud,MQTT
+Energy,Medium,Low,Wireless,Medium,Yes,Edge,Edge Computing
+Manufacturing,High,Medium,Wireless,High,Yes,Cloud,AI/ML
+Manufacturing,Medium,Low,Wired,Medium,Yes,Edge,SCADA
+Healthcare,High,Low,Wired,High,No,Edge,Blockchain
+Healthcare,Low,Medium,Wired,Low,No,Edge,OPC UA
+Transportation,High,Medium,Wireless,Low,Yes,Edge,Edge Computing
+Transportation,High,High,Wired,High,No,Edge,SCADA
+Retail,Low,High,Wireless,Low,No,Cloud,SCADA
+Agriculture,High,Low,Wireless,Low,Yes,Cloud,AI/ML
+Retail,Low,Low,Wired,Low,No,Edge,SCADA
+Energy,Low,Medium,Wireless,Medium,No,Cloud,AI/ML
+Manufacturing,Low,High,Wired,Medium,Yes,On-Premise,AI/ML
+Healthcare,Medium,Low,Wireless,High,Yes,Edge,Blockchain
+Energy,Low,Medium,Wireless,Low,Yes,Cloud,Cloud Computing
+Transportation,Low,Low,Wireless,High,No,Edge,Blockchain
+Manufacturing,Low,High,Wired,Low,No,On-Premise,Edge Computing
+Transportation,Low,Medium,Wired,High,Yes,Edge,Blockchain
+Energy,Medium,High,Wired,Low,Yes,On-Premise,SCADA
+Manufacturing,Low,Medium,Wireless,Low,Yes,On-Premise,SCADA
+Manufacturing,Low,Low,Wired,Low,No,Edge,SCADA
+Healthcare,Low,Medium,Wired,Medium,No,Cloud,Cloud Computing
+Retail,High,High,Wired,High,No,Cloud,Edge Computing
+Retail,High,Low,Wireless,High,No,Edge,PLCs
+Healthcare,High,Low,Wireless,Medium,Yes,Cloud,AI/ML
+Transportation,Low,High,Wired,High,Yes,Cloud,MQTT
+Agriculture,Medium,High,Wireless,High,Yes,On-Premise,Blockchain
+Healthcare,Low,Low,Wireless,Medium,No,Edge,MQTT
+Retail,Low,Low,Wired,High,Yes,Cloud,SCADA
+Agriculture,High,High,Wired,Medium,Yes,Edge,OPC UA
+Retail,High,Low,Wireless,Low,Yes,Cloud,AI/ML
+Retail,Medium,High,Wired,High,No,Cloud,OPC UA
+Transportation,Medium,Low,Wireless,Medium,No,On-Premise,SCADA
+Manufacturing,Medium,High,Wireless,High,No,On-Premise,SCADA
+Manufacturing,Low,Medium,Wired,Low,No,Edge,Edge Computing
+Healthcare,High,Medium,Wired,Medium,No,Cloud,SCADA
+Agriculture,Low,Medium,Wired,Medium,No,On-Premise,Blockchain
+Healthcare,High,Low,Wireless,Medium,No,Cloud,Edge Computing
+Healthcare,Low,High,Wireless,Medium,No,Cloud,AI/ML
+Retail,Medium,High,Wireless,High,Yes,Cloud,MQTT
+Manufacturing,Low,Medium,Wired,Low,No,Cloud,SCADA
+Retail,Low,Low,Wireless,Low,No,Edge,PLCs
+Retail,Low,High,Wireless,High,Yes,On-Premise,OPC UA
+Agriculture,Low,High,Wired,Medium,Yes,Edge,Blockchain
+Energy,Medium,High,Wired,High,No,On-Premise,Blockchain
+Manufacturing,Medium,Medium,Wired,Low,No,Cloud,Cloud Computing
+Manufacturing,Low,Medium,Wired,High,Yes,On-Premise,AI/ML
+Healthcare,High,Low,Wireless,High,No,On-Premise,Blockchain
+Manufacturing,Medium,Low,Wired,Medium,Yes,On-Premise,SCADA
+Retail,High,High,Wireless,Low,No,Edge,AI/ML
+Manufacturing,High,High,Wired,Low,No,On-Premise,PLCs
+Healthcare,High,Low,Wired,Low,Yes,Cloud,AI/ML
+Energy,Low,High,Wired,Medium,Yes,On-Premise,Edge Computing
+Retail,High,High,Wired,Medium,No,Cloud,PLCs
+Healthcare,Medium,Medium,Wired,Low,Yes,Cloud,Blockchain
+Transportation,Low,High,Wired,Medium,No,Cloud,Edge Computing
+Manufacturing,High,High,Wired,Medium,No,On-Premise,MQTT
+Retail,Medium,Medium,Wired,High,No,Cloud,OPC UA
+Transportation,High,High,Wired,Low,Yes,Edge,PLCs
+Retail,High,High,Wired,Low,Yes,On-Premise,Edge Computing
+Agriculture,High,High,Wired,Low,Yes,On-Premise,OPC UA
+Retail,Medium,Low,Wired,Medium,No,Edge,SCADA
+Manufacturing,Medium,Low,Wired,Medium,No,Cloud,SCADA
+Retail,High,High,Wireless,High,No,Edge,PLCs
+Energy,Medium,High,Wireless,Low,No,Edge,Edge Computing
+Manufacturing,High,Low,Wired,Low,Yes,Edge,OPC UA
+Transportation,Low,Low,Wired,High,Yes,Edge,SCADA
+Energy,High,High,Wireless,High,No,On-Premise,SCADA
+Transportation,Medium,High,Wired,Medium,Yes,Cloud,Edge Computing
+Manufacturing,Medium,Low,Wireless,High,Yes,Edge,Edge Computing
+Energy,Low,Low,Wired,High,Yes,Cloud,SCADA
+Energy,High,Low,Wireless,Medium,No,Cloud,Edge Computing
+Energy,Medium,High,Wired,Medium,Yes,Cloud,Blockchain
+Manufacturing,Medium,Low,Wireless,Medium,No,On-Premise,SCADA
+Manufacturing,High,Medium,Wireless,High,Yes,Edge,SCADA
+Energy,Medium,Medium,Wireless,Medium,No,Edge,Edge Computing
+Healthcare,Low,High,Wired,Low,Yes,Cloud,MQTT
+Healthcare,Medium,Low,Wireless,High,Yes,Cloud,Blockchain
+Retail,Low,High,Wired,Low,Yes,On-Premise,Cloud Computing
+Manufacturing,Medium,Low,Wireless,Low,Yes,Cloud,Cloud Computing
+Agriculture,High,Low,Wireless,Low,No,On-Premise,Blockchain
+Healthcare,High,Medium,Wireless,Low,Yes,Cloud,AI/ML
+Healthcare,Low,High,Wired,Medium,Yes,On-Premise,Cloud Computing
+Transportation,High,Medium,Wired,Low,Yes,Edge,Edge Computing
+Manufacturing,Medium,Low,Wireless,Medium,No,On-Premise,PLCs
+Agriculture,High,High,Wireless,Medium,Yes,On-Premise,PLCs
+Manufacturing,High,Low,Wired,High,Yes,Cloud,OPC UA
+Retail,Medium,Low,Wired,Low,Yes,On-Premise,SCADA
+Energy,Low,High,Wireless,Low,No,Cloud,OPC UA
+Retail,High,Medium,Wireless,Low,Yes,On-Premise,MQTT
+Retail,High,Medium,Wired,Low,No,Edge,Blockchain
+Energy,Low,Medium,Wired,High,No,Edge,OPC UA
+Retail,High,High,Wired,Low,Yes,Edge,Blockchain
+Transportation,Medium,High,Wired,High,No,On-Premise,Edge Computing
+Healthcare,High,Low,Wired,Medium,Yes,On-Premise,SCADA
+Energy,Medium,High,Wired,Medium,No,Cloud,SCADA
+Agriculture,Low,Low,Wireless,Medium,Yes,On-Premise,AI/ML
+Transportation,Medium,Medium,Wired,Medium,Yes,On-Premise,OPC UA
+Healthcare,Medium,Low,Wireless,Medium,Yes,Cloud,PLCs
+Transportation,Medium,Low,Wired,High,Yes,Cloud,SCADA
+Retail,Medium,Medium,Wireless,Medium,No,On-Premise,Cloud Computing
+Manufacturing,Low,High,Wired,Medium,Yes,Edge,PLCs
+Transportation,High,High,Wired,Low,No,On-Premise,MQTT
+Retail,Low,High,Wireless,High,No,Edge,Edge Computing
+Energy,Low,High,Wired,Medium,No,Edge,Cloud Computing
+Agriculture,Medium,Medium,Wired,High,Yes,Edge,Edge Computing
+Manufacturing,Medium,High,Wireless,Medium,No,Cloud,SCADA
+Retail,Low,High,Wireless,Low,Yes,On-Premise,Edge Computing
+Healthcare,Low,Low,Wired,Low,No,On-Premise,SCADA
+Manufacturing,High,Low,Wireless,Medium,No,Edge,OPC UA
+Energy,High,Medium,Wireless,Low,Yes,Edge,SCADA
+Retail,High,High,Wireless,High,No,Cloud,Edge Computing
+Energy,Medium,Medium,Wireless,High,No,On-Premise,OPC UA
+Retail,Medium,Low,Wireless,Low,No,On-Premise,Cloud Computing
+Energy,Medium,Medium,Wired,Low,Yes,Cloud,PLCs
+Manufacturing,High,High,Wireless,Medium,No,Edge,Blockchain
+Agriculture,Low,Medium,Wireless,High,Yes,Edge,Edge Computing
+Healthcare,Low,High,Wireless,Low,Yes,Edge,PLCs
+Manufacturing,High,Low,Wireless,High,No,On-Premise,OPC UA
+Energy,High,Medium,Wireless,Low,Yes,Cloud,AI/ML
+Transportation,Low,High,Wireless,Medium,No,Edge,Edge Computing
+Manufacturing,Low,High,Wired,Low,No,On-Premise,OPC UA
+Healthcare,Low,Low,Wired,Medium,No,On-Premise,SCADA
+Energy,High,High,Wired,High,Yes,Cloud,AI/ML
+Agriculture,Low,Medium,Wired,High,No,Edge,PLCs
+Agriculture,Medium,High,Wireless,High,No,On-Premise,PLCs
+Manufacturing,Medium,Medium,Wireless,High,No,Cloud,SCADA
+Energy,High,Low,Wireless,High,No,On-Premise,SCADA
+Energy,Low,High,Wireless,High,No,Cloud,SCADA
+Healthcare,Medium,Low,Wired,Medium,No,Cloud,SCADA
+Healthcare,High,Low,Wired,Low,No,Cloud,SCADA
+Energy,High,Low,Wired,High,No,Edge,SCADA
+Manufacturing,Low,High,Wireless,Medium,No,Edge,Edge Computing
+Energy,Low,Low,Wired,Low,Yes,Edge,SCADA
+Retail,High,High,Wireless,Medium,No,On-Premise,PLCs
+Healthcare,Medium,Medium,Wireless,Low,No,On-Premise,OPC UA
+Transportation,Low,Medium,Wireless,Low,No,Cloud,MQTT
+Retail,Low,High,Wireless,High,No,Cloud,PLCs
+Retail,Low,Medium,Wireless,Low,No,Cloud,Edge Computing
+Energy,High,Medium,Wired,High,No,Cloud,MQTT
+Healthcare,Medium,Medium,Wired,Low,No,Cloud,MQTT
+Transportation,Low,High,Wired,Medium,Yes,Cloud,MQTT
+Transportation,Medium,High,Wired,Medium,Yes,On-Premise,OPC UA
+Healthcare,High,High,Wireless,Medium,Yes,On-Premise,Edge Computing
+Energy,High,Medium,Wireless,High,Yes,Cloud,AI/ML
+Transportation,Low,Low,Wireless,Low,No,Edge,PLCs
+Retail,Medium,Low,Wireless,Medium,No,Cloud,SCADA
+Healthcare,Low,High,Wired,Low,No,On-Premise,SCADA
+Transportation,High,Low,Wireless,Medium,Yes,On-Premise,Cloud Computing
+Energy,High,Medium,Wireless,Low,No,Edge,Blockchain
+Retail,High,Medium,Wired,Low,No,Edge,SCADA
+Retail,High,High,Wireless,High,No,On-Premise,PLCs
+Manufacturing,Medium,Low,Wired,High,No,Cloud,SCADA
+Energy,Low,High,Wireless,High,No,Cloud,MQTT
+Agriculture,Low,High,Wireless,Low,Yes,On-Premise,Blockchain
+Energy,High,Medium,Wired,Medium,Yes,Cloud,AI/ML
+Transportation,Medium,High,Wired,High,No,Cloud,Cloud Computing
+Energy,High,High,Wired,Low,Yes,On-Premise,Cloud Computing
+Energy,Low,High,Wireless,High,Yes,Cloud,Blockchain
+Healthcare,High,Medium,Wired,Low,Yes,On-Premise,SCADA
+Agriculture,Medium,High,Wired,High,Yes,Edge,Edge Computing
+Energy,Low,Medium,Wireless,High,Yes,On-Premise,Edge Computing
+Agriculture,Medium,Medium,Wireless,Low,Yes,On-Premise,Edge Computing
+Healthcare,High,High,Wired,Medium,No,On-Premise,SCADA
+Agriculture,Low,High,Wired,High,Yes,Cloud,PLCs
+Manufacturing,Medium,Medium,Wired,Medium,Yes,On-Premise,PLCs
+Transportation,Medium,Medium,Wireless,Low,Yes,Cloud,Cloud Computing
+Transportation,Low,Medium,Wired,Medium,Yes,On-Premise,Blockchain
+Agriculture,Medium,Low,Wireless,Medium,No,Edge,Edge Computing
+Retail,Medium,Medium,Wired,Low,No,On-Premise,OPC UA
+Healthcare,Low,High,Wireless,High,No,On-Premise,Blockchain
+Energy,High,Low,Wireless,Low,Yes,Edge,Blockchain
+Retail,Low,Medium,Wired,Low,Yes,Edge,SCADA
+Agriculture,High,Medium,Wireless,Low,Yes,Cloud,AI/ML
+Retail,High,Low,Wireless,High,Yes,Edge,SCADA
+Agriculture,Low,Low,Wireless,High,No,Cloud,AI/ML
+Transportation,Medium,Medium,Wireless,High,Yes,Cloud,Cloud Computing
+Retail,Medium,Low,Wired,Medium,No,On-Premise,SCADA
+Manufacturing,Low,Low,Wired,Low,Yes,Edge,SCADA
+Manufacturing,Low,Medium,Wired,Medium,Yes,Cloud,OPC UA
+Healthcare,High,Low,Wireless,Medium,Yes,On-Premise,SCADA
+Manufacturing,Low,Medium,Wireless,High,Yes,Cloud,Edge Computing
+Transportation,Low,Medium,Wireless,Low,No,On-Premise,PLCs
+Transportation,Medium,Medium,Wired,Low,No,Edge,Edge Computing
+Healthcare,Low,Medium,Wired,High,Yes,Edge,Blockchain
+Transportation,Medium,Low,Wired,Medium,Yes,On-Premise,SCADA
+Retail,High,Low,Wired,Low,Yes,Cloud,AI/ML
+Manufacturing,High,Medium,Wired,High,No,On-Premise,AI/ML
+Healthcare,Low,High,Wired,Medium,Yes,Cloud,Edge Computing
+Transportation,Medium,Medium,Wired,High,No,Edge,Edge Computing
+Healthcare,Medium,High,Wireless,High,No,Cloud,Blockchain
+Healthcare,Medium,High,Wired,Low,No,Edge,Edge Computing
+Healthcare,High,Medium,Wired,Low,Yes,Cloud,AI/ML
+Energy,Medium,Medium,Wireless,High,Yes,On-Premise,Blockchain
+Transportation,High,Low,Wireless,High,Yes,On-Premise,AI/ML
+Energy,Medium,High,Wired,High,No,Edge,Edge Computing
+Healthcare,Low,Medium,Wired,High,No,Edge,Blockchain
+Agriculture,Medium,Medium,Wired,High,No,Cloud,SCADA
+Agriculture,Low,High,Wireless,High,No,Edge,Edge Computing
+Manufacturing,Low,Low,Wireless,Low,Yes,Cloud,PLCs
+Agriculture,Low,High,Wireless,High,No,On-Premise,OPC UA
+Transportation,Medium,Medium,Wired,Medium,No,Edge,Edge Computing
+Energy,High,Low,Wired,Low,Yes,On-Premise,SCADA
+Retail,Medium,Low,Wired,Medium,No,Edge,SCADA
+Transportation,High,Low,Wired,High,No,Cloud,SCADA
+Manufacturing,High,Low,Wireless,Medium,No,Edge,OPC UA
+Manufacturing,Medium,Low,Wired,Medium,No,Edge,SCADA
+Healthcare,Low,Low,Wireless,Low,Yes,Edge,Blockchain
+Retail,High,Low,Wireless,Medium,No,Edge,Edge Computing
+Transportation,Low,Medium,Wired,Low,Yes,Edge,OPC UA
+Manufacturing,Low,Low,Wired,High,No,On-Premise,SCADA
+Healthcare,Low,Low,Wired,Low,Yes,Edge,SCADA
+Energy,Medium,Low,Wired,High,No,On-Premise,SCADA
+Retail,Medium,Medium,Wireless,Medium,Yes,Edge,Edge Computing
+Agriculture,Medium,Medium,Wired,High,Yes,Edge,Edge Computing
+Healthcare,Low,Low,Wireless,Medium,No,On-Premise,Edge Computing
+Retail,Low,Low,Wireless,High,Yes,Edge,Cloud Computing
+Agriculture,Medium,Low,Wired,Medium,Yes,On-Premise,SCADA
+Manufacturing,Low,Medium,Wireless,Low,No,Edge,Blockchain
+Energy,High,Medium,Wireless,Medium,No,On-Premise,SCADA
+Transportation,Low,Medium,Wired,Low,No,On-Premise,OPC UA
+Healthcare,High,Low,Wireless,Medium,No,On-Premise,MQTT
+Healthcare,Medium,Medium,Wired,Medium,No,On-Premise,OPC UA
+Manufacturing,Medium,Medium,Wired,Medium,Yes,On-Premise,PLCs
+Agriculture,Medium,Low,Wireless,Low,Yes,Cloud,OPC UA
+Energy,Medium,High,Wired,High,No,Cloud,Cloud Computing
+Transportation,Low,High,Wired,Medium,Yes,Edge,OPC UA
+Energy,Medium,Medium,Wired,Medium,No,On-Premise,MQTT
+Energy,Medium,Medium,Wired,Medium,No,Cloud,Cloud Computing
+Healthcare,High,Low,Wired,Medium,No,Edge,SCADA
+Energy,Medium,Medium,Wired,Low,Yes,Cloud,Blockchain
+Energy,Medium,Low,Wireless,Medium,No,On-Premise,MQTT
+Manufacturing,Medium,Low,Wireless,Medium,No,Cloud,SCADA
+Transportation,Low,High,Wireless,Low,No,Cloud,OPC UA
+Manufacturing,Low,Medium,Wireless,Medium,No,On-Premise,Blockchain
+Transportation,High,High,Wired,High,Yes,Cloud,AI/ML
+Healthcare,Medium,High,Wireless,High,No,On-Premise,Blockchain
+Transportation,Medium,High,Wireless,Medium,No,On-Premise,Edge Computing
+Agriculture,Medium,Medium,Wired,Medium,No,On-Premise,SCADA
+Agriculture,Low,Medium,Wired,Low,Yes,Edge,Cloud Computing
+Healthcare,Low,Medium,Wireless,High,No,On-Premise,Blockchain
+Manufacturing,High,High,Wired,Medium,No,On-Premise,PLCs
+Healthcare,High,Medium,Wired,Medium,Yes,Edge,SCADA
+Manufacturing,High,High,Wireless,High,Yes,Cloud,AI/ML
+Energy,High,Low,Wireless,High,No,Cloud,Blockchain
+Healthcare,Medium,Medium,Wired,Medium,No,Edge,Edge Computing
+Agriculture,High,High,Wireless,Medium,No,On-Premise,SCADA
+Transportation,Low,High,Wired,Medium,No,On-Premise,AI/ML
+Energy,Low,High,Wireless,Low,No,Edge,Cloud Computing
+Agriculture,High,Medium,Wired,Low,No,Cloud,AI/ML
+Energy,Medium,Low,Wireless,Medium,Yes,On-Premise,MQTT
+Healthcare,Medium,High,Wireless,High,No,Cloud,Blockchain
+Healthcare,Low,Medium,Wired,Medium,Yes,Edge,MQTT
+Retail,High,Low,Wired,Medium,Yes,Edge,SCADA
+Manufacturing,High,High,Wired,High,Yes,Edge,OPC UA
+Manufacturing,Low,High,Wireless,Medium,No,On-Premise,Cloud Computing
+Transportation,Low,Low,Wireless,Medium,Yes,Cloud,Edge Computing
+Transportation,High,High,Wireless,High,No,Edge,Edge Computing
+Healthcare,Low,Low,Wired,Low,No,Cloud,SCADA
+Manufacturing,High,Low,Wireless,High,No,On-Premise,OPC UA
+Transportation,Medium,Medium,Wireless,Low,No,On-Premise,Cloud Computing
+Manufacturing,High,Medium,Wired,Low,No,Cloud,MQTT
+Agriculture,Medium,Medium,Wired,High,No,Edge,Edge Computing
+Retail,Low,Medium,Wired,Low,No,Cloud,Cloud Computing
+Manufacturing,Low,High,Wired,Low,Yes,Edge,PLCs
+Energy,Medium,Low,Wireless,High,Yes,Edge,Edge Computing
+Energy,Low,Low,Wireless,Medium,No,Edge,AI/ML
+Agriculture,Low,Low,Wireless,High,Yes,Edge,AI/ML
+Transportation,High,High,Wireless,High,Yes,On-Premise,SCADA
+Healthcare,Low,High,Wired,Medium,No,Edge,Edge Computing
+Agriculture,High,High,Wired,Low,Yes,Edge,MQTT
+Manufacturing,Medium,High,Wired,High,No,Cloud,Cloud Computing
+Transportation,Low,Medium,Wired,High,Yes,Edge,PLCs
+Agriculture,High,Medium,Wireless,Low,No,Cloud,Cloud Computing
+Retail,Medium,High,Wired,Low,Yes,Edge,Edge Computing
+Agriculture,Medium,High,Wired,Medium,Yes,On-Premise,MQTT
+Agriculture,High,High,Wireless,Low,No,On-Premise,AI/ML
+Healthcare,Low,Low,Wireless,Low,No,Edge,PLCs
+Retail,Low,Medium,Wired,High,No,Cloud,Edge Computing
+Retail,High,Low,Wireless,Low,No,Cloud,Edge Computing
+Energy,High,High,Wireless,High,Yes,On-Premise,AI/ML
+Manufacturing,Medium,High,Wired,Medium,No,Cloud,Edge Computing
+Manufacturing,High,High,Wireless,High,Yes,Edge,SCADA
+Transportation,Medium,Low,Wireless,Low,Yes,Cloud,Blockchain
+Transportation,High,Low,Wireless,High,No,On-Premise,AI/ML
+Manufacturing,Medium,Medium,Wired,High,No,Cloud,OPC UA
+Healthcare,High,Medium,Wireless,High,No,Cloud,Blockchain
+Agriculture,High,Low,Wired,Medium,Yes,Edge,SCADA
+Manufacturing,High,Medium,Wireless,Low,Yes,Cloud,AI/ML
+Agriculture,Medium,High,Wired,Low,Yes,Cloud,PLCs
+Retail,Low,High,Wireless,Low,No,Edge,Cloud Computing
+Manufacturing,High,High,Wired,High,No,Cloud,SCADA
+Energy,High,High,Wireless,Medium,No,On-Premise,Edge Computing
+Retail,High,High,Wired,Medium,Yes,On-Premise,OPC UA
+Healthcare,Low,Medium,Wired,Low,Yes,Cloud,PLCs
+Healthcare,Medium,Low,Wired,Medium,Yes,On-Premise,SCADA
+Energy,High,High,Wireless,Low,No,Cloud,PLCs
+Retail,High,Medium,Wireless,Low,Yes,Edge,MQTT
+Energy,Low,Low,Wireless,Medium,No,Cloud,Cloud Computing
+Manufacturing,Low,High,Wireless,Low,No,Edge,PLCs
+Transportation,Low,Low,Wired,Low,No,On-Premise,SCADA
+Agriculture,Low,High,Wireless,High,Yes,Edge,Blockchain
+Healthcare,Medium,Medium,Wireless,Low,No,Edge,Edge Computing
+Healthcare,High,High,Wired,Low,Yes,Edge,AI/ML
+Transportation,Medium,Medium,Wireless,Medium,No,Cloud,AI/ML
+Manufacturing,Medium,Medium,Wireless,High,No,On-Premise,Blockchain
+Manufacturing,High,Medium,Wireless,High,No,On-Premise,Cloud Computing
+Energy,Low,Medium,Wireless,Medium,Yes,Edge,Cloud Computing
+Manufacturing,Medium,Medium,Wireless,Medium,No,Cloud,AI/ML
+Energy,Medium,High,Wireless,High,Yes,Edge,Edge Computing
+Energy,Medium,Low,Wired,Medium,No,On-Premise,SCADA
+Manufacturing,Medium,Medium,Wired,Low,Yes,Edge,Edge Computing
+Retail,High,Low,Wireless,High,Yes,On-Premise,Edge Computing
+Energy,Low,Medium,Wired,Medium,Yes,On-Premise,Blockchain
+Manufacturing,High,Low,Wireless,Medium,No,Edge,OPC UA
+Energy,Medium,High,Wireless,Medium,No,On-Premise,Edge Computing
+Agriculture,Medium,Low,Wireless,Low,Yes,Cloud,Edge Computing
+Manufacturing,Medium,High,Wired,Medium,Yes,Cloud,Cloud Computing
+Transportation,High,Medium,Wireless,Low,No,Edge,PLCs
+Retail,Medium,Medium,Wireless,Low,Yes,Edge,Edge Computing
+Manufacturing,Medium,High,Wireless,Medium,Yes,Cloud,Cloud Computing
+Healthcare,Medium,Low,Wireless,High,Yes,On-Premise,Blockchain
+Healthcare,High,Low,Wired,High,No,Edge,Blockchain
+Retail,Low,Medium,Wired,Medium,No,Cloud,Edge Computing
+Retail,Low,High,Wired,High,Yes,Edge,PLCs
+Manufacturing,Medium,Low,Wireless,Low,Yes,Edge,Edge Computing
+Retail,Medium,Low,Wireless,Medium,Yes,On-Premise,Blockchain
+Agriculture,Medium,Medium,Wired,Low,Yes,Cloud,Blockchain
+Agriculture,Low,High,Wired,Low,Yes,Edge,Blockchain
+Transportation,High,Medium,Wireless,Medium,Yes,Edge,Edge Computing
+Transportation,High,High,Wired,High,No,Cloud,SCADA
+Transportation,Low,Medium,Wireless,Medium,Yes,Edge,PLCs
+Healthcare,Medium,Medium,Wired,High,No,Cloud,Blockchain
+Healthcare,Low,High,Wired,High,No,Edge,Blockchain
+Agriculture,Medium,Medium,Wired,Low,No,Cloud,Cloud Computing
+Retail,Medium,High,Wireless,Low,Yes,On-Premise,OPC UA
+Agriculture,Low,High,Wireless,High,Yes,Edge,OPC UA
+Agriculture,Medium,Low,Wireless,High,No,Edge,Edge Computing
+Retail,Medium,Low,Wireless,Medium,Yes,On-Premise,MQTT
+Agriculture,High,Low,Wired,High,No,Edge,SCADA
+Retail,Medium,High,Wired,Low,Yes,Edge,Edge Computing
+Energy,High,High,Wired,Medium,Yes,Edge,PLCs
+Transportation,High,Low,Wired,High,No,Cloud,SCADA
+Retail,Medium,Low,Wireless,Medium,No,On-Premise,MQTT
+Manufacturing,Medium,Medium,Wireless,Low,Yes,On-Premise,PLCs
+Agriculture,Medium,High,Wireless,Low,No,Cloud,AI/ML
+Healthcare,Low,High,Wireless,Medium,No,On-Premise,Blockchain
+Energy,Low,Medium,Wireless,High,No,Edge,PLCs
+Healthcare,Medium,Low,Wired,Low,Yes,On-Premise,SCADA
+Healthcare,Low,High,Wired,High,Yes,On-Premise,Blockchain
+Transportation,Medium,High,Wired,Medium,No,Edge,Edge Computing
+Manufacturing,Medium,Low,Wired,Low,Yes,Cloud,SCADA
+Manufacturing,Low,Low,Wireless,Low,Yes,Cloud,Blockchain
+Manufacturing,Low,Low,Wired,Medium,Yes,Edge,SCADA
+Manufacturing,Medium,Medium,Wired,Medium,Yes,On-Premise,Edge Computing
+Retail,High,Low,Wireless,Low,No,Cloud,OPC UA
+Manufacturing,Medium,Low,Wired,High,Yes,Cloud,SCADA
+Healthcare,Medium,Low,Wired,High,No,Cloud,Blockchain
+Energy,Low,Low,Wireless,Low,No,Cloud,Blockchain
+Retail,Medium,Medium,Wireless,Medium,No,On-Premise,OPC UA
+Transportation,Low,Low,Wired,Medium,Yes,On-Premise,SCADA
+Energy,Low,Low,Wired,Medium,No,On-Premise,SCADA
+Manufacturing,High,High,Wired,High,Yes,On-Premise,PLCs
+Agriculture,Medium,Low,Wireless,Low,Yes,On-Premise,SCADA
+Energy,Medium,Low,Wired,High,No,On-Premise,SCADA
+Transportation,Low,Medium,Wireless,High,Yes,Cloud,AI/ML
+Retail,High,Low,Wireless,Medium,Yes,On-Premise,SCADA
+Healthcare,High,Low,Wired,Medium,No,Cloud,SCADA
+Healthcare,High,High,Wireless,High,Yes,Edge,Blockchain
+Transportation,Low,Medium,Wireless,Medium,No,On-Premise,AI/ML
+Agriculture,Low,High,Wireless,Low,Yes,On-Premise,AI/ML
+Energy,Medium,High,Wireless,Low,No,On-Premise,AI/ML
+Agriculture,Medium,High,Wired,Medium,Yes,Cloud,Blockchain
+Agriculture,Medium,Low,Wired,High,Yes,Cloud,SCADA
+Healthcare,High,Medium,Wired,Low,Yes,Cloud,AI/ML
+Manufacturing,Medium,High,Wireless,Medium,No,Edge,Edge Computing
+Agriculture,High,Medium,Wired,Low,No,Edge,OPC UA
+Energy,High,High,Wired,Low,Yes,Edge,Edge Computing
+Healthcare,Medium,High,Wired,High,No,Edge,Blockchain
+Healthcare,Low,Low,Wireless,Medium,No,Edge,Edge Computing
+Manufacturing,Low,Low,Wireless,Low,No,Edge,OPC UA
+Retail,Medium,Low,Wired,High,No,On-Premise,SCADA
+Manufacturing,Low,Medium,Wired,Low,No,Edge,Edge Computing
+Healthcare,Medium,Medium,Wired,Medium,Yes,Cloud,AI/ML
+Healthcare,Low,Low,Wired,Medium,Yes,Edge,SCADA
+Manufacturing,Low,Low,Wired,High,Yes,On-Premise,SCADA
+Healthcare,Medium,Low,Wired,Medium,Yes,Edge,SCADA
+Manufacturing,High,High,Wireless,Low,No,Edge,AI/ML
+Healthcare,High,Low,Wireless,Medium,Yes,Edge,OPC UA
+Manufacturing,Medium,Low,Wireless,High,No,On-Premise,Blockchain
+Manufacturing,High,Low,Wireless,Medium,No,On-Premise,OPC UA
+Manufacturing,Medium,Medium,Wired,Low,Yes,Cloud,AI/ML
+Manufacturing,Medium,Medium,Wireless,Low,Yes,On-Premise,AI/ML
+Healthcare,Medium,High,Wired,Low,No,On-Premise,AI/ML
+Energy,Low,Low,Wired,Medium,No,Edge,SCADA
+Transportation,High,High,Wireless,High,Yes,Cloud,AI/ML
+Agriculture,Low,Low,Wired,Medium,Yes,Cloud,SCADA
+Transportation,High,Low,Wired,Low,Yes,Edge,SCADA
+Manufacturing,Low,Low,Wireless,Low,No,Edge,Blockchain
+Energy,High,Medium,Wired,High,No,On-Premise,MQTT
+Retail,Low,Low,Wired,Low,No,Cloud,SCADA
+Healthcare,High,High,Wired,High,No,Edge,Blockchain
+Transportation,Medium,High,Wired,High,No,On-Premise,Cloud Computing
+Manufacturing,Low,Medium,Wired,High,No,Cloud,Edge Computing
+Energy,Medium,Low,Wired,High,Yes,Edge,SCADA
+Agriculture,High,Medium,Wireless,Medium,No,On-Premise,SCADA
+Healthcare,Low,Low,Wired,Medium,Yes,On-Premise,SCADA
+Energy,Medium,Medium,Wired,Low,Yes,Cloud,OPC UA
+Agriculture,High,High,Wired,Medium,No,Cloud,OPC UA
+Manufacturing,Low,Low,Wireless,Low,No,Cloud,Cloud Computing
+Agriculture,Medium,Low,Wired,High,Yes,Cloud,SCADA
+Healthcare,Low,Low,Wired,Low,Yes,On-Premise,SCADA
+Energy,Medium,High,Wireless,Medium,Yes,Cloud,MQTT
+Retail,High,High,Wireless,High,Yes,On-Premise,Edge Computing
+Healthcare,High,High,Wired,Low,No,Edge,Blockchain
+Healthcare,Low,High,Wired,Medium,Yes,Cloud,Blockchain
+Manufacturing,Low,Low,Wired,Low,No,On-Premise,SCADA
+Manufacturing,Low,Low,Wired,High,Yes,Cloud,SCADA
+Manufacturing,Low,Low,Wired,Medium,Yes,Cloud,SCADA
+Manufacturing,Medium,Medium,Wireless,High,Yes,On-Premise,PLCs
+Healthcare,Low,High,Wired,High,No,Edge,Blockchain
+Manufacturing,Low,Medium,Wired,Low,Yes,Cloud,MQTT
+Manufacturing,Low,High,Wired,Medium,No,Cloud,SCADA
+Retail,High,Medium,Wired,High,No,Edge,PLCs
+Healthcare,High,High,Wired,Low,Yes,Cloud,AI/ML
+Manufacturing,Low,Low,Wireless,Medium,No,Edge,OPC UA
+Manufacturing,High,Low,Wired,High,No,Edge,OPC UA
+Manufacturing,Low,Medium,Wireless,Low,Yes,Cloud,Cloud Computing
+Agriculture,Medium,Low,Wireless,Medium,No,On-Premise,Blockchain
+Energy,High,Low,Wireless,High,Yes,On-Premise,SCADA
+Manufacturing,Medium,High,Wireless,High,Yes,Cloud,OPC UA
+Retail,Medium,High,Wired,Low,No,On-Premise,SCADA
+Agriculture,High,High,Wired,Medium,Yes,Cloud,AI/ML
+Retail,Medium,High,Wireless,Low,No,Edge,Edge Computing
+Energy,High,Medium,Wireless,High,Yes,Edge,PLCs
+Agriculture,High,Medium,Wireless,Medium,No,Cloud,Cloud Computing
+Manufacturing,Medium,Low,Wired,High,No,Edge,SCADA
+Manufacturing,High,Low,Wireless,High,Yes,Edge,OPC UA
+Healthcare,High,Medium,Wireless,High,Yes,On-Premise,Blockchain
+Manufacturing,Medium,Low,Wired,High,No,Edge,SCADA
+Healthcare,Medium,Low,Wireless,High,Yes,Edge,Blockchain
+Agriculture,Medium,Low,Wired,Medium,Yes,Edge,SCADA
+Manufacturing,Low,High,Wireless,Low,Yes,Edge,MQTT
+Healthcare,Low,High,Wireless,High,Yes,On-Premise,Blockchain
+Retail,High,Low,Wireless,Medium,No,Cloud,SCADA
+Transportation,Low,Low,Wired,High,No,On-Premise,SCADA
+Transportation,High,Medium,Wireless,Medium,Yes,Edge,OPC UA
+Healthcare,Low,High,Wired,Medium,No,Edge,OPC UA
+Energy,High,Medium,Wired,High,No,On-Premise,Edge Computing
+Retail,High,Low,Wired,High,Yes,Edge,SCADA
+Manufacturing,Medium,High,Wired,High,No,Cloud,AI/ML
+Transportation,Low,High,Wired,Medium,No,On-Premise,PLCs
+Retail,High,High,Wireless,High,Yes,Cloud,AI/ML
+Energy,Low,High,Wired,High,No,Cloud,AI/ML
+Agriculture,High,Low,Wired,Low,Yes,Cloud,AI/ML
+Energy,High,Low,Wired,High,Yes,Edge,SCADA
+Transportation,Medium,High,Wireless,Medium,No,Cloud,SCADA
+Energy,High,Medium,Wireless,High,Yes,On-Premise,OPC UA
+Energy,Low,Low,Wireless,Low,No,On-Premise,Cloud Computing
+Healthcare,High,High,Wired,Medium,No,Cloud,MQTT
+Manufacturing,Low,Medium,Wired,Medium,No,Cloud,OPC UA
+Energy,Medium,Low,Wireless,Low,No,Cloud,Edge Computing
+Healthcare,Low,Low,Wired,High,No,Cloud,Blockchain
+Transportation,Low,High,Wireless,Medium,No,On-Premise,Blockchain
+Healthcare,Low,Low,Wireless,High,No,Edge,Blockchain
+Healthcare,Medium,High,Wireless,Low,Yes,Edge,Edge Computing
+Transportation,Low,Medium,Wired,Medium,No,On-Premise,SCADA
+Manufacturing,High,Low,Wireless,High,No,Cloud,OPC UA
+Healthcare,Medium,Low,Wired,Low,Yes,Cloud,SCADA
+Retail,High,Medium,Wireless,Low,No,Edge,Edge Computing
+Agriculture,Low,High,Wireless,High,Yes,Cloud,AI/ML
+Retail,Medium,Low,Wireless,High,No,Edge,Edge Computing
+Transportation,Medium,Low,Wireless,Low,Yes,On-Premise,OPC UA
+Agriculture,Medium,Low,Wired,Low,No,Cloud,SCADA
+Retail,Medium,High,Wireless,Medium,Yes,On-Premise,Edge Computing
+Manufacturing,High,Medium,Wired,Low,Yes,Edge,Cloud Computing
+Manufacturing,Low,Medium,Wireless,High,No,On-Premise,Cloud Computing
+Energy,Medium,High,Wired,Medium,Yes,On-Premise,MQTT
+Retail,Low,High,Wired,High,Yes,On-Premise,AI/ML
+Agriculture,Low,Low,Wired,Low,No,Edge,SCADA
+Transportation,Low,High,Wireless,High,Yes,Cloud,Cloud Computing
+Energy,Medium,Low,Wired,Medium,No,Cloud,SCADA
+Transportation,Low,High,Wireless,High,Yes,Edge,OPC UA
+Retail,High,High,Wireless,High,No,Cloud,Blockchain
+Retail,Medium,Low,Wired,Medium,Yes,Edge,SCADA
+Retail,High,Low,Wired,High,No,On-Premise,SCADA
+Agriculture,Medium,Low,Wireless,High,Yes,Edge,Edge Computing
+Agriculture,Medium,Low,Wireless,High,Yes,On-Premise,AI/ML
+Retail,Low,Medium,Wired,Medium,No,Edge,MQTT
+Transportation,Low,Medium,Wireless,High,No,Edge,OPC UA
+Healthcare,Low,Medium,Wireless,Medium,No,Edge,OPC UA
+Manufacturing,Low,Medium,Wireless,Low,Yes,Cloud,Blockchain
+Manufacturing,Medium,Low,Wireless,Low,Yes,On-Premise,Cloud Computing
+Agriculture,High,High,Wireless,High,No,Cloud,MQTT
+Transportation,Low,High,Wireless,Medium,Yes,Cloud,AI/ML
+Manufacturing,Medium,Low,Wireless,Low,No,Cloud,Edge Computing
+Manufacturing,Low,Medium,Wireless,Low,No,Edge,Blockchain
+Retail,Medium,High,Wired,High,Yes,On-Premise,PLCs
+Retail,Medium,High,Wireless,High,Yes,Edge,Edge Computing
+Healthcare,High,Medium,Wireless,Medium,Yes,Cloud,AI/ML
+Energy,High,High,Wireless,High,Yes,On-Premise,Blockchain
+Transportation,High,Medium,Wired,Medium,Yes,Cloud,AI/ML
+Transportation,High,Low,Wireless,Medium,No,Cloud,MQTT
+Energy,High,Medium,Wired,Low,Yes,On-Premise,OPC UA
+Retail,High,Low,Wired,Medium,Yes,Cloud,AI/ML
+Manufacturing,Medium,Medium,Wireless,Low,No,Cloud,SCADA
+Manufacturing,Low,High,Wired,Low,Yes,Cloud,Cloud Computing
+Agriculture,High,High,Wireless,Low,Yes,On-Premise,OPC UA
+Energy,Low,High,Wired,High,Yes,Cloud,PLCs
+Retail,Low,High,Wired,Medium,No,On-Premise,AI/ML
+Retail,Low,Low,Wired,Medium,No,Edge,SCADA
+Energy,Low,Low,Wired,High,Yes,Cloud,SCADA
+Manufacturing,High,Medium,Wireless,Low,No,Edge,PLCs
+Healthcare,Low,Medium,Wired,High,No,On-Premise,Blockchain
+Healthcare,Medium,High,Wired,Medium,Yes,On-Premise,OPC UA
+Energy,Low,High,Wireless,High,No,Edge,AI/ML
+Retail,High,Low,Wireless,Medium,Yes,Edge,Cloud Computing
+Healthcare,Medium,Medium,Wired,Medium,Yes,Edge,Edge Computing
+Retail,Medium,Low,Wireless,Medium,Yes,Cloud,OPC UA
+Agriculture,Low,Low,Wireless,Low,No,Cloud,Cloud Computing
+Transportation,High,High,Wired,High,No,Cloud,AI/ML
+Healthcare,High,Medium,Wireless,Medium,No,Edge,SCADA
+Manufacturing,Medium,High,Wireless,Low,Yes,Edge,Edge Computing
+Retail,Low,Low,Wired,High,No,Cloud,SCADA
+Agriculture,Medium,High,Wired,High,No,On-Premise,AI/ML
+Manufacturing,High,Medium,Wireless,High,No,Cloud,OPC UA
+Retail,Medium,Medium,Wireless,High,No,On-Premise,SCADA
+Healthcare,High,High,Wireless,Medium,Yes,On-Premise,PLCs
+Energy,Medium,Low,Wired,Low,Yes,On-Premise,SCADA
+Healthcare,High,Low,Wireless,High,Yes,Cloud,Blockchain
+Manufacturing,Low,Low,Wired,High,No,On-Premise,SCADA
+Manufacturing,Low,Medium,Wireless,Medium,Yes,Cloud,Edge Computing
+Healthcare,High,Low,Wired,Medium,Yes,Edge,SCADA
+Energy,Medium,High,Wireless,Low,Yes,On-Premise,MQTT
+Agriculture,Low,High,Wired,Medium,No,On-Premise,PLCs
+Healthcare,Medium,High,Wireless,Medium,No,Edge,Edge Computing
+Transportation,Low,Medium,Wired,Low,Yes,Cloud,PLCs
+Manufacturing,Low,High,Wireless,Medium,Yes,Edge,PLCs
+Agriculture,Low,Low,Wireless,High,Yes,Cloud,PLCs
+Transportation,Medium,Low,Wireless,High,No,On-Premise,Edge Computing
+Transportation,Low,Low,Wireless,Low,Yes,On-Premise,OPC UA
+Energy,Low,High,Wired,High,Yes,Edge,OPC UA
+Energy,Medium,Low,Wireless,Low,No,On-Premise,Blockchain
+Manufacturing,Medium,High,Wired,Low,Yes,Edge,Edge Computing
+Energy,High,High,Wired,Low,Yes,Cloud,AI/ML
+Healthcare,Low,Medium,Wired,Medium,No,Edge,AI/ML
+Energy,Low,Medium,Wired,Medium,No,On-Premise,Blockchain
+Transportation,High,Low,Wireless,High,No,On-Premise,Blockchain
+Energy,Medium,Medium,Wired,High,Yes,On-Premise,MQTT
+Agriculture,Medium,High,Wireless,Medium,Yes,Edge,Edge Computing
+Transportation,High,High,Wired,High,Yes,On-Premise,MQTT
+Agriculture,Medium,Low,Wired,High,Yes,Edge,SCADA
+Retail,High,Medium,Wireless,Low,Yes,On-Premise,MQTT
+Healthcare,High,Medium,Wired,Medium,No,On-Premise,Edge Computing
+Healthcare,High,Low,Wireless,High,No,Edge,Blockchain
+Retail,Low,Medium,Wireless,High,Yes,Edge,PLCs
+Energy,High,Medium,Wired,High,Yes,Cloud,AI/ML
+Transportation,Medium,High,Wireless,Low,No,Edge,Edge Computing
+Retail,High,Medium,Wireless,Low,Yes,Edge,Cloud Computing
+Healthcare,Medium,Low,Wireless,Medium,No,On-Premise,AI/ML
+Transportation,Medium,High,Wired,High,No,Cloud,SCADA
+Energy,Medium,Low,Wired,Low,No,Cloud,SCADA
+Transportation,Low,Low,Wired,Low,No,Cloud,SCADA
+Manufacturing,Medium,High,Wireless,High,Yes,On-Premise,SCADA
+Manufacturing,Low,Medium,Wireless,Medium,Yes,On-Premise,MQTT
+Manufacturing,Medium,Medium,Wired,Low,No,Edge,Edge Computing
+Retail,Medium,High,Wireless,Medium,Yes,Edge,Edge Computing
+Manufacturing,Low,Medium,Wired,Medium,Yes,Edge,MQTT
+Retail,Medium,High,Wired,Medium,No,Edge,Edge Computing
+Retail,Low,High,Wired,High,No,On-Premise,SCADA
+Agriculture,High,High,Wired,Medium,No,On-Premise,Blockchain
+Manufacturing,Low,Medium,Wired,High,No,Cloud,Edge Computing
+Agriculture,Medium,High,Wireless,Low,No,Edge,Edge Computing
+Agriculture,Medium,Low,Wired,Low,No,Edge,SCADA
+Manufacturing,Medium,Medium,Wired,Low,Yes,On-Premise,Blockchain
+Energy,Medium,Low,Wireless,High,No,On-Premise,AI/ML
+Agriculture,Low,High,Wireless,High,Yes,On-Premise,PLCs
+Transportation,Medium,Medium,Wireless,High,Yes,Edge,Edge Computing
+Agriculture,Medium,Medium,Wired,Low,No,On-Premise,Edge Computing
+Agriculture,Low,Low,Wired,Medium,Yes,On-Premise,SCADA
+Retail,Medium,High,Wireless,Medium,Yes,On-Premise,Edge Computing
+Energy,Medium,Low,Wireless,Medium,Yes,On-Premise,Blockchain
+Energy,Medium,Low,Wireless,Medium,No,Edge,Edge Computing
+Transportation,Medium,High,Wireless,High,No,Edge,Edge Computing
+Agriculture,Medium,Medium,Wireless,High,No,On-Premise,OPC UA
+Agriculture,Medium,Medium,Wired,High,Yes,On-Premise,Edge Computing
+Energy,Medium,Low,Wireless,Low,Yes,Cloud,AI/ML
+Transportation,Medium,High,Wireless,High,Yes,Edge,Edge Computing
+Manufacturing,Medium,Low,Wired,High,Yes,On-Premise,SCADA
+Energy,High,Medium,Wireless,High,Yes,Cloud,AI/ML
+Manufacturing,High,Medium,Wireless,Medium,No,Edge,AI/ML
+Retail,Low,High,Wired,High,Yes,Edge,OPC UA
+Energy,High,High,Wireless,Medium,No,Edge,PLCs
+Agriculture,Medium,High,Wireless,High,Yes,Edge,Edge Computing
+Retail,Low,High,Wireless,High,No,On-Premise,PLCs
+Manufacturing,Medium,High,Wireless,Medium,Yes,Edge,Edge Computing
+Transportation,Medium,High,Wired,Low,No,On-Premise,Cloud Computing
+Healthcare,High,Low,Wired,Medium,No,Edge,SCADA
+Retail,Medium,Medium,Wireless,Low,No,On-Premise,OPC UA
+Energy,Low,High,Wired,Low,No,Edge,OPC UA
+Healthcare,Low,Low,Wireless,Low,Yes,Edge,SCADA
+Manufacturing,High,Low,Wireless,Medium,No,Edge,OPC UA
+Agriculture,Medium,High,Wireless,High,No,Cloud,OPC UA
+Energy,Medium,High,Wired,Low,Yes,On-Premise,Cloud Computing
+Energy,Low,Medium,Wired,Medium,Yes,Cloud,Cloud Computing
+Agriculture,Low,Medium,Wireless,High,No,Edge,OPC UA
+Retail,High,High,Wired,High,Yes,Cloud,AI/ML
+Retail,High,High,Wired,High,No,On-Premise,PLCs
+Healthcare,High,Medium,Wired,High,No,Edge,Blockchain
+Energy,Medium,Low,Wireless,Low,Yes,On-Premise,SCADA
+Transportation,High,Low,Wireless,Low,No,On-Premise,OPC UA
+Manufacturing,Low,High,Wireless,High,Yes,Edge,OPC UA
+Retail,High,Medium,Wireless,High,No,On-Premise,PLCs
+Manufacturing,Low,High,Wired,High,Yes,On-Premise,AI/ML
+Manufacturing,Medium,Medium,Wired,High,No,Edge,Edge Computing
+Manufacturing,Low,High,Wireless,Medium,Yes,On-Premise,Blockchain
+Manufacturing,Medium,Medium,Wired,Low,Yes,Cloud,PLCs
+Energy,High,Medium,Wired,Medium,No,Edge,Cloud Computing
+Manufacturing,Medium,High,Wireless,Low,Yes,On-Premise,SCADA
+Retail,Medium,High,Wired,High,Yes,Edge,Edge Computing
+Energy,Medium,Low,Wireless,Low,No,Cloud,PLCs
+Transportation,Medium,High,Wireless,Low,Yes,Cloud,MQTT
+Agriculture,Medium,Medium,Wired,Medium,No,On-Premise,Edge Computing
+Transportation,Medium,Medium,Wired,High,Yes,Cloud,Cloud Computing
+Manufacturing,Low,High,Wireless,Low,No,Cloud,Cloud Computing
+Manufacturing,Medium,Low,Wireless,High,Yes,Edge,Edge Computing
+Energy,Medium,Medium,Wired,Low,Yes,Cloud,SCADA
+Energy,Low,Low,Wireless,Medium,Yes,Cloud,OPC UA
+Agriculture,Medium,High,Wired,Medium,Yes,On-Premise,Cloud Computing
+Manufacturing,Medium,Medium,Wireless,High,No,Cloud,MQTT
+Agriculture,High,Low,Wired,Medium,No,Cloud,SCADA
+Transportation,Medium,Low,Wired,Low,Yes,Edge,SCADA
+Agriculture,Low,Low,Wired,High,No,Cloud,SCADA
+Healthcare,Low,High,Wired,Medium,No,Cloud,Blockchain
+Agriculture,High,Medium,Wired,High,No,Edge,AI/ML
+Manufacturing,Low,Low,Wired,Medium,No,Edge,SCADA
+Agriculture,High,Low,Wired,Low,No,On-Premise,SCADA
+Manufacturing,High,Medium,Wireless,High,Yes,On-Premise,Cloud Computing
+Agriculture,Low,Medium,Wired,Low,No,Cloud,Edge Computing
+Transportation,High,Medium,Wired,High,Yes,Cloud,AI/ML
+Retail,Medium,High,Wireless,Low,No,On-Premise,Cloud Computing
+Manufacturing,Medium,Low,Wired,High,Yes,Edge,SCADA
+Manufacturing,High,Medium,Wireless,Low,Yes,On-Premise,Edge Computing
+Manufacturing,High,Low,Wireless,High,Yes,Cloud,OPC UA
+Healthcare,High,Low,Wired,Low,Yes,Cloud,AI/ML
+Transportation,Low,Low,Wireless,High,No,Cloud,MQTT
+Energy,Medium,Medium,Wireless,Medium,Yes,On-Premise,SCADA
+Healthcare,High,Low,Wireless,Medium,Yes,Cloud,AI/ML
+Manufacturing,Medium,Medium,Wireless,High,Yes,On-Premise,OPC UA
+Retail,High,Low,Wireless,High,Yes,Edge,PLCs
+Transportation,Medium,Low,Wired,Medium,Yes,Cloud,SCADA
+Healthcare,High,High,Wired,Low,No,Edge,Cloud Computing
+Transportation,Low,Low,Wired,High,No,Edge,SCADA
+Agriculture,High,Low,Wireless,Medium,No,On-Premise,Cloud Computing
+Healthcare,Medium,Medium,Wired,High,No,Cloud,Blockchain
+Healthcare,Low,High,Wired,Medium,No,Edge,MQTT
+Retail,High,High,Wired,Low,Yes,Cloud,AI/ML
+Agriculture,Medium,Medium,Wireless,High,No,Cloud,Cloud Computing
+Manufacturing,High,Low,Wireless,High,Yes,Cloud,OPC UA
+Retail,Medium,High,Wireless,Medium,Yes,On-Premise,OPC UA
+Retail,Medium,High,Wired,Low,No,On-Premise,Edge Computing
+Agriculture,Medium,Low,Wireless,Medium,Yes,Cloud,Blockchain
+Energy,Medium,Medium,Wired,Medium,No,Edge,Edge Computing
+Manufacturing,Low,Medium,Wireless,Low,No,Edge,MQTT
+Manufacturing,Medium,High,Wireless,Low,No,On-Premise,PLCs
+Manufacturing,High,Medium,Wired,Medium,No,On-Premise,Edge Computing
+Retail,Low,Low,Wired,Low,No,On-Premise,SCADA
+Energy,High,High,Wired,High,Yes,On-Premise,AI/ML
+Manufacturing,Medium,Low,Wireless,High,Yes,Edge,Edge Computing
+Retail,Medium,Low,Wired,High,Yes,Cloud,SCADA
+Transportation,Low,Medium,Wired,Low,Yes,Edge,Edge Computing
+Agriculture,High,High,Wireless,Medium,Yes,Edge,Edge Computing
+Manufacturing,Medium,High,Wired,Low,No,Cloud,MQTT
+Manufacturing,Low,Low,Wireless,Medium,No,On-Premise,Cloud Computing
+Energy,High,Low,Wired,High,Yes,Cloud,AI/ML
+Energy,High,Low,Wireless,Low,No,On-Premise,MQTT
+Retail,Low,Medium,Wired,Low,No,Cloud,Edge Computing
+Transportation,Low,Low,Wireless,Low,No,Edge,OPC UA
+Manufacturing,High,Low,Wireless,High,Yes,Cloud,OPC UA
+Transportation,High,Medium,Wireless,High,No,Cloud,SCADA
+Transportation,High,Medium,Wired,Low,No,Edge,Cloud Computing
+Manufacturing,Medium,Low,Wireless,Low,Yes,Edge,Edge Computing
+Manufacturing,Medium,Medium,Wireless,High,Yes,On-Premise,SCADA
+Agriculture,Low,High,Wireless,Low,Yes,Edge,Blockchain
+Manufacturing,High,Low,Wireless,Low,No,Cloud,OPC UA
+Retail,Medium,Low,Wireless,Medium,No,Edge,Edge Computing
+Energy,High,Low,Wired,Low,Yes,Edge,SCADA
+Energy,High,Medium,Wired,Low,Yes,On-Premise,Edge Computing
+Transportation,Low,High,Wired,High,Yes,Cloud,OPC UA
+Manufacturing,Medium,Low,Wireless,High,Yes,On-Premise,AI/ML
+Agriculture,Medium,Low,Wireless,Low,Yes,Edge,Edge Computing
+Retail,Low,Medium,Wireless,Low,No,Edge,Cloud Computing
+Manufacturing,High,Low,Wired,Medium,No,Cloud,OPC UA
+Energy,Medium,Medium,Wired,High,Yes,Cloud,AI/ML
+Healthcare,Medium,Medium,Wired,Low,No,Edge,Edge Computing
+Energy,High,High,Wired,Low,Yes,On-Premise,PLCs
+Energy,Medium,Medium,Wireless,Low,Yes,On-Premise,Edge Computing
+Energy,Medium,Medium,Wireless,Low,No,Cloud,PLCs
+Agriculture,Low,High,Wireless,Low,No,Cloud,Blockchain
+Transportation,Medium,Medium,Wireless,Low,Yes,Edge,Edge Computing
+Manufacturing,Low,Medium,Wireless,Low,No,Edge,OPC UA
+Transportation,Low,Low,Wireless,Low,No,Edge,AI/ML
+Healthcare,Medium,Low,Wireless,Medium,Yes,On-Premise,Blockchain
+Manufacturing,Medium,Low,Wired,Medium,Yes,On-Premise,SCADA
+Healthcare,Low,High,Wireless,Medium,No,Cloud,Cloud Computing
+Energy,High,High,Wired,Low,Yes,Edge,PLCs
+Agriculture,High,Low,Wired,Low,Yes,On-Premise,SCADA
+Transportation,High,Low,Wireless,Medium,No,Cloud,Blockchain
+Healthcare,Medium,Low,Wireless,High,No,Edge,Blockchain
+Energy,Low,High,Wireless,Medium,No,Cloud,PLCs
+Manufacturing,Medium,High,Wireless,High,Yes,Edge,Edge Computing
+Healthcare,Low,High,Wireless,High,Yes,Edge,Blockchain
+Agriculture,High,Low,Wireless,Low,Yes,On-Premise,Edge Computing
+Energy,Medium,Medium,Wired,Low,Yes,Cloud,SCADA
+Transportation,Medium,High,Wired,High,No,Cloud,Blockchain
+Healthcare,High,Medium,Wired,High,Yes,On-Premise,Blockchain
+Healthcare,Medium,Medium,Wireless,High,Yes,Cloud,Blockchain
+Transportation,High,High,Wired,High,No,On-Premise,Cloud Computing
+Manufacturing,Low,High,Wireless,High,Yes,On-Premise,AI/ML
+Agriculture,Low,Low,Wireless,High,No,On-Premise,AI/ML
+Manufacturing,Medium,Medium,Wired,High,No,Edge,Edge Computing
+Transportation,High,Medium,Wireless,Medium,Yes,Cloud,AI/ML
+Energy,Medium,Low,Wireless,Low,Yes,On-Premise,Edge Computing
+Healthcare,Low,Low,Wired,Low,Yes,Edge,SCADA
+Transportation,Medium,Low,Wireless,High,No,On-Premise,AI/ML
+Energy,High,High,Wired,Low,Yes,On-Premise,AI/ML
+Manufacturing,Low,High,Wireless,Medium,Yes,On-Premise,MQTT
+Energy,High,Medium,Wired,Low,No,Edge,Blockchain
+Agriculture,Low,Medium,Wired,Low,No,Edge,AI/ML
+Energy,Medium,High,Wired,Low,Yes,On-Premise,OPC UA
+Healthcare,Medium,Low,Wired,Low,Yes,Cloud,SCADA
+Healthcare,High,Low,Wired,Low,Yes,Cloud,AI/ML
+Retail,Low,High,Wired,Low,Yes,Edge,PLCs
+Agriculture,Low,Low,Wireless,Low,No,On-Premise,OPC UA
+Transportation,High,High,Wireless,High,Yes,Edge,SCADA
+Agriculture,High,High,Wireless,High,No,Edge,Cloud Computing
+Transportation,Medium,High,Wired,Low,No,On-Premise,SCADA
+Transportation,Medium,Low,Wireless,Low,Yes,Cloud,PLCs
+Healthcare,Low,Low,Wired,High,No,Cloud,Blockchain
+Manufacturing,Low,Medium,Wired,Medium,Yes,On-Premise,SCADA
+Healthcare,Low,Low,Wireless,Low,No,On-Premise,Edge Computing
+Manufacturing,High,Medium,Wired,High,No,Cloud,Cloud Computing
+Agriculture,Medium,Medium,Wired,High,Yes,Edge,Edge Computing
+Energy,Low,High,Wireless,High,No,On-Premise,Blockchain
+Retail,Low,Medium,Wired,Medium,No,On-Premise,Blockchain
+Healthcare,Low,Medium,Wired,High,Yes,On-Premise,Blockchain
+Transportation,High,Low,Wireless,Low,No,Cloud,Blockchain
+Energy,Medium,High,Wireless,High,Yes,Cloud,Blockchain
+Manufacturing,Medium,High,Wireless,Low,No,On-Premise,MQTT
+Healthcare,High,High,Wired,High,Yes,On-Premise,Blockchain
+Retail,Low,Medium,Wireless,Low,Yes,On-Premise,OPC UA
+Manufacturing,Medium,Low,Wired,Medium,Yes,On-Premise,SCADA
+Healthcare,Low,Medium,Wireless,Low,No,On-Premise,OPC UA
+Manufacturing,Low,Low,Wireless,Low,No,Cloud,Cloud Computing
+Retail,Medium,Low,Wired,High,Yes,On-Premise,SCADA
+Agriculture,Medium,High,Wired,High,Yes,Cloud,Blockchain
+Transportation,Medium,Low,Wireless,High,No,Edge,Edge Computing
+Transportation,Low,Medium,Wireless,Medium,No,On-Premise,PLCs
+Agriculture,Medium,Low,Wired,High,Yes,On-Premise,SCADA
+Transportation,High,Low,Wireless,Medium,Yes,On-Premise,AI/ML
+Agriculture,Low,Medium,Wired,Medium,Yes,Edge,MQTT
+Healthcare,Medium,High,Wired,Medium,No,On-Premise,Edge Computing
+Agriculture,High,Medium,Wireless,Low,Yes,On-Premise,Edge Computing
+Healthcare,Low,Low,Wireless,Medium,Yes,Cloud,AI/ML
+Energy,Medium,Medium,Wired,High,No,Edge,Edge Computing
+Agriculture,Medium,High,Wireless,High,No,On-Premise,SCADA
+Agriculture,High,Medium,Wireless,Medium,No,Edge,AI/ML
+Energy,Low,Low,Wireless,Medium,Yes,Edge,SCADA
+Retail,Low,High,Wired,Low,No,Cloud,Cloud Computing
+Healthcare,Low,Medium,Wireless,High,No,Cloud,Blockchain
+Energy,Medium,Medium,Wireless,Medium,Yes,Edge,Edge Computing
+Retail,Medium,Medium,Wireless,High,Yes,Edge,Edge Computing
+Manufacturing,Medium,Medium,Wired,Low,No,Edge,Edge Computing
+Manufacturing,High,High,Wired,High,No,Cloud,SCADA
+Manufacturing,Medium,High,Wireless,Medium,No,Edge,Edge Computing
+Manufacturing,Low,Low,Wired,High,No,Cloud,SCADA
+Healthcare,High,Low,Wired,Low,No,Cloud,SCADA
+Manufacturing,High,Low,Wired,Medium,Yes,On-Premise,OPC UA
+Energy,Medium,Low,Wireless,High,Yes,On-Premise,Cloud Computing
+Manufacturing,Medium,Medium,Wireless,Medium,Yes,Cloud,OPC UA
+Retail,Low,High,Wireless,Medium,Yes,On-Premise,Blockchain
+Transportation,Medium,Medium,Wired,High,Yes,On-Premise,AI/ML
+Energy,High,High,Wired,High,No,Edge,PLCs
+Retail,High,Low,Wireless,Medium,Yes,Cloud,AI/ML
+Transportation,Medium,Low,Wired,Medium,Yes,Cloud,SCADA
+Healthcare,Low,Low,Wired,High,No,On-Premise,Blockchain
+Transportation,Medium,Medium,Wireless,High,No,On-Premise,Edge Computing
+Retail,Medium,Medium,Wireless,Medium,No,On-Premise,OPC UA
+Transportation,Low,Medium,Wireless,High,Yes,On-Premise,Blockchain
+Manufacturing,Medium,Low,Wireless,High,Yes,Edge,Edge Computing
+Healthcare,Medium,Low,Wireless,Medium,No,Edge,Edge Computing
+Retail,High,High,Wireless,Medium,Yes,On-Premise,Blockchain
+Manufacturing,Medium,Low,Wireless,High,Yes,Edge,Edge Computing
+Retail,Medium,Medium,Wired,High,Yes,On-Premise,SCADA
+Agriculture,Medium,Low,Wired,High,No,Cloud,SCADA
+Retail,High,Medium,Wireless,Low,Yes,On-Premise,Edge Computing
+Healthcare,Low,High,Wireless,Low,Yes,Edge,PLCs
+Healthcare,High,High,Wired,Low,No,Cloud,PLCs
+Retail,Low,High,Wireless,Low,No,Cloud,PLCs
+Healthcare,Low,Low,Wired,Medium,Yes,On-Premise,SCADA
+Agriculture,Medium,Low,Wired,Low,No,Edge,SCADA
+Manufacturing,Medium,High,Wired,Medium,Yes,On-Premise,PLCs
+Retail,Low,Medium,Wired,High,No,Cloud,Edge Computing
+Manufacturing,Medium,Low,Wireless,High,Yes,On-Premise,Blockchain
+Healthcare,Medium,High,Wired,Medium,No,Cloud,Edge Computing
+Energy,High,Medium,Wireless,Medium,No,Edge,Edge Computing
+Retail,Medium,Low,Wireless,Medium,Yes,On-Premise,SCADA
+Energy,High,Medium,Wireless,Medium,No,On-Premise,SCADA
+Transportation,Medium,Low,Wired,Low,No,Edge,SCADA
+Energy,High,Medium,Wireless,Medium,Yes,Edge,OPC UA
+Manufacturing,High,Low,Wired,Low,Yes,Cloud,OPC UA
+Energy,Medium,Medium,Wired,High,Yes,On-Premise,Edge Computing
+Retail,Medium,Medium,Wireless,Medium,No,Edge,Edge Computing
+Transportation,High,High,Wired,Medium,Yes,Edge,SCADA
+Agriculture,Medium,High,Wired,Low,No,On-Premise,AI/ML
+Healthcare,High,Medium,Wired,Medium,No,Cloud,Edge Computing
+Agriculture,High,Medium,Wired,High,Yes,Edge,Edge Computing
+Transportation,Low,Low,Wireless,Medium,No,Cloud,MQTT
+Manufacturing,Low,Medium,Wireless,Low,No,Cloud,AI/ML
+Transportation,Medium,Medium,Wireless,Low,No,On-Premise,Blockchain
+Retail,Medium,High,Wired,Medium,Yes,Edge,Edge Computing
+Healthcare,High,High,Wireless,High,No,On-Premise,Blockchain
+Energy,High,High,Wireless,Medium,Yes,Cloud,AI/ML
+Energy,Medium,Low,Wired,Low,Yes,Edge,SCADA
+Healthcare,Medium,Low,Wireless,Low,Yes,Edge,Edge Computing
+Retail,High,High,Wired,Low,Yes,On-Premise,Blockchain
+Agriculture,Low,Low,Wired,High,Yes,Cloud,SCADA
+Agriculture,Low,Low,Wired,Medium,Yes,On-Premise,SCADA
+Healthcare,Medium,High,Wireless,Low,No,Edge,Edge Computing
+Manufacturing,High,Low,Wireless,High,No,Edge,OPC UA
+Energy,Low,Medium,Wireless,High,Yes,On-Premise,Cloud Computing
+Manufacturing,High,Medium,Wired,High,No,Edge,OPC UA
+Retail,Low,Low,Wired,High,Yes,Edge,SCADA
+Agriculture,High,High,Wireless,Medium,Yes,Cloud,AI/ML
+Retail,High,Medium,Wireless,Low,No,On-Premise,OPC UA
+Agriculture,High,Medium,Wired,High,Yes,Cloud,AI/ML
+Transportation,High,Low,Wired,Medium,Yes,Cloud,AI/ML
+Manufacturing,Medium,Low,Wired,Medium,No,Edge,SCADA
+Energy,High,Low,Wired,High,No,On-Premise,SCADA
+Manufacturing,Medium,Medium,Wireless,High,No,Cloud,Cloud Computing
+Retail,Low,Medium,Wireless,High,No,On-Premise,Blockchain
+Energy,Medium,Low,Wireless,Medium,No,Edge,Edge Computing
+Manufacturing,Medium,Low,Wired,Medium,Yes,Edge,SCADA
+Manufacturing,Medium,Medium,Wireless,High,Yes,Cloud,OPC UA
+Retail,Low,High,Wired,High,Yes,On-Premise,Cloud Computing
+Transportation,Low,High,Wired,Medium,Yes,Edge,AI/ML
+Agriculture,Low,Low,Wireless,Medium,Yes,On-Premise,Cloud Computing
+Energy,Low,Low,Wired,High,No,Cloud,SCADA
+Energy,Low,Low,Wired,High,No,Cloud,SCADA
+Manufacturing,Medium,Low,Wireless,Low,No,Cloud,MQTT
+Transportation,Medium,Low,Wired,High,No,On-Premise,SCADA
+Transportation,Low,High,Wired,Low,Yes,Edge,Blockchain
+Agriculture,High,High,Wireless,Low,No,Edge,OPC UA
+Retail,High,Low,Wired,Low,Yes,Edge,SCADA
+Retail,High,Medium,Wireless,Medium,Yes,Cloud,AI/ML
+Healthcare,Medium,High,Wired,Medium,No,On-Premise,OPC UA
+Retail,High,Low,Wireless,Medium,No,On-Premise,OPC UA
+Agriculture,High,Medium,Wireless,Low,No,Cloud,Cloud Computing
+Retail,High,Medium,Wireless,Medium,Yes,On-Premise,Edge Computing
+Manufacturing,High,Low,Wireless,High,No,On-Premise,OPC UA
